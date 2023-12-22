@@ -93,8 +93,9 @@ def getCheminForImage(nomfichier):
     result = f"assets/plots/{parts[1]}_plot.svg"
     return result
 
-# 
 target_classes = []
+
+# Version Window
 for file in glob.glob("assets/plots/*.svg"):
     # Utilisez split pour séparer le chemin du fichier
     parts = file.split("/")
@@ -117,6 +118,21 @@ for file in glob.glob("assets/plots/*.svg"):
     
     # Ajoute à la liste avec le préfixe "schema:"
     target_classes.append(f"schema:{cname}")
+
+# Version Mac
+# for file in glob.glob("assets/plots/*.svg"):
+# Utilisez split pour séparer le chemin du fichier
+#   parts = file.split("/")
+
+#  fname = parts[2]
+# parts2 = fname.split(".")
+# Extrait le premier élément après "plots"
+# newFname =parts2[0]
+
+# cname = newFname.split("_plot")[0]
+# if cname != "Intangible":
+# target_classes.append(f"schema:{cname}")
+
 
 # sunburst
 data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
