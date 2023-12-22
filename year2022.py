@@ -34,14 +34,15 @@ def content_2022(data_plotly_sunburst, target_classes):
         """
     )
 
-    # figure = px.sunburst(
-    #     data_plotly_sunburst,
-    #     ids="ids",
-    #     names="names",
-    #     parents="parents",
-    #     values="values",
-    # )
-    figure = px.treemap(
+    figureSunburst = px.sunburst(
+        data_plotly_sunburst,
+        ids="ids",
+        names="names",
+        parents="parents",
+        values="values",
+    )
+
+    figureTreemap = px.treemap(
         data_plotly_sunburst,
         ids="ids",
         names="names",
@@ -60,10 +61,16 @@ def content_2022(data_plotly_sunburst, target_classes):
         "vertical-align": "right",
     },
 
-    # Display the Plotly figure using st.plotly_chart
-    st.plotly_chart(figure, use_container_width=True, style=style)
+    # Display the Sunburst figure using st.plotly_chart
+    st.write("## Sunburst")
+    st.plotly_chart(figureSunburst, use_container_width=True, style=style)
+    st.markdown("---")
+    # Display the Treemap figure using st.plotly_chart
+    st.write("## Treemap")
+    st.plotly_chart(figureTreemap, use_container_width=True, style=style)
 
     st.markdown("---")
+    st.write("## Upset Plot")
     st.markdown(
         """
         Per-class top-10 property combinations.
