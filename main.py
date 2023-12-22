@@ -13,6 +13,9 @@ from year2022 import content_2022
 from newStyle import content_new_style
 from parse import parseWindow
 from parse import parseMac
+from dataCount import dataWithIntangible
+from dataCount import dataWithoutIntangible
+
 
 
 
@@ -140,7 +143,6 @@ parseWindow(target_classes)
 # if cname != "Intangible":
 # target_classes.append(f"schema:{cname}")
 
-
 # sunburst
 data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
 with open("data/count.json", "r") as file:
@@ -149,6 +151,7 @@ with open("data/count.json", "r") as file:
     itemlist = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
 
     nodelist = []
+    print(nodelist)
     for generation, parent in itemlist:
         if "schema:Intangible" in json.dumps(parent):
             continue
@@ -178,6 +181,11 @@ with open("data/count.json", "r") as file:
         data_plotly_sunburst["values"].append(node._value)
         data_plotly_sunburst["parents"].append(node._parent)
 
+
+data_plotly_sunburst = dataWithoutIntangible()
+data_plotly_treemap = dataWithIntangible()
+
+
 # Define content show, sidebar
 def main():
     content_sidebar()
@@ -197,7 +205,7 @@ def content_sidebar():
     if selected_tab =="Welcome page":
         content_welcome()
     if selected_tab =="Data from 2022":
-        content_2022(data_plotly_sunburst,target_classes)
+        content_2022(data_plotly_sunburst,data_plotly_treemap,target_classes)
     if selected_tab =="New Data from 2023":
         content_2023(data_plotly_sunburst,target_classes)
     if selected_tab =="Comparison between the two dataset":
