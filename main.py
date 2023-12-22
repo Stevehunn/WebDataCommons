@@ -11,6 +11,10 @@ from comparison import content_comparison
 from year2023 import content_2023
 from year2022 import content_2022
 from newStyle import content_new_style
+from parse import parseWindow
+from parse import parseMac
+
+
 
 # Custom CSS
 custom_css = """
@@ -94,30 +98,33 @@ def getCheminForImage(nomfichier):
     return result
 
 target_classes = []
+# Parese Data from target classes
+parseWindow(target_classes)
+#parseMac(target_classes)
 
 # Version Window
-for file in glob.glob("assets/plots/*.svg"):
+#for file in glob.glob("assets/plots/*.svg"):
     # Utilisez split pour séparer le chemin du fichier
-    parts = file.split("/")
+    #parts = file.split("/")
     
     # Extrait le premier élément après "assets"
-    fname = parts[1]  # parts[0] est "assets", parts[1] est "plots"
+    #fname = parts[1]  # parts[0] est "assets", parts[1] est "plots"
 
-    parts2 = fname.split("plots")
+    #parts2 = fname.split("plots")
     # Extrait le premier élément après "plots"
-    newFname =parts2[1]
+    #newFname =parts2[1]
 
     # Utiliser split pour séparer la chaîne en fonction de "\"
-    parts = newFname.split("\\")
+    #parts = newFname.split("\\")
 
     # Concaténer les parties avec "schema:"
-    newFname ="".join(parts[1:])
+    #newFname ="".join(parts[1:])
 
     # Supprime l'extension ".svg"
-    cname = newFname.split("_plot.svg")[0]
+    #cname = newFname.split("_plot.svg")[0]
     
     # Ajoute à la liste avec le préfixe "schema:"
-    target_classes.append(f"schema:{cname}")
+    #target_classes.append(f"schema:{cname}")
 
 # Version Mac
 # for file in glob.glob("assets/plots/*.svg"):
