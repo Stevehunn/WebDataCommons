@@ -5,10 +5,12 @@ import json
 import glob
 import re
 
+
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
     nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
     return nouveau_contenu
+
 
 def getCheminForImage(nomfichier):
     regexSelect = extraire_contenu_apres_backslash(nomfichier)
@@ -18,6 +20,7 @@ def getCheminForImage(nomfichier):
     # Concaténer les parties avec le format souhaité
     result = f"assets/plots/{parts[1]}_plot.svg"
     return result
+
 
 # 2023 Analyse page Content
 def content_2022(data_plotly_sunburst, target_classes):
@@ -31,12 +34,24 @@ def content_2022(data_plotly_sunburst, target_classes):
         """
     )
 
-    figure = px.sunburst(
+    # figure = px.sunburst(
+    #     data_plotly_sunburst,
+    #     ids="ids",
+    #     names="names",
+    #     parents="parents",
+    #     values="values",
+    # )
+    figure = px.treemap(
         data_plotly_sunburst,
         ids="ids",
         names="names",
         parents="parents",
         values="values",
+        # color= "values",
+        # color_continuous_scale="YlOrRd"
+        color="values",
+        color_continuous_scale=px.colors.diverging.Picnic,  # Choose a diverging color scale
+
     )
     style = {
         "padding": 10,
@@ -54,7 +69,7 @@ def content_2022(data_plotly_sunburst, target_classes):
         Per-class top-10 property combinations.
         In the following upset plots, you can select a Schema.org class and display the most used property combinations (top-10).
         All these 776 plots have been rendered based on the Schema.org characteristic sets we pre-computed and made available at [https://zenodo.org/records/8167689](https://zenodo.org/records/8167689)
-    
+
         """
     )
     # nomFichierAOuvrir = "assets/plots/3DModel_plot.svg"

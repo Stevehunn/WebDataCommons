@@ -150,6 +150,8 @@ with open("data/count.json", "r") as file:
 
     nodelist = []
     for generation, parent in itemlist:
+        if "schema:Intangible" in json.dumps(parent):
+            continue
         if parent.get("value") is None:
             parent["value"] = 0
 
