@@ -1,6 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 import plotly.express as px
+import pandas as pd
 import json
 import glob
 import re
@@ -34,26 +35,16 @@ def content_2022(data_plotly_sunburst, target_classes):
         """
     )
 
-    figureSunburst = px.sunburst(
-        data_plotly_sunburst,
-        ids="ids",
-        names="names",
-        parents="parents",
-        values="values",
-    )
+    # figureSunburst = px.sunburst(
+    #     data_plotly_sunburst,
+    #     ids="ids",
+    #     names="names",
+    #     parents="parents",
+    #     values="values",
+    # )
 
-    figureTreemap = px.treemap(
-        data_plotly_sunburst,
-        ids="ids",
-        names="names",
-        parents="parents",
-        values="values",
-        # color= "values",
-        # color_continuous_scale="YlOrRd"
-        color="values",
-        color_continuous_scale=px.colors.diverging.Picnic,  # Choose a diverging color scale
-
-    )
+    print("Names in Treemap:")
+   
     style = {
         "padding": 10,
         "width": "100%",
@@ -62,12 +53,11 @@ def content_2022(data_plotly_sunburst, target_classes):
     },
 
     # Display the Sunburst figure using st.plotly_chart
-    st.write("## Sunburst")
-    st.plotly_chart(figureSunburst, use_container_width=True, style=style)
-    st.markdown("---")
+    # st.write("## Sunburst")
+    # st.plotly_chart(figureSunburst, use_container_width=True, style=style)
+    # st.markdown("---")
     # Display the Treemap figure using st.plotly_chart
-    st.write("## Treemap")
-    st.plotly_chart(figureTreemap, use_container_width=True, style=style)
+    
 
     st.markdown("---")
     st.write("## Upset Plot")
@@ -86,7 +76,55 @@ def content_2022(data_plotly_sunburst, target_classes):
     # regexTargetClasse
     select = st.selectbox("", target_classes)
     result = getCheminForImage(select)
-    st.image(result)
+    col1, col2 = st.columns(2)
+    
+    with col1:
+      
+      st.image(result)
+    
+    with col2 :
+     
+      
+     df_data_plotly_sunburst = pd.DataFrame(data_plotly_sunburst)
+     #udtae_data = 
 
-    st.markdown("---")
+     # Filtrer le DataFrame en fonction de la sélection
+     filtered_data = df_data_plotly_sunburst[df_data_plotly_sunburst['names'] == select]
+     fig_all_data = px.treemap(df_data_plotly_sunburst, ids="ids",
+                          names="names",
+                          parents="parents",
+                          values="values",
+                          color="values"
+                          )
+     if select:
+    # Récupérer la hiérarchie pour l'élément sélectionné
+      hierarchy = []
+      current_name = select
+      while current_name is not None:
+          hierarchy.insert(0, current_name)
+          current_name = df_data_plotly_sunburst[df_data_plotly_sunburst['names'] == current_name]['parents'].iloc[0]
+
+      # Ajouter la hiérarchie à l'historique
+      st.session_state.selection_history = st.session_state.get("selection_history", [])
+      st.session_state.selection_history.append(hierarchy)
+
+      # Afficher la hiérarchie
+      st.write(f"Hiérarchie : {' > '.join(hierarchy)}")
+
+      # Afficher le treemap avec les données filtrées
+      filtered_data = df_data_plotly_sunburst[df_data_plotly_sunburst['names'] == select]
+      fig_filtered_data = px.treemap(filtered_data, ids="ids",
+                                     names="names",
+                                     parents="parents",
+                                     values="values",
+                                     color="values"
+                                     )
+
+      # Afficher le treemap avec Streamlit
+      st.write("## Treemap avec la sélection")
+      st.plotly_chart(fig_filtered_data, use_container_width=True, style=style)
+     else:
+       st.write("## Treemap")
+       st.plotly_chart(fig_all_data, use_container_width=True, style=style)
+
 

@@ -90,7 +90,8 @@ def extraire_contenu_apres_backslash(ma_ligne):
 
 def getCheminForImage(nomfichier):
     regexSelect = extraire_contenu_apres_backslash(nomfichier)
-    # Utiliser split pour séparer la chaîne en fonction de ":"
+    # Utiliser sp
+    # lit pour séparer la chaîne en fonction de ":"
     parts = regexSelect.split(":")
 
     # Concaténer les parties avec le format souhaité
@@ -99,8 +100,8 @@ def getCheminForImage(nomfichier):
 
 target_classes = []
 # Parese Data from target classes
-parseWindow(target_classes)
-#parseMac(target_classes)
+# parseWindow(target_classes)
+parseMac(target_classes)
 
 # Version Window
 #for file in glob.glob("assets/plots/*.svg"):
@@ -128,17 +129,17 @@ parseWindow(target_classes)
 
 # Version Mac
 # for file in glob.glob("assets/plots/*.svg"):
-# Utilisez split pour séparer le chemin du fichier
+# #Utilisez split pour séparer le chemin du fichier
 #   parts = file.split("/")
 
-#  fname = parts[2]
+# fname = parts[2]
 # parts2 = fname.split(".")
-# Extrait le premier élément après "plots"
+# #Extrait le premier élément après "plots"
 # newFname =parts2[0]
 
 # cname = newFname.split("_plot")[0]
 # if cname != "Intangible":
-# target_classes.append(f"schema:{cname}")
+#  target_classes.append(f"schema:{cname}")
 
 
 # sunburst
