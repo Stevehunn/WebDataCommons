@@ -24,7 +24,7 @@ def getCheminForImage(nomfichier):
 
 
 # 2023 Analyse page Content
-def content_2022(data_plotly_sunburst, target_classes):
+def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
     st.title("""Schema.org annotations observatory in 2022""")
     st.write("### Deep dive into WebDataCommons JSON-LD markup")
     st.markdown("---")
@@ -35,13 +35,6 @@ def content_2022(data_plotly_sunburst, target_classes):
         """
     )
 
-    # figureSunburst = px.sunburst(
-    #     data_plotly_sunburst,
-    #     ids="ids",
-    #     names="names",
-    #     parents="parents",
-    #     values="values",
-    # )
 
     print("Names in Treemap:")
    
