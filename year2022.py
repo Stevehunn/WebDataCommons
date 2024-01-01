@@ -83,43 +83,56 @@ def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
      df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
      
      filtred_data = df_data_plotly_treemap[df_data_plotly_treemap["names"]== select]
+     click= st.button("Afficher tous le treemap")
      
+
+
      # Parcourir le DataFrame et collecter les parents
      for index, row in df_data_plotly_treemap.iterrows():
       parent_name = row['parents']
       name = row['names']
       val= row['values']
       ids = row['ids']
-     
-      if  (parent_name == select):
-        print("entree")
-        parents_d=1
-        dd_data_plotly_sunburst["parents"].append(parent_name)
-        dd_data_plotly_sunburst["names"].append(name)
-        dd_data_plotly_sunburst["values"].append(val)
-        dd_data_plotly_sunburst["ids"].append(ids)
 
-
-     if parents_d == 0 : 
+     if click :
        fig_all_data = px.treemap(
-         filtred_data,
-         ids= "ids",
-         names= "names",
-         parents= "parents",
-         values="values",
-         color= "values"
-     )
-     else:
+           data_plotly_treemap,
+           ids= "ids",
+           names= "names",
+           parents= "parents",
+           values="values",
+           color= "values"
+       )
+     else :
+       if  (parent_name == select):
+          print("entree")
+          parents_d=1
+          dd_data_plotly_sunburst["parents"].append(parent_name)
+          dd_data_plotly_sunburst["names"].append(name)
+          dd_data_plotly_sunburst["values"].append(val)
+          dd_data_plotly_sunburst["ids"].append(ids)
 
-      print(dd_data_plotly_sunburst)
-      fig_all_data = px.treemap(
-         dd_data_plotly_sunburst,
-         ids= "ids",
-         names= "names",
-         parents= "parents",
-         values="values",
-         color= "values"
-     )
+
+       if parents_d == 0 : 
+         fig_all_data = px.treemap(
+           filtred_data,
+           ids= "ids",
+           names= "names",
+           parents= "parents",
+           values="values",
+           color= "values"
+       )
+       else:
+
+        print(dd_data_plotly_sunburst)
+        fig_all_data = px.treemap(
+           dd_data_plotly_sunburst,
+           ids= "ids",
+           names= "names",
+           parents= "parents",
+           values="values",
+           color= "values"
+       )
      st.write("## Treemap")
      st.plotly_chart(fig_all_data, use_container_width=True, style=style, color= "streamlit")
 
