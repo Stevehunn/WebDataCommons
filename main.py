@@ -15,6 +15,8 @@ from parse import parseWindow
 from parse import parseMac
 from dataCount import dataWithIntangible
 from dataCount import dataWithoutIntangible
+from comparaisonTableau import content_comparaonTableau
+
 
 
 
@@ -103,8 +105,8 @@ def getCheminForImage(nomfichier):
 
 target_classes = []
 # Parese Data from target classes
-# parseWindow(target_classes)
-parseMac(target_classes)
+parseWindow(target_classes)
+#parseMac(target_classes)
 
 # Version Window
 #for file in glob.glob("assets/plots/*.svg"):
@@ -201,7 +203,7 @@ def content_sidebar():
     with st.sidebar:
         selected_tab = option_menu(
             menu_title = "Summary",
-            options=["Welcome page","Data from 2022","New Data from 2023","Comparison between the two dataset","New style of chart"],
+            options=["Welcome page","Data from 2022","New Data from 2023","Comparison between the two dataset","New style of chart","Comparaison Table"],
         )
     if selected_tab =="Welcome page":
         content_welcome()
@@ -211,6 +213,8 @@ def content_sidebar():
         content_2023(data_plotly_sunburst,target_classes)
     if selected_tab =="Comparison between the two dataset":
         content_comparison(target_classes)
+    if selected_tab =="Comparaison Table":
+        content_comparaonTableau(target_classes)
     if selected_tab =="New style of chart":
         content_new_style()
 
