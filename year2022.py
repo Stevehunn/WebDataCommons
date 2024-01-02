@@ -7,6 +7,7 @@ import glob
 import re
 
 
+
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
     nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
@@ -76,48 +77,63 @@ def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
       st.image(result)
     
     with col2 :
-     
+     dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
+     parents_d = 0
       
-     df_data_plotly_sunburst = pd.DataFrame(data_plotly_sunburst)
-     #udtae_data = 
+     df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
+     
+     filtred_data = df_data_plotly_treemap[df_data_plotly_treemap["names"]== select]
+     click= st.button("Afficher tous le treemap")
+     
 
-     # Filtrer le DataFrame en fonction de la sélection
-     filtered_data = df_data_plotly_sunburst[df_data_plotly_sunburst['names'] == select]
-     fig_all_data = px.treemap(df_data_plotly_sunburst, ids="ids",
-                          names="names",
-                          parents="parents",
-                          values="values",
-                          color="values"
-                          )
-     if select:
-    # Récupérer la hiérarchie pour l'élément sélectionné
-      hierarchy = []
-      current_name = select
-      while current_name is not None:
-          hierarchy.insert(0, current_name)
-          current_name = df_data_plotly_sunburst[df_data_plotly_sunburst['names'] == current_name]['parents'].iloc[0]
 
-      # Ajouter la hiérarchie à l'historique
-      st.session_state.selection_history = st.session_state.get("selection_history", [])
-      st.session_state.selection_history.append(hierarchy)
+     # Parcourir le DataFrame et collecter les parents
+     for index, row in df_data_plotly_treemap.iterrows():
+      parent_name = row['parents']
+      name = row['names']
+      val= row['values']
+      ids = row['ids']
 
-      # Afficher la hiérarchie
-      st.write(f"Hiérarchie : {' > '.join(hierarchy)}")
+     if click :
+       fig_all_data = px.treemap(
+           data_plotly_treemap,
+           ids= "ids",
+           names= "names",
+           parents= "parents",
+           values="values",
+           color= "values"
+       )
+     else :
+       if  (parent_name == select):
+          print("entree")
+          parents_d=1
+          dd_data_plotly_sunburst["parents"].append(parent_name)
+          dd_data_plotly_sunburst["names"].append(name)
+          dd_data_plotly_sunburst["values"].append(val)
+          dd_data_plotly_sunburst["ids"].append(ids)
 
-      # Afficher le treemap avec les données filtrées
-      filtered_data = df_data_plotly_sunburst[df_data_plotly_sunburst['names'] == select]
-      fig_filtered_data = px.treemap(filtered_data, ids="ids",
-                                     names="names",
-                                     parents="parents",
-                                     values="values",
-                                     color="values"
-                                     )
 
-      # Afficher le treemap avec Streamlit
-      st.write("## Treemap avec la sélection")
-      st.plotly_chart(fig_filtered_data, use_container_width=True, style=style)
-     else:
-       st.write("## Treemap")
-       st.plotly_chart(fig_all_data, use_container_width=True, style=style)
+       if parents_d == 0 : 
+         fig_all_data = px.treemap(
+           filtred_data,
+           ids= "ids",
+           names= "names",
+           parents= "parents",
+           values="values",
+           color= "values"
+       )
+       else:
+
+        print(dd_data_plotly_sunburst)
+        fig_all_data = px.treemap(
+           dd_data_plotly_sunburst,
+           ids= "ids",
+           names= "names",
+           parents= "parents",
+           values="values",
+           color= "values"
+       )
+     st.write("## Treemap")
+     st.plotly_chart(fig_all_data, use_container_width=True, style=style, color= "streamlit")
 
 
