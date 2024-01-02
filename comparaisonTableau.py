@@ -155,25 +155,22 @@ def content_comparaonTableau(target_classes):
         percentage(resultats, result)
 
     # Affiche Tableau de donnee
-    values = [['<b>Count</b>', '<b>Average</b>', '<b>Coverage</b>', '<b>Quality</b>'],  # 1st col
+    values = [['<b>Count</b>', '<b>Average</b>', '<b>Coverage</b>'],  # 1st col
               # 2nd col
               [
                   resultats.get('count_before'),
                   resultats.get('average_before'),
-                  resultats.get('coverage_before'),
-                  resultats.get('quality_before')],
+                  resultats.get('coverage_before')],
               # 3rd col
               [
                   resultats.get('percentage_count_evolution'),
                   resultats.get('percentage_average_evolution'),
-                  resultats.get('percentage_coverage_evolution'),
-                  resultats.get('percentage_quality_evolution')],
+                  resultats.get('percentage_coverage_evolution')],
               # 4th col
               [
                   resultats.get('count_after'),
                   resultats.get('average_after'),
-                  resultats.get('coverage_after'),
-                  resultats.get('quality_after')]
+                  resultats.get('coverage_after')]
               ]
 
     fig = go.Figure(data=[go.Table(
