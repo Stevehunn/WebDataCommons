@@ -6,15 +6,33 @@ import json
 import glob
 import re
 from matplotlib import pyplot as plt
-
 from upsetplot import plot, from_memberships, UpSet
 
+def extraire_contenu_apres_backslash(ma_ligne):
+    # Regex pour supprimer tout le contenu avant le dernier caractère '\'
+    nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
+    return nouveau_contenu
 
-def content_testplot():
+def getCheminForImage(nomfichier):
+    regexSelect = extraire_contenu_apres_backslash(nomfichier)
+    # Utiliser split pour séparer la chaîne en fonction de ":"
+    parts = regexSelect.split(":")
+
+    # Concaténer les parties avec le format souhaité
+    result = f"assets/plots/{parts[1]}_plot.svg"
+    return result
+
+
+def content_testplot(target_classes):
     st.write("genere plot")
+    target_select = st.selectbox("", target_classes)
+    result = target_select.split(":")[1]
+    cheminTarget = './newData/after/'+result+'.json'
+    #st.write(cheminTarget)
     row = ["10", "15", "20", "30", "40", "50", "all"]
     select = st.selectbox("Select the number of row", row, index=0)
-    with open('./newData/after/Action.json', 'r') as f:
+    with open(cheminTarget, 'r') as f:
+    #with open('./newData/after/Action.json', 'r') as f:
         data_dict = json.load(f)
         # st.write(data_dict)
     #data_frame = pd.DataFrame(data_dict)

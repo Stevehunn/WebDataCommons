@@ -11,12 +11,11 @@ from comparison import content_comparison
 from year2023 import content_2023
 from year2022 import content_2022
 from newStyle import content_new_style
-from parse import parseWindow
-from parse import parseMac
-from dataCount import dataWithIntangible
-from dataCount import dataWithoutIntangible
+from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
+from dataCount import dataWithIntangible, dataWithoutIntangible
 from comparaisonTableau import content_comparaonTableau
 from testplot import content_testplot
+
 
 # Custom CSS
 custom_css = """
@@ -108,6 +107,11 @@ target_classes = []
 # Parese Data from target classes
 parseWindow(target_classes)
 # parseMac(target_classes)
+
+target_classes_available =[]
+#Parse Json Data from target classes
+parseAfterJsonAvailableWindow(target_classes_available)
+#parseAfterJsonAvailableMac(target_classes_available)
 
 # Version Window
 # for file in glob.glob("assets/plots/*.svg"):
@@ -220,7 +224,7 @@ def content_sidebar():
     if selected_tab == "New style of chart":
         content_new_style()
     if selected_tab == "test plot":
-        content_testplot()
+        content_testplot(target_classes_available)
 
 
 # Run the app
