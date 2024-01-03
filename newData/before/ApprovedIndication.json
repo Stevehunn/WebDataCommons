@@ -1,0 +1,64 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/ApprovedIndication>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ApprovedIndication>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/guideline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/ApprovedIndication>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/guideline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/naturalProgression>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/speakable>",
+            "<schema.org/study>",
+            "isa:<schema.org/ApprovedIndication>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    }
+]

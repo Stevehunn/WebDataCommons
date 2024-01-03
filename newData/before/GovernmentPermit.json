@@ -1,0 +1,32 @@
+[
+    {
+        "pset": [
+            "<schema.org/issuedBy>",
+            "<schema.org/issuedThrough>",
+            "<schema.org/name>",
+            "<schema.org/validFor>",
+            "<schema.org/validIn>",
+            "isa:<schema.org/GovernmentPermit>"
+        ],
+        "count": 6349.0
+    },
+    {
+        "pset": [
+            "<schema.org/issuedBy>",
+            "<schema.org/issuedThrough>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentPermit>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "<schema.org/validIn>",
+            "isa:<schema.org/GovernmentPermit>"
+        ],
+        "count": 1.0
+    }
+]

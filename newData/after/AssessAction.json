@@ -1,0 +1,34 @@
+[
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/AssessAction>"
+        ],
+        "count": 783.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/AssessAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AssessAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AssessAction>"
+        ],
+        "count": 1.0
+    }
+]

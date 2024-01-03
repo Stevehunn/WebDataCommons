@@ -1,0 +1,366 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 180299.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 5382.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/PriceSpecification>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Logo>",
+            "<schema.org/Url>",
+            "<schema.org/actionStatus>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceRange>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/provider>",
+            "<schema.org/result>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/target>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/Specialty>",
+            "isa:<schema.org/brand>",
+            "isa:<schema.org/organization>",
+            "isa:<schema.org/thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/QuoteAction>"
+        ],
+        "count": 1.0
+    }
+]

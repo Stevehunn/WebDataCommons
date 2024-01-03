@@ -1,0 +1,144 @@
+[
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "<schema.org/dropoffLocation>",
+            "<schema.org/name>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 1199.0
+    },
+    {
+        "pset": [
+            "<schema.org/dropoffLocation>",
+            "<schema.org/dropoffTime>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 709.0
+    },
+    {
+        "pset": [
+            "<schema.org/pickupLocation>",
+            "<schema.org/provider>",
+            "<schema.org/reservationFor>",
+            "<schema.org/underName>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 263.0
+    },
+    {
+        "pset": [
+            "<schema.org/dropoffLocation>",
+            "<schema.org/dropoffTime>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "<schema.org/provider>",
+            "<schema.org/reservationStatus>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 143.0
+    },
+    {
+        "pset": [
+            "<schema.org/dropoffLocation>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/provider>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/underName>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/dropoffLocation>",
+            "<schema.org/dropoffTime>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/provider>",
+            "<schema.org/reservationFor>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/dropoffLocation>",
+            "<schema.org/dropoffTime>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "<schema.org/reservationStatus>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/dropoffLocation>",
+            "<schema.org/dropoffTime>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "<schema.org/provider>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/underName>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/confirmReservationUrl>",
+            "<schema.org/price>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationNumber>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentalCarReservation>"
+        ],
+        "count": 1.0
+    }
+]

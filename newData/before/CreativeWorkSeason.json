@@ -1,0 +1,599 @@
+[
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 46609.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 6834.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 5741.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 5000.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 4174.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1834.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/discussionUrl>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/version>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1749.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1553.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1112.0
+    },
+    {
+        "pset": [
+            "<schema.org/episodes>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 644.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 608.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 517.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 489.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 461.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 439.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/discussionUrl>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/version>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 375.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 325.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 323.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 250.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 166.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/Review>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/Review>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/AggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/discussionUrl>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/reviewBodyn>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/AggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/discussionUrl>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/version>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/discussionUrl>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/discussionUrl>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/version>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/reviewRating>",
+            "<schema.org/season>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/CreativeWorkSeason>"
+        ],
+        "count": 1.0
+    }
+]

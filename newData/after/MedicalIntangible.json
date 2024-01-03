@@ -1,0 +1,176 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 305.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalBusiness>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIndication>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Dentist>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Dentist>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 1.0
+    }
+]

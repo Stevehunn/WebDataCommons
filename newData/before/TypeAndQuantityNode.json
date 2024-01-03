@@ -1,0 +1,114 @@
+[
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 1563.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/typeOfGood>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 337.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 295.0
+    },
+    {
+        "pset": [
+            "<schema.org/typeOfGood>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 212.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/name>",
+            "<schema.org/typeOfGood>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/businessFunction>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/typeOfGood>",
+            "<schema.org/url>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amountOfThisGood>",
+            "<schema.org/name>",
+            "<schema.org/typeOfGood>",
+            "<schema.org/url>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/name>",
+            "<schema.org/typeOfGood>",
+            "isa:<schema.org/TypeAndQuantityNode>"
+        ],
+        "count": 2.0
+    }
+]

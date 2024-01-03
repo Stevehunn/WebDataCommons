@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/recipe>",
+            "isa:<schema.org/CookAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/foodEstablishment>",
+            "<schema.org/foodEvent>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/recipe>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/CookAction>"
+        ],
+        "count": 1.0
+    }
+]

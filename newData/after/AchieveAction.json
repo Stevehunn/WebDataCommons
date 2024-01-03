@@ -1,0 +1,78 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 4065.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 960.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 1.0
+    }
+]

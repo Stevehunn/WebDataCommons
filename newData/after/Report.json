@@ -1,0 +1,4979 @@
+[
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 149346.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 13290.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 12494.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10558.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 9420.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3776.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2255.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2139.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2062.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2018.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2018.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1936.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1439.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1431.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightHolder>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1371.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightHolder>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1323.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1279.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1141.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1138.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1078.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 935.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 914.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 912.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/producer>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 840.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 758.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 730.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 693.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 625.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/producer>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 485.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 485.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 468.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 423.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 420.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 416.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 412.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 402.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 380.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 370.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 368.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 366.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 319.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 319.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 298.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 297.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 291.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 250.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 231.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 230.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 229.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 212.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 202.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 184.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 179.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 178.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/version>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 176.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/comment>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 175.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 167.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 152.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 141.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 140.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 134.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 109.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/creator>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/producer>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/comment>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordcount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/accessibilitySummary>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/reportNumber>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/producer>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/editor>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/award>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/identifier>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/version>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleSection>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/accountablePerson>",
+            "<schema.org/acquireLicensePage>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/significantLink>",
+            "<schema.org/speakable>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/license>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/maintainer>",
+            "<schema.org/publisher>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/headline>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "<schema.org/title>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessibilityFeature>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articlebody>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessibilityFeature>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/expires>",
+            "<schema.org/name>",
+            "<schema.org/reportNumber>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/workTranslation>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/significantLink>",
+            "<schema.org/specialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/Report>",
+            "isa:<schema.org/Webpage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityofpage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/publisher>",
+            "<schema.org/significantLinks>",
+            "<schema.org/specialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/Itemlist>",
+            "isa:<schema.org/Report>",
+            "isa:<schema.org/Webpage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/comment>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/taxID>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/publisher>",
+            "<schema.org/relatedLink>",
+            "<schema.org/specialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/Report>",
+            "isa:<schema.org/Webpage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/award>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessibilityFeature>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/video>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Keywords>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/version>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/video>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articlebody>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessibilityFeature>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/relatedLink>",
+            "<schema.org/specialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>",
+            "isa:<schema.org/Webpage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessibilityFeature>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reportNumber>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/taxID>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Report>"
+        ],
+        "count": 1.0
+    }
+]

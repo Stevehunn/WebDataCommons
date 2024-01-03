@@ -1,0 +1,688 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 2279.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 303.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthcondition>",
+            "<schema.org/image>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameas>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/study>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/sponsor>",
+            "<schema.org/studyLocation>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/status>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/phase>",
+            "<schema.org/status>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/outcome>",
+            "<schema.org/population>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "<schema.org/sponsor>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>",
+            "isa:<schema.org/medicaldevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/phase>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/diagnosis>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/medicalAudience>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/breastfeedingWarning>",
+            "<schema.org/description>",
+            "<schema.org/dosageform>",
+            "<schema.org/doseUnit>",
+            "<schema.org/dosevalue>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/sameas>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/text>",
+            "isa:<schema.org/DoseSchedule>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/status>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/studyLocation>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/status>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/phase>",
+            "<schema.org/population>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "<schema.org/sponsor>",
+            "<schema.org/warning>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/studyLocation>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/population>",
+            "<schema.org/status>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/breastfeedingWarning>",
+            "<schema.org/description>",
+            "<schema.org/dosageform>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/sameas>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/text>",
+            "<schema.org/trialDesign>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/telephone>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTrial>"
+        ],
+        "count": 1.0
+    }
+]

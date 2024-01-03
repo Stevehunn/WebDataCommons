@@ -1,0 +1,2309 @@
+[
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 46146792.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 792855.0
+    },
+    {
+        "pset": [
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 447791.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 320556.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 205933.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 203079.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 165450.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 163304.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 122791.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 105802.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 71587.0
+    },
+    {
+        "pset": [
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 43634.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 42969.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 32871.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 22111.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 15592.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 8627.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 8389.0
+    },
+    {
+        "pset": [
+            "<schema.org/lat>",
+            "<schema.org/lng>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 5263.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 4671.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalcode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3764.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3091.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2409.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2357.0
+    },
+    {
+        "pset": [
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2195.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2164.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2095.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1573.0
+    },
+    {
+        "pset": [
+            "<schema.org/__typename>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1545.0
+    },
+    {
+        "pset": [
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1498.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1431.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1213.0
+    },
+    {
+        "pset": [
+            "<schema.org/Latitude>",
+            "<schema.org/Longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 978.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 866.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 831.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 805.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/paymentAccepted>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 667.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 566.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 451.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 422.0
+    },
+    {
+        "pset": [
+            "<schema.org/Latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 384.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 373.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 364.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 327.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalcode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 318.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 314.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 293.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 282.0
+    },
+    {
+        "pset": [
+            "<schema.org/Longitude>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 234.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitute>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 216.0
+    },
+    {
+        "pset": [
+            "<schema.org/lattitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 214.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 183.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 181.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 176.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 170.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 144.0
+    },
+    {
+        "pset": [
+            "<schema.org/@data>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 103.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/line>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/GeoShape>"
+        ],
+        "count": 91.0
+    },
+    {
+        "pset": [
+            "<schema.org/PostalCode>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/Longitude>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/-147.756616>",
+            "<schema.org/64.835699>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalcode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/Brand>",
+            "<schema.org/actionableFeedbackPolicy>",
+            "<schema.org/areaServed>",
+            "<schema.org/award>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/-110.7433472>",
+            "<schema.org/50.0204756>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/%20latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/closes>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/opens>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OpeningHoursSpecification>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/branchcode>",
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Library>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longtitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalcode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/Campbellfield>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitiude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/altitude>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.29134>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitute>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.65579>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo.latitude>",
+            "<schema.org/geo.longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/-92.99522>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.38718>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.65441>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.21772>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/error_message>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.45579>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/hasMap>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.35634>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/_comment>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/elevation>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactType>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/keywords>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/opens>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/relatedLink>",
+            "<schema.org/sameAs>",
+            "<schema.org/specialty>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPage>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactType>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/email>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/opens>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.46273>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Aquarium>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Aquarium>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.57162>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/closes>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/opens>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Language>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/Store>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactPoint>",
+            "<schema.org/contactType>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/opens>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>",
+            "isa:<schema.org/ProfessionalService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdultEntertainment>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/opens>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Language>",
+            "isa:<schema.org/OpeningHoursSpecification>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/Store>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/itemOffered>",
+            "<schema.org/latitude>",
+            "<schema.org/location>",
+            "<schema.org/longitude>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/AdultEntertainment>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.34995>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alumniOf>",
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/closes>",
+            "<schema.org/contactPoint>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/employee>",
+            "<schema.org/faxNumber>",
+            "<schema.org/founder>",
+            "<schema.org/gender>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/jobTitle>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/naics>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/opens>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/LegalService>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OpeningHoursSpecification>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.20607>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-92.85328>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactType>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-92.99356>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.16689>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.56718>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactType>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/opens>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactType>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/opens>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.39745>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/itemOffered>",
+            "<schema.org/latitude>",
+            "<schema.org/location>",
+            "<schema.org/longitude>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/EventVenue>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/branchcode>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Library>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactType>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/email>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/opens>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/OpeningHoursSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-92.97244>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/opens>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Language>",
+            "isa:<schema.org/OpeningHoursSpecification>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/Store>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/itemOffered>",
+            "<schema.org/latitude>",
+            "<schema.org/location>",
+            "<schema.org/longitude>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdultEntertainment>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.15661>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/closes>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/opens>",
+            "<schema.org/postalCode>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Language>",
+            "isa:<schema.org/OpeningHoursSpecification>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/Store>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/postalCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/postalCode>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Language>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/Store>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-93.04272>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/-92.98522>",
+            "<schema.org/latitude>",
+            "isa:<schema.org/GeoCoordinates>"
+        ],
+        "count": 1.0
+    }
+]

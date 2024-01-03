@@ -1,0 +1,39 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/LikeAction>"
+        ],
+        "count": 99897.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/url>",
+            "isa:<schema.org/LikeAction>"
+        ],
+        "count": 6487.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/result>",
+            "isa:<schema.org/LikeAction>"
+        ],
+        "count": 582.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/LikeAction>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/LikeAction>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 10.0
+    }
+]

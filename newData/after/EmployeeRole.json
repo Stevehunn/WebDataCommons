@@ -1,0 +1,277 @@
+[
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 55054.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/worksFor>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 20704.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 3270.0
+    },
+    {
+        "pset": [
+            "<schema.org/baseSalary>",
+            "<schema.org/roleName>",
+            "<schema.org/salaryCurrency>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 1682.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/worksFor>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 1217.0
+    },
+    {
+        "pset": [
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "<schema.org/worksFor>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 966.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 483.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 329.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 311.0
+    },
+    {
+        "pset": [
+            "<schema.org/roleName>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/worksFor>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/employee>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EmployeeRole>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "<schema.org/worksFor>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/namedPosition>",
+            "<schema.org/roleName>",
+            "<schema.org/salaryCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/EmployeeRole>"
+        ],
+        "count": 1.0
+    }
+]

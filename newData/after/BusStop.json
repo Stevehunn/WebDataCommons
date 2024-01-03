@@ -1,0 +1,231 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 111484.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 16284.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 3848.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 2113.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 1213.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 990.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 568.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 179.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasmap>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicaccess>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/branchCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusStop>"
+        ],
+        "count": 1.0
+    }
+]

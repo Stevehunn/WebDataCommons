@@ -1,0 +1,168 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 2562.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 529.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/causeOf>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/causeOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/causeOf>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/naturalProgression>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "isa:<schema.org/MedicalCause>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/medicalCondition>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/causeOf>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/causeOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/causeOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/naturalProgression>",
+            "<schema.org/signOrSymptom>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "isa:<schema.org/MedicalCause>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/medicalCondition>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/causeOf>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCause>"
+        ],
+        "count": 1.0
+    }
+]

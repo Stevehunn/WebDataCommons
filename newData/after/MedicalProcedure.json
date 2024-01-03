@@ -1,0 +1,3813 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 180462.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 101481.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 89440.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 54387.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 7772.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5836.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4667.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4663.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2308.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2256.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 1792.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 858.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 830.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 792.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableService>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 777.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 512.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 410.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 326.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 325.0
+    },
+    {
+        "pset": [
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 315.0
+    },
+    {
+        "pset": [
+            "<schema.org/guideline>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 294.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 253.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 241.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/sameAs>",
+            "<schema.org/study>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 240.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 158.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 140.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/sameAs>",
+            "<schema.org/study>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/RelevantSpecialty>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 107.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 106.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/SurgicalProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/followup>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/RelevantSpecialty>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/preparation>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalSpecialty>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/@name>",
+            "<schema.org/@proceduretype>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/SurgicalProcedure>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/ProcedureType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/outcome>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/SurgicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/legalStatus>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/RelevantSpecialty>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIntangible>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Indication>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/@proceduretype>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Indication>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/guideline>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Indication>",
+            "<schema.org/Preparation>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/SurgicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/RelevantSpecialty>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaserved>",
+            "<schema.org/availableService>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasmap>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/isAcceptingNewPatients>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/acceptedAnswer>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/publisher>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/SurgicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/keywords>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/drug>",
+            "<schema.org/howPerformed>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/status>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Indication>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/SurgicalProcedure>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/guideline>",
+            "<schema.org/howPerformed>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/guideline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/RelevantSpecialty>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/keywords>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/proceduretype>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followUp>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/provider>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/brand>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    }
+]

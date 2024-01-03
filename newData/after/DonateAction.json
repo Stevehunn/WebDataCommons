@@ -1,0 +1,178 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/recipient>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/recipient>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "<schema.org/recipient>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/recipient>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/recipient>",
+            "<schema.org/target>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/recipient>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/recipient>",
+            "<schema.org/url>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DonateAction>"
+        ],
+        "count": 1.0
+    }
+]

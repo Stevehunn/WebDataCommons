@@ -1,0 +1,45 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/purpose>",
+            "<schema.org/url>",
+            "isa:<schema.org/PayAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PayAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/purpose>",
+            "<schema.org/recipient>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/PayAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PayAction>"
+        ],
+        "count": 1.0
+    }
+]

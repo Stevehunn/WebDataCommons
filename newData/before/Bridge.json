@@ -1,0 +1,186 @@
+[
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 662.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Bridge>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Bridge>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Bridge>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Bridge>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Bridge>"
+        ],
+        "count": 1.0
+    }
+]

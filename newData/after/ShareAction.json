@@ -1,0 +1,51 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/ShareAction>"
+        ],
+        "count": 10427.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/ShareAction>"
+        ],
+        "count": 5995.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ShareAction>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/ShareAction>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ShareAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ShareAction>"
+        ],
+        "count": 1.0
+    }
+]

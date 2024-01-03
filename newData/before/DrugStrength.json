@@ -1,0 +1,47 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DrugStrength>"
+        ],
+        "count": 49161.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "isa:<schema.org/DrugStrength>"
+        ],
+        "count": 14777.0
+    },
+    {
+        "pset": [
+            "<schema.org/strengthUnit>",
+            "isa:<schema.org/DrugStrength>"
+        ],
+        "count": 1887.0
+    },
+    {
+        "pset": [
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "isa:<schema.org/DrugStrength>"
+        ],
+        "count": 242.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "isa:<schema.org/DrugStrength>"
+        ],
+        "count": 230.0
+    },
+    {
+        "pset": [
+            "<schema.org/strengthValue>",
+            "isa:<schema.org/DrugStrength>"
+        ],
+        "count": 6.0
+    }
+]

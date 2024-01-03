@@ -1,0 +1,2811 @@
+[
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1891.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 376.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/DaySpa>",
+            "isa:<schema.org/HairSalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/icon>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/vatID>",
+            "<schema.org/website>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/menu>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/menu>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Geo>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceArea>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/dateModified>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HealthAndBeautyBusiness>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HairSalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/address>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Geo>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/HairSalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Geo>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/DaySpa>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/dateModified>",
+            "<schema.org/keywords>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HealthAndBeautyBusiness>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/DaySpa>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/department>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/HairSalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BeautySalon>",
+            "isa:<schema.org/HairSalon>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/NailSalon>"
+        ],
+        "count": 1.0
+    }
+]

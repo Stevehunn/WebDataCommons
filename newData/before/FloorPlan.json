@@ -1,0 +1,260 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 2839.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/layoutImage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 1915.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/title>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 1666.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 1334.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 1097.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 479.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/isPlanForApartment>",
+            "<schema.org/layoutImage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 456.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 364.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/layoutImage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfRooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorsize>",
+            "<schema.org/image>",
+            "<schema.org/isPlanForApartment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 151.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/layoutImage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 151.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/floorsize>",
+            "<schema.org/image>",
+            "<schema.org/isPlanForApartment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/isPlanForApartment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/numberofbathroomsTotal>",
+            "<schema.org/numberofbedrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/layoutImage>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/layoutImage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfPartialBathrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/layoutImage>",
+            "isa:<schema.org/FloorPlan>"
+        ],
+        "count": 2.0
+    }
+]

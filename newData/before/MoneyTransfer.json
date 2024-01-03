@@ -1,0 +1,84 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 576050.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 4710.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 4710.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 876.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/amount>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 375.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/name>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoneyTransfer>"
+        ],
+        "count": 1.0
+    }
+]

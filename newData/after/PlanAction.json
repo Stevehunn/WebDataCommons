@@ -1,0 +1,41 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/scheduledTime>",
+            "isa:<schema.org/PlanAction>"
+        ],
+        "count": 8196.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/scheduledTime>",
+            "isa:<schema.org/PlanAction>"
+        ],
+        "count": 7807.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/PlanAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/PlanAction>"
+        ],
+        "count": 9.0
+    }
+]

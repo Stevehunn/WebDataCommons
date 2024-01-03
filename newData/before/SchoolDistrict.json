@@ -1,0 +1,36 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/SchoolDistrict>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/SchoolDistrict>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/SchoolDistrict>"
+        ],
+        "count": 2.0
+    }
+]

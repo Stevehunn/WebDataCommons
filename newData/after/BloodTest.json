@@ -1,0 +1,19 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BloodTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BloodTest>"
+        ],
+        "count": 2.0
+    }
+]

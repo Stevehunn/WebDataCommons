@@ -1,0 +1,1320 @@
+[
+    {
+        "pset": [
+            "<schema.org/providesService>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 124945.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 78119.0
+    },
+    {
+        "pset": [
+            "<schema.org/ServiceUrl>",
+            "<schema.org/availableLanguage>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 21799.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/servicePostalAddress>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 8235.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 4907.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2659.0
+    },
+    {
+        "pset": [
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2600.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2532.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceSmsNumber>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2495.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1830.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1699.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1689.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1683.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/serviceMobileApp>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1586.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/name>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 915.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 915.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 811.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 740.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceURL>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 339.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 258.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/providesService>",
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/serviceURL>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 195.0
+    },
+    {
+        "pset": [
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 164.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceLocation>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 148.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/name>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 103.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 101.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePostalAddress>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/providesService>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/serviceLocation>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceUrl>",
+            "<schema.org/servicephone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/servicePostalAddress>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/processingTime>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/servicePhone>",
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "<schema.org/providesService>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/ServiceLocation>",
+            "<schema.org/Serviceurl>",
+            "<schema.org/name>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceURL>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceURL>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceURL>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/servicePostalAddress>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/provider>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/ServicePhone>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceSmsNumber>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/contactPoint>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/productSupported>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/ProfessionalService>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/&#105;&#109;&#30005;&#31454;&#24179;&#21488;&#19979;&#36733;Point>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contactType>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/providesService>",
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceLocation>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contactType>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/provider>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceType>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ServiceChannel>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableLanguage>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/servicePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/providesService>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/servicePostalAddress>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/processingTime>",
+            "<schema.org/providesService>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 1.0
+    }
+]

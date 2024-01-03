@@ -1,0 +1,2769 @@
+[
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4277.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 788.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 726.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 655.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 642.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 631.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timestamp>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 546.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 534.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 514.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 484.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 403.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 305.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 298.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 253.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 221.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 210.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 209.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 132.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/ArticleSection>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 102.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Review>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timestamp>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReportageNewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timestamp>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/noBylinePolicy>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/video>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/video>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/noBylinePolicy>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/ArticleSection>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/timestamp>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReportageNewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/noBylinePolicy>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/ArticleSection>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/locationCreated>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/position>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionnalType>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/timestamp>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/locationCreated>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/AnalysisNewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/correction>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/locationCreated>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/locationCreated>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReportageNewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/correction>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timestamp>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/correction>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionnalType>",
+            "<schema.org/dateModified>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/position>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/video>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionnalType>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/correction>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/video>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/correction>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/NewsArticle>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/comment>",
+            "<schema.org/commentCount>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/backstory>",
+            "<schema.org/correction>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateline>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/video>",
+            "isa:<schema.org/ReviewNewsArticle>"
+        ],
+        "count": 1.0
+    }
+]

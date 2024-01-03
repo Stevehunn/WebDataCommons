@@ -1,0 +1,416 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 671.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 232.0
+    },
+    {
+        "pset": [
+            "<schema.org/contraindication>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraIndication>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedure>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedure>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/procedure>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/purpose>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedure>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/contraindication>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>",
+            "isa:<schema.org/product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/purpose>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/postop>",
+            "<schema.org/preop>",
+            "<schema.org/procedure>",
+            "<schema.org/purpose>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/postOp>",
+            "<schema.org/preOp>",
+            "<schema.org/procedure>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/contraindication>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>",
+            "isa:<schema.org/product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedure>",
+            "<schema.org/purpose>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>",
+            "isa:<schema.org/MedicalIntangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalDevice>"
+        ],
+        "count": 1.0
+    }
+]

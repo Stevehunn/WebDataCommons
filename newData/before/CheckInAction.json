@@ -1,0 +1,35 @@
+[
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/CheckInAction>"
+        ],
+        "count": 754.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "isa:<schema.org/CheckInAction>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "isa:<schema.org/CheckInAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CheckInAction>"
+        ],
+        "count": 1.0
+    }
+]

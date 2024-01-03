@@ -1,0 +1,30 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalGuidelineRecommendation>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/evidenceLevel>",
+            "<schema.org/evidenceOrigin>",
+            "<schema.org/recommendationStrength>",
+            "isa:<schema.org/MedicalGuidelineRecommendation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/guidelineSubject>",
+            "isa:<schema.org/MedicalGuidelineRecommendation>"
+        ],
+        "count": 1.0
+    }
+]

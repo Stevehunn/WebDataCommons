@@ -1,0 +1,55 @@
+[
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/pickupTime>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/underName>",
+            "isa:<schema.org/TaxiReservation>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/provider>",
+            "<schema.org/reservationFor>",
+            "isa:<schema.org/TaxiReservation>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/underName>",
+            "isa:<schema.org/TaxiReservation>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TaxiReservation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/pickupLocation>",
+            "<schema.org/pickupTime>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/underName>",
+            "isa:<schema.org/TaxiReservation>"
+        ],
+        "count": 1.0
+    }
+]

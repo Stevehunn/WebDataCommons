@@ -1,0 +1,140 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/serverStatus>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 5222.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/serverStatus>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 3365.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/game>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/serverStatus>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 1254.0
+    },
+    {
+        "pset": [
+            "<schema.org/game>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 146.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationCategory>",
+            "<schema.org/description>",
+            "<schema.org/game>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/operatingSystem>",
+            "<schema.org/serverStatus>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/playersOnline>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/game>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/sameAs>",
+            "<schema.org/serverStatus>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/game>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/serverStatus>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/game>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/game>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/game>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/playersOnline>",
+            "<schema.org/url>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/game>",
+            "<schema.org/playersOnline>",
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/GameServer>"
+        ],
+        "count": 1.0
+    }
+]

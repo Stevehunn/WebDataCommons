@@ -1,0 +1,72 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 26292965.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 45725.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/agent>",
+            "<schema.org/resultComment>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 4522.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/resultComment>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 411.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/resultComment>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/resultComment>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/tar\\u5F97\\u5230>",
+            "isa:<schema.org/CommentAction>"
+        ],
+        "count": 1.0
+    }
+]

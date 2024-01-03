@@ -1,0 +1,27 @@
+[
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TransferAction>"
+        ],
+        "count": 2024560.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "isa:<schema.org/TransferAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TransferAction>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,1409 @@
+[
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1975888.0
+    },
+    {
+        "pset": [
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1171200.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 318304.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 225667.0
+    },
+    {
+        "pset": [
+            "<schema.org/iataCode>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 98672.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 67325.0
+    },
+    {
+        "pset": [
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 26624.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 7625.0
+    },
+    {
+        "pset": [
+            "<schema.org/iataCode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 6488.0
+    },
+    {
+        "pset": [
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 4655.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3845.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2830.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2233.0
+    },
+    {
+        "pset": [
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2213.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/iatacode>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1703.0
+    },
+    {
+        "pset": [
+            "<schema.org/iataCode>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1183.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 861.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 691.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 452.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 346.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 258.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 188.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 186.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/maximumAttendeeCapacity>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 175.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 173.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 147.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 115.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/icaoCode>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/photo>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/iataCode>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/maximumAttendeeCapacity>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/photo>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/logo>",
+            "<schema.org/openingHours>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/iataCode>",
+            "<schema.org/icaoCode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/icaoCode>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/iataCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/Airport>"
+        ],
+        "count": 1.0
+    }
+]

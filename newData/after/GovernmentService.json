@@ -1,0 +1,438 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 3627.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 2345.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 1259.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 984.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 565.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 475.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 457.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 452.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/serviceArea>",
+            "<schema.org/serviceAudience>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 341.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 261.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 252.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/datePosted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 233.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 214.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>",
+            "isa:<schema.org/QualitativeValue>"
+        ],
+        "count": 201.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 156.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "isa:<schema.org/GovernmentService>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/serviceOperator>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>",
+            "isa:<schema.org/QualitativeValue>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/servicetype>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactType>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/provider>",
+            "<schema.org/serviceArea>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/name>",
+            "<schema.org/serviceOperator>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentService>"
+        ],
+        "count": 1.0
+    }
+]

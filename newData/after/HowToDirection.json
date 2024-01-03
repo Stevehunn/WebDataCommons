@@ -1,0 +1,281 @@
+[
+    {
+        "pset": [
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 675554.0
+    },
+    {
+        "pset": [
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 50915.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 34936.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 3315.0
+    },
+    {
+        "pset": [
+            "<schema.org/duringMedia>",
+            "<schema.org/image>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 1384.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 725.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 647.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/duringMedia>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/text>",
+            "<schema.org/video>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/duringMedia>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/Text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/DuringMedia>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/duringMedia>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "<schema.org/video>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/beforeMedia>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/position>",
+            "isa:<schema.org/HowToDirection>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTestPanel>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 1.0
+    }
+]

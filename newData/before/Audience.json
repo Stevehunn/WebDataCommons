@@ -1,0 +1,552 @@
+[
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 133928.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 101569.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 35269.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 21765.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 3006.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1669.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1464.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1413.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1208.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentLocation>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1173.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1055.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 736.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 464.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 457.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 452.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 426.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 249.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 228.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "<schema.org/GeographicArea>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 218.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/audienceType>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 175.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 155.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 145.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/AdministrativeArea>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/accessMode>",
+            "<schema.org/accessModeSufficient>",
+            "<schema.org/alternateName>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/audience>",
+            "<schema.org/audienceType>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/Audience>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/image>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/Audience>"
+        ],
+        "count": 1.0
+    }
+]

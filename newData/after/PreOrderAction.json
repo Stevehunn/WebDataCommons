@@ -1,0 +1,32 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/PreOrderAction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/PreOrderAction>"
+        ],
+        "count": 2.0
+    }
+]

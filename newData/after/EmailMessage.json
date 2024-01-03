@@ -1,0 +1,56 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/EmailMessage>"
+        ],
+        "count": 721.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/EmailMessage>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/action>",
+            "<schema.org/description>",
+            "isa:<schema.org/EmailMessage>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/subjectLine>",
+            "isa:<schema.org/EmailMessage>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/EmailMessage>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/ccRecipient>",
+            "<schema.org/datePublished>",
+            "<schema.org/dateRead>",
+            "<schema.org/description>",
+            "<schema.org/messageAttachment>",
+            "<schema.org/sender>",
+            "<schema.org/toRecipient>",
+            "isa:<schema.org/EmailMessage>"
+        ],
+        "count": 2.0
+    }
+]

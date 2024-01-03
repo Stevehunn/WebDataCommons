@@ -1,0 +1,117 @@
+[
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/userInteractionType>",
+            "<schema.org/value>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserInteraction>"
+        ],
+        "count": 1.0
+    }
+]

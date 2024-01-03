@@ -1,0 +1,35 @@
+[
+    {
+        "pset": [
+            "<schema.org/height>",
+            "<schema.org/representativeOfPage>",
+            "<schema.org/url>",
+            "<schema.org/width>",
+            "isa:<schema.org/Barcode>"
+        ],
+        "count": 5124.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Barcode>"
+        ],
+        "count": 1897.0
+    },
+    {
+        "pset": [
+            "<schema.org/height>",
+            "<schema.org/representativeOfPage>",
+            "<schema.org/width>",
+            "isa:<schema.org/Barcode>"
+        ],
+        "count": 1761.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Barcode>"
+        ],
+        "count": 270.0
+    }
+]

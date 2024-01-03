@@ -1,0 +1,101 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 183.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/slogan>",
+            "<schema.org/termsOfService>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PaymentService>"
+        ],
+        "count": 1.0
+    }
+]

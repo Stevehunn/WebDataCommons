@@ -1,0 +1,1109 @@
+[
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 371205933.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 270244.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 141002.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 98064.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 89499.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 80090.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 57341.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 52457.0
+    },
+    {
+        "pset": [
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 49547.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 37314.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 21168.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 10575.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 6781.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 6079.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "<schema.org/valueName>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 5826.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 5247.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 4708.0
+    },
+    {
+        "pset": [
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 3980.0
+    },
+    {
+        "pset": [
+            "<schema.org/q>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2465.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1348.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-Input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1186.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1033.0
+    },
+    {
+        "pset": [
+            "<schema.org/Target>",
+            "<schema.org/query-input>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 987.0
+    },
+    {
+        "pset": [
+            "<schema.org/Query-Input>",
+            "<schema.org/Target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 887.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 838.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 812.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/actionType>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 780.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/actionType>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 740.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 524.0
+    },
+    {
+        "pset": [
+            "<schema.org/query>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 490.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 489.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/location>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 484.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/actionType>",
+            "<schema.org/query-input>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 455.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/query-input>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 388.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/query>",
+            "<schema.org/result>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 374.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/result>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 353.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 321.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 284.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 235.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/Query-input>",
+            "<schema.org/Target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 182.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 177.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-iput>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 171.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 145.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/WebSite.potentialAction.target>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/query-input>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/actionType>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/keywords>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/queryinput>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/character>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/\\u76EE\\u6807>",
+            "<schema.org/query-input>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/query-input>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/taimmersiorget>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/\\u7126\\u6CB9get>",
+            "<schema.org/query-input>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/keywords>",
+            "<schema.org/query-input>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/birkin>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/holkham>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/fairbanks>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/SearchAction>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/voltaire>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/tolstoy>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/query>",
+            "<schema.org/result>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/audience>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/tv%20cabinets>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/tuxedo>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/querry-imput>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/tar\\u5F97\\u5230>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/partridge>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/evita>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mitford>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/tosca>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-\\rinput>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-finput>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/query-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bloomsbury>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/wolseley>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hugo>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/queryInput>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/query>",
+            "isa:<schema.org/SearchAction>"
+        ],
+        "count": 1.0
+    }
+]

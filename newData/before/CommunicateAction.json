@@ -1,0 +1,320 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/inLanguage>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 7746.0
+    },
+    {
+        "pset": [
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 4826.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1767.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1415.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1294.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1064.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 512.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/CreativeWork>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "<schema.org/recipient>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/inLanguage>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/potentialAction>",
+            "<schema.org/result>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/result>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/recipient>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/recipient>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/recipient>",
+            "<schema.org/target>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/actionStatus>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/CommunicateAction>"
+        ],
+        "count": 1.0
+    }
+]

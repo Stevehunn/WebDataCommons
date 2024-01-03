@@ -1,0 +1,45 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 471628.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/Distance>",
+            "isa:<schema.org/QuantitativeValue>"
+        ],
+        "count": 54706.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/height>",
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/width>",
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 2.0
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Canal>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Canal>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    }
+]

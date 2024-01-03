@@ -1,0 +1,456 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 2731.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/programName>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 647.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 256.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 242.0
+    },
+    {
+        "pset": [
+            "<schema.org/membershipNumber>",
+            "<schema.org/membershipPointsEarned>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 209.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/member>",
+            "<schema.org/programName>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 173.0
+    },
+    {
+        "pset": [
+            "<schema.org/programName>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 91.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/membershipNumber>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/programName>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/membershipNumber>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/programName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/membershipNumber>",
+            "<schema.org/membershipPointsEarned>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/membershipNumber>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/membershipNumber>",
+            "<schema.org/programName>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/ProgramName>",
+            "<schema.org/hostingOrganization>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/membershipNumber>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/membershipNumber>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hostingOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/identifier>",
+            "<schema.org/membershipNumber>",
+            "<schema.org/name>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/membershipPointsEarned>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hostingOrganization>",
+            "<schema.org/image>",
+            "<schema.org/programName>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/ProgramMembership>"
+        ],
+        "count": 1.0
+    }
+]

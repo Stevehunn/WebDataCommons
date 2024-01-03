@@ -1,0 +1,778 @@
+[
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 10977.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 2153.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1113.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1024.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 419.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 391.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/translator>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 207.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 192.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 151.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/author>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/translator>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/conditionsOfAccess>",
+            "<schema.org/coverUrl>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/character>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/actionStatus>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>",
+            "isa:<schema.org/SearchAction>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/author>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/conditionsOfAccess>",
+            "<schema.org/coverUrl>",
+            "<schema.org/creator>",
+            "<schema.org/creditText>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/accessMode>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicSeries>"
+        ],
+        "count": 1.0
+    }
+]

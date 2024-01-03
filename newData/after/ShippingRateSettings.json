@@ -1,0 +1,20 @@
+[
+    {
+        "pset": [
+            "<schema.org/freeShippingThreshold>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/ShippingRateSettings>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/freeShippingThreshold>",
+            "isa:<schema.org/ShippingRateSettings>"
+        ],
+        "count": 1.0
+    }
+]

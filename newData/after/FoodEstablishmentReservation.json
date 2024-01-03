@@ -1,0 +1,37 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/FoodEstablishmentReservation>"
+        ],
+        "count": 160286.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/FoodEstablishmentReservation>"
+        ],
+        "count": 4430.0
+    },
+    {
+        "pset": [
+            "<schema.org/partySize>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/startTime>",
+            "<schema.org/underName>",
+            "isa:<schema.org/FoodEstablishmentReservation>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/FoodEstablishmentReservation>"
+        ],
+        "count": 1.0
+    }
+]

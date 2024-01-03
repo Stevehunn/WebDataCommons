@@ -1,0 +1,474 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 3082.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 921.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/conditionsOfAccess>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/holdingArchive>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/materialExtent>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/CreativeWork>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemLocation>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/artform>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemlocation>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Visualartwork>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemLocation>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemLocation>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/CreativeWork>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/materialExtent>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>",
+            "isa:<schema.org/Collection>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/holdingArchive>",
+            "<schema.org/name>",
+            "isa:<schema.org/ArchiveComponent>"
+        ],
+        "count": 1.0
+    }
+]

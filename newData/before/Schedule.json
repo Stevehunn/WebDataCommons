@@ -1,0 +1,718 @@
+[
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 11047.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 4903.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 3823.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2232.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1623.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1203.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1026.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatCount>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 540.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 513.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 207.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 204.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 197.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/scheduletimezone>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 129.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "isa:<data.flachau.com/schema/Schedule>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/elements/1.1/ical>",
+            "<schema.org/byDay>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/inLanguage>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/repeatCount>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/elements/1.1/additionalDate>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/inLanguage>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/repeatCount>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatCount>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/repeatCount>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endtime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/starttime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/elements/1.1/ical>",
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/inLanguage>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/byMonthDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/duration>",
+            "<schema.org/endTime>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/repeatFrequency>",
+            "<schema.org/url>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatCount>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/eventSchedule>",
+            "<schema.org/repeatFrequency>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/byMonthDay>",
+            "<schema.org/byMonthWeek>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byMonthDay>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/byMonth>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/repeatCount>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/duration>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/byMonth>",
+            "<schema.org/endDate>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byMonthDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/byMonthDay>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/elements/1.1/ical>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/endTime>",
+            "<schema.org/inLanguage>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byDay>",
+            "<schema.org/repeatfrequency>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/EndDate>",
+            "<schema.org/byDay>",
+            "<schema.org/endTime>",
+            "<schema.org/repeatFrequency>",
+            "<schema.org/scheduleTimezone>",
+            "<schema.org/startDate>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 1.0
+    }
+]

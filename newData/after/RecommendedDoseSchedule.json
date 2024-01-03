@@ -1,0 +1,49 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/frequency>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/frequency>",
+            "<schema.org/manufacturer>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 1.0
+    }
+]

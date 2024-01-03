@@ -1,0 +1,157 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Mountain>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Reservoir>",
+            "isa:<schema.org/RiverBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    }
+]

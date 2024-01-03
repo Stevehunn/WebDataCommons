@@ -1,0 +1,40 @@
+[
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasDeliveryMethod>",
+            "<schema.org/provider>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryAddress>",
+            "<schema.org/description>",
+            "<schema.org/hasDeliveryMethod>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/originAddress>",
+            "<schema.org/url>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/carrier>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 1.0
+    }
+]

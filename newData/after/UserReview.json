@@ -1,0 +1,660 @@
+[
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 61387.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 32074.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 4939.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 4360.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 3052.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1986.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1518.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1288.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/reviewRating>",
+            "<schema.org/text>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 979.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 896.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/reviewBody>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 792.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 723.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 676.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 665.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 568.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 426.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 338.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 273.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 269.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 222.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 220.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 210.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/review>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/contentLocation>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/publisher>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/UserReview>"
+        ],
+        "count": 1.0
+    }
+]

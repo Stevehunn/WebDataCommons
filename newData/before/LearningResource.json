@@ -1,0 +1,933 @@
+[
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 21622.0
+    },
+    {
+        "pset": [
+            "<schema.org/endOffset>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/startOffset>",
+            "<schema.org/url>",
+            "isa:<schema.org/Clip>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 15723.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/hasPart>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/teaches>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 15233.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 6068.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/educationalUse>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/teaches>",
+            "isa:<schema.org/DiscussionForumPosting>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 4951.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 3217.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 3174.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/transcript>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 2133.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/teaches>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/transcript>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 1273.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentURL>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 866.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/expires>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 697.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/expires>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 398.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 386.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 316.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentURL>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/expires>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 315.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 308.0
+    },
+    {
+        "pset": [
+            "<schema.org/Provider>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Course>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 294.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 257.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/embedURL>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/teaches>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 237.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentURL>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 191.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 130.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 121.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentURL>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/expires>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/endOffset>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/startOffset>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/Clip>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/acquireLicensePage>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/assesses>",
+            "<schema.org/competencyRequired>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/educationalUse>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/recordedAt>",
+            "<schema.org/subjectOf>",
+            "<schema.org/teaches>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/caption>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/embedUrl>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/audience>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/version>",
+            "<w3id.org/openeduhub/terms/educationalContext>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/MathSolver>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/competencyRequired>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/sdDatePublished>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/embedURL>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/teaches>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/uploadDate>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/accessMode>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/teaches>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/educationalUse>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightNotice>",
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Course>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/interactivityType>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/isAccessibleForFree>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/educationalUse>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/MathSolver>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endOffset>",
+            "<schema.org/name>",
+            "<schema.org/startOffset>",
+            "<schema.org/url>",
+            "isa:<schema.org/Clip>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationCategory>",
+            "<schema.org/applicationSubCategory>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/featureList>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/operatingSystem>",
+            "<schema.org/screenshot>",
+            "<schema.org/softwareHelp>",
+            "<schema.org/url>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/MathSolver>",
+            "isa:<schema.org/WebApplication>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/teaches>",
+            "<schema.org/text>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalAlignment>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/expires>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/educationalLevel>",
+            "<schema.org/expires>",
+            "<schema.org/interactionCount>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/regionsAllowed>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/VideoObject>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/assesses>",
+            "<schema.org/hasPart>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/MathSolver>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/assesses>",
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/LearningResource>",
+            "isa:<schema.org/MathSolver>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/LearningResource>"
+        ],
+        "count": 1.0
+    }
+]

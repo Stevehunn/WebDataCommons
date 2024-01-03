@@ -1,0 +1,3027 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 7060.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5238.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2411.0
+    },
+    {
+        "pset": [
+            "<schema.org/item>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2304.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1973.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1772.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1764.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1476.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1462.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1353.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1302.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1294.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1053.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 980.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 945.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 914.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 833.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 782.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 541.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 448.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 325.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 303.0
+    },
+    {
+        "pset": [
+            "<schema.org/event>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 266.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 239.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 238.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 231.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 221.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 183.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 182.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 168.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 164.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 144.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 131.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 125.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 103.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 84.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/event>",
+            "<schema.org/image>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Geo>",
+            "<schema.org/Image>",
+            "<schema.org/Name>",
+            "<schema.org/URL>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/slogan>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Region>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/event>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/toLocation>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/State>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/About>",
+            "<schema.org/accessMode>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/citation>",
+            "<schema.org/contentLocation>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/sameAs>",
+            "<schema.org/schemaVersion>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timeRequired>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Blogposting>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Region>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/audio>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/State>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/event>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Continent>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/audio>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/AmusementPark>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/event>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/subjectOf>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Region>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/toLocation>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartof>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Beach>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternateName>",
+            "<schema.org/audio>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/toLocation>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Mountain>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/About>",
+            "<schema.org/TouristDestination>",
+            "<schema.org/accessMode>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/citation>",
+            "<schema.org/contentLocation>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/sameAs>",
+            "<schema.org/schemaVersion>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timeRequired>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/Blogposting>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    }
+]

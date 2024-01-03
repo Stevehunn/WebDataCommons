@@ -1,0 +1,283 @@
+[
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 12824.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 10472.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "<schema.org/trainName>",
+            "<schema.org/trainNumber>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 6211.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalPlatform>",
+            "<schema.org/arrivalStation>",
+            "<schema.org/departurePlatform>",
+            "<schema.org/departureStation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/trainName>",
+            "<schema.org/trainNumber>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 5414.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/trainName>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 1412.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 565.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/arrivalPlatform>",
+            "<schema.org/arrivalStation>",
+            "<schema.org/departurePlatform>",
+            "<schema.org/departureStation>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/trainName>",
+            "<schema.org/trainNumber>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 454.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 177.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalPlatform>",
+            "<schema.org/arrivalStation>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 137.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 129.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "<schema.org/name>",
+            "<schema.org/trainName>",
+            "<schema.org/trainNumber>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/trainName>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/image>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureStation>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/offers>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TrainTrip>"
+        ],
+        "count": 1.0
+    }
+]

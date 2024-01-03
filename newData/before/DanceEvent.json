@@ -1,0 +1,1407 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2887.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2412.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 537.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 334.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 207.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>",
+            "isa:<schema.org/Event>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 152.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 133.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 127.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/Offers>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 106.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 98.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>",
+            "isa:<schema.org/Event>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Image>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>",
+            "isa:<schema.org/Event>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/DanceEvent>"
+        ],
+        "count": 1.0
+    }
+]

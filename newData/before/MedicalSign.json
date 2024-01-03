@@ -1,0 +1,44 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSign>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSign>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalSign>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalSign>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSign>"
+        ],
+        "count": 1.0
+    }
+]

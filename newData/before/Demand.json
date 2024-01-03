@@ -1,0 +1,581 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 24818.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 3304.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1977.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1911.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1888.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1710.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1360.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 902.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryLeadTime>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 342.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/businessFunction>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 339.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/description>",
+            "<schema.org/inventoryLevel>",
+            "<schema.org/itemOffered>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 268.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/includesObject>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 236.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/name>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 219.0
+    },
+    {
+        "pset": [
+            "<schema.org/sku>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 176.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/itemCondition>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/availability>",
+            "<schema.org/itemCondition>",
+            "<schema.org/itemOffered>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/itemOffered>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/itemOffered>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/description>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/itemCondition>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/advanceBookingRequirement>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/availability>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/eligibleCustomerType>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/image>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/businessFunction>",
+            "<schema.org/eligibleQuantity>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/advanceBookingRequirement>",
+            "<schema.org/businessFunction>",
+            "<schema.org/eligibleTransactionVolume>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/warranty>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availability>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/itemOffered>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/advanceBookingRequirement>",
+            "<schema.org/areaServed>",
+            "<schema.org/availability>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/eligibleCustomerType>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/image>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eligibleDuration>",
+            "<schema.org/name>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/eligibleCustomerType>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offeredBy>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/description>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availability>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availability>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/eligibleTransactionVolume>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/itemCondition>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/Demand>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalRiskFactor>"
+        ],
+        "count": 6667.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalRiskFactor>"
+        ],
+        "count": 943.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalRiskFactor>"
+        ],
+        "count": 104.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalRiskFactor>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalRiskFactor>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalRiskFactor>"
+        ],
+        "count": 1.0
+    }
+]

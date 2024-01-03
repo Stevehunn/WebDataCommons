@@ -1,0 +1,956 @@
+[
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 7707.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 4221.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightHolder>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 3518.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 3258.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 2752.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1831.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1800.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1142.0
+    },
+    {
+        "pset": [
+            "<schema.org/audio>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1074.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/offers>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 986.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 902.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 812.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 779.0
+    },
+    {
+        "pset": [
+            "<schema.org/Track>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 735.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 598.0
+    },
+    {
+        "pset": [
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 567.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 517.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 488.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/tracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 445.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/provider>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 430.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 413.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 379.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 369.0
+    },
+    {
+        "pset": [
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 320.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 266.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 228.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 191.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 173.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 157.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/publisher>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/numTracks>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/offers>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightHolder>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/potentialAction>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/potentialAction>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/AggregateRating>",
+            "<schema.org/Author>",
+            "<schema.org/Sameas>",
+            "<schema.org/Url>",
+            "<schema.org/about>",
+            "<schema.org/accountablePerson>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/keywords>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/numTracks>",
+            "<schema.org/tracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Review>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/albumRelease>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicPlaylist>"
+        ],
+        "count": 1.0
+    }
+]

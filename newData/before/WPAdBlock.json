@@ -1,0 +1,62 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 2503.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/WPAdBlock>",
+            "isa:<schema.org/WPFooter>",
+            "isa:<schema.org/WPHeader>"
+        ],
+        "count": 831.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 288.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdvertiserContentArticle>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 1.0
+    }
+]

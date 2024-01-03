@@ -1,0 +1,32 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/FollowAction>"
+        ],
+        "count": 2115.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/followee>",
+            "isa:<schema.org/FollowAction>"
+        ],
+        "count": 367.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FollowAction>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/FollowAction>"
+        ],
+        "count": 3.0
+    }
+]

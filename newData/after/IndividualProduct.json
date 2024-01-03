@@ -1,0 +1,3337 @@
+[
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 245931.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 178125.0
+    },
+    {
+        "pset": [
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 79673.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/releaseDate>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 63327.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/gtin>",
+            "<schema.org/name>",
+            "<schema.org/size>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 48396.0
+    },
+    {
+        "pset": [
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 38695.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/sku>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 25087.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 23391.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/releaseDate>",
+            "<schema.org/size>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 13428.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 10334.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 6638.0
+    },
+    {
+        "pset": [
+            "<schema.org/sku>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 6200.0
+    },
+    {
+        "pset": [
+            "<schema.org/productID>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5490.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5255.0
+    },
+    {
+        "pset": [
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4262.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4142.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3659.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3562.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3464.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3072.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Url>"
+        ],
+        "count": 2915.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2804.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2788.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2471.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productionDate>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1978.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1878.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1871.0
+    },
+    {
+        "pset": [
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1687.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1558.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1417.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/gtin>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/size>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1381.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1284.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1254.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1099.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1087.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/color>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1010.0
+    },
+    {
+        "pset": [
+            "<schema.org/model>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1001.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 838.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 789.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 769.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 768.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productionDate>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 765.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 725.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 704.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 704.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/image>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 650.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 561.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 558.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 542.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 537.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/relatedLink>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/ItemPage>"
+        ],
+        "count": 507.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 503.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 492.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseDate>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 463.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 444.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 440.0
+    },
+    {
+        "pset": [
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 406.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 402.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/size>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 379.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 356.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 348.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 340.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 334.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/productionDate>",
+            "<schema.org/releaseDate>",
+            "<schema.org/serialNumber>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 333.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/serialNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 290.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 280.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/name>",
+            "<schema.org/size>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 272.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 268.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/size>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 246.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 236.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 235.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 233.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 224.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 216.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 214.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 212.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 188.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 187.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 185.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 185.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/model>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 160.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 155.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin14>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 152.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 146.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 146.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 144.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 144.0
+    },
+    {
+        "pset": [
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 141.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalproperty>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 135.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 127.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/gtin13>",
+            "<schema.org/gtin>",
+            "<schema.org/mpn>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/serialNumber>",
+            "<schema.org/sku>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/size>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/category>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/releaseDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin14>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/sku>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternatename>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/embedUrl>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin14>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/mpn>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin12>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/gtin12>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/SKU>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/productionDate>",
+            "<schema.org/releaseDate>",
+            "<schema.org/serialNumber>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin12>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/gtin13>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productionDate>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/audience>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/sku>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/contentLocation>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/image_link>",
+            "<schema.org/itemCondition>",
+            "<schema.org/keywords>",
+            "<schema.org/link>",
+            "<schema.org/manufacturer>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productionDate>",
+            "<schema.org/title>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/releaseDate>",
+            "<schema.org/serialNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin12>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin14>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/isbn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasProductReturnPolicy>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/applicationCategory>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/operatingSystem>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/SoftwareApplication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/offers>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/review>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/offers>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/height>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin12>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin14>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/isbn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternatename>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/color>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/nsn>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/gtin13>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1.0
+    }
+]

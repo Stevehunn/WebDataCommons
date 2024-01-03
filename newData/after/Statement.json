@@ -1,0 +1,23 @@
+[
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Statement>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/Statement>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 868.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 2.0
+    }
+]

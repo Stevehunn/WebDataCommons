@@ -1,0 +1,62 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BloodTest>",
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTest>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTestPanel>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/imagingTechnique>",
+            "<schema.org/name>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 2.0
+    }
+]

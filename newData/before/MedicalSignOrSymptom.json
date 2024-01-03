@@ -1,0 +1,200 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 5188.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/riskFactor>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 329.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 135.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/cause>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/cause>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/possibleTreatment>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/cause>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/possibleComplication>",
+            "<schema.org/potentialAction>",
+            "<schema.org/signOrSymptom>",
+            "<schema.org/typicalTest>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/expectedPrognosis>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/cause>",
+            "<schema.org/signOrSymptom>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalSignOrSymptom>"
+        ],
+        "count": 1.0
+    }
+]

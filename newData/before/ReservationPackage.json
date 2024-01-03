@@ -1,0 +1,38 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ReservationPackage>"
+        ],
+        "count": 814.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ReservationPackage>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReservationPackage>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReservationPackage>"
+        ],
+        "count": 9.0
+    }
+]

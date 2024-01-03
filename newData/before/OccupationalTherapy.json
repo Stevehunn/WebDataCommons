@@ -1,0 +1,28 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/OccupationalTherapy>"
+        ],
+        "count": 558.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OccupationalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/OccupationalTherapy>"
+        ],
+        "count": 1.0
+    }
+]

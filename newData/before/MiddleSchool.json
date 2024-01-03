@@ -1,0 +1,514 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 31071.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1335.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HighSchool>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 686.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 613.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 312.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 264.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 125.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/email>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/\\u4F20\\u771FNumber>",
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/tele\\u7535\\u8BDD>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ElementarySchool>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasPos>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MiddleSchool>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/OceanBodyOfWater>",
+            "isa:<schema.org/SeaBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/SeaBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/SeaBodyOfWater>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/HinduTemple>",
+            "isa:<schema.org/Mosque>",
+            "isa:<schema.org/SeaBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/SeaBodyOfWater>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/SeaBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    }
+]

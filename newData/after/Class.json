@@ -1,0 +1,147 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Class>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<w3.org/2000/01/rdf-schema#comment>",
+            "<w3.org/2000/01/rdf-schema#label>",
+            "<w3.org/2000/01/rdf-schema#subClassOf>",
+            "<w3.org/2002/07/owl#equivalentClass>",
+            "isa:<schema.org/Class>",
+            "isa:<w3.org/2000/01/rdf-schema#Class>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 1.0
+    }
+]

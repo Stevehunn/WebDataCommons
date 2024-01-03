@@ -1,0 +1,204 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 4047.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 1026.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 206.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 166.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 163.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/target>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 125.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/target>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/target>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/target>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/TradeAction>"
+        ],
+        "count": 1.0
+    }
+]

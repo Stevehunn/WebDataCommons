@@ -1,0 +1,162 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 32178.0
+    },
+    {
+        "pset": [
+            "<schema.org/drug>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 312.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/diagnosis>",
+            "<schema.org/gender>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/diagnosis>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/medicalAudience>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 1.0
+    }
+]

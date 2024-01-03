@@ -1,0 +1,184 @@
+[
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1411.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 212.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 199.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/participant>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/scheduledTime>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/participant>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/participant>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScheduleAction>"
+        ],
+        "count": 1.0
+    }
+]

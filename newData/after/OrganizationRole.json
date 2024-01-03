@@ -1,0 +1,524 @@
+[
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 38648.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/endDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 16393.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 10976.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/member>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 6954.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 3212.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/memberOf>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2620.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/namedPosition>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2001.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/musicGroupMember>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1803.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1110.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 919.0
+    },
+    {
+        "pset": [
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 700.0
+    },
+    {
+        "pset": [
+            "<schema.org/memberOf>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 689.0
+    },
+    {
+        "pset": [
+            "<schema.org/memberOf>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 592.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 578.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumni>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 525.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 510.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/endDate>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 504.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 486.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 364.0
+    },
+    {
+        "pset": [
+            "<schema.org/founder>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 312.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/musicGroupMember>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 226.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/member>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 204.0
+    },
+    {
+        "pset": [
+            "<schema.org/athlete>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/employee>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/members>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/athlete>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/coach>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumniOf>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/memberOf>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/employee>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/member>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/member>",
+            "<schema.org/roleName>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/athlete>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/athlete>",
+            "<schema.org/endDate>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/memberOf>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/employees>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/memberOf>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/athlete>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/memberOf>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/memberOf>",
+            "<schema.org/numberedPosition>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/coach>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/athlete>",
+            "<schema.org/endDate>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EmployeeRole>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/member>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumni>",
+            "<schema.org/foundingDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/member>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alumni>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/coach>",
+            "<schema.org/endDate>",
+            "<schema.org/roleName>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OrganizationRole>"
+        ],
+        "count": 1.0
+    }
+]

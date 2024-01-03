@@ -1,0 +1,4820 @@
+[
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6255.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4274.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/specialOpeningHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3988.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2808.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2487.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2157.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2142.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1802.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1663.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1602.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1528.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1302.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1064.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 949.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 704.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 667.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 648.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 627.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 601.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 544.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 522.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 497.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 484.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 483.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 434.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 421.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 355.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 309.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 307.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 299.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/EventVenue>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 285.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/department>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 270.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 263.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 236.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 233.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 229.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/EventVenue>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 213.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 148.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 109.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 107.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 107.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 102.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founders>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/events>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 82.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/event>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/NGO>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/Library>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArtGallery>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Tourist%20Destination>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/events>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/Church>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Restaurant>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GeoCoordinates>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArtGallery>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Mountain>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Pond>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Church>",
+            "isa:<schema.org/LandmarksOrHistoricalBuilder>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnimalShelter>",
+            "isa:<schema.org/Beach>",
+            "isa:<schema.org/Brewery>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/PerformingArtsTheater>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Zoo>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Zoo>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Casino>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Alternatename>",
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/menu>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArtGallery>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Store>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/OceanBodyOfWater>",
+            "isa:<schema.org/SeaBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/CivicStructure>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/SingleFamilyResidence>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/AmusementPark>",
+            "isa:<schema.org/Aquarium>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/Resort>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Zoo>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/provider>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LandmarksOrHistoricalBuilder>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/servesCuisine>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Tourist%20Destination>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ComicStory>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/Tourist%20Destination>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/photos>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    }
+]

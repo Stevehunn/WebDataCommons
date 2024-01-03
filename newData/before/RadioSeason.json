@@ -1,0 +1,42 @@
+[
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioSeason>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioSeason>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioSeason>"
+        ],
+        "count": 1.0
+    }
+]

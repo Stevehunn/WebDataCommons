@@ -1,0 +1,2337 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 26078.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subEvent>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 16380.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 8378.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 6933.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 3051.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 3041.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 3036.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2170.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/remainingAttendeeCapacity>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2116.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2024.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1814.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1717.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1711.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1672.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1242.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1194.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1160.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1020.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 901.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 874.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 723.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 704.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 647.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 574.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 521.0
+    },
+    {
+        "pset": [
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 487.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 457.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 444.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 437.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 424.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 412.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 392.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 285.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 264.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 247.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 246.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 221.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 184.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 148.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 131.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 121.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/sponsor>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/startDate>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventSchedule>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "<schema.org/videoFormat>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/subtitleLanguage>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/duration>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workPresented>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventSchedule>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ScreeningEvent>"
+        ],
+        "count": 1.0
+    }
+]

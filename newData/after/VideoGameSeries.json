@@ -1,0 +1,37 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/VideoGameSeries>"
+        ],
+        "count": 3694.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/VideoGameSeries>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/VideoGameSeries>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "isa:<schema.org/VideoGameSeries>"
+        ],
+        "count": 3.0
+    }
+]

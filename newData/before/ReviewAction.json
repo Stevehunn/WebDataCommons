@@ -1,0 +1,55 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ReviewAction>"
+        ],
+        "count": 117089.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/ReviewAction>"
+        ],
+        "count": 706.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewAction>"
+        ],
+        "count": 91.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReviewAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReviewAction>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,204 @@
+[
+    {
+        "pset": [
+            "<schema.org/question>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 1824.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 730.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/question>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 499.0
+    },
+    {
+        "pset": [
+            "<schema.org/question>",
+            "<schema.org/result>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 449.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 343.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/question>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/question>",
+            "<schema.org/recipient>",
+            "<schema.org/resultComment>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/agent>",
+            "<schema.org/question>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/question>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedAnswer>",
+            "<schema.org/agent>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/recipient>",
+            "<schema.org/resultComment>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/agent>",
+            "<schema.org/resultComment>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/agent>",
+            "<schema.org/question>",
+            "<schema.org/result>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/inLanguage>",
+            "<schema.org/question>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/AskAction>"
+        ],
+        "count": 1.0
+    }
+]

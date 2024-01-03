@@ -1,0 +1,398 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/termsOfService>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 11131.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/termsOfService>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/documentation>",
+            "<schema.org/serviceUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/termsOfService>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/name>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/documentation>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/availableChannel>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/termsOfService>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/version>",
+            "isa:<schema.org/WebAPI>"
+        ],
+        "count": 1.0
+    }
+]

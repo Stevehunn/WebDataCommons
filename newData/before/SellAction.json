@@ -1,0 +1,370 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 21592.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 8241.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 6142.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 5539.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 3388.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 1983.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionstatus>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/pricespecification>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 1525.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 864.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 839.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 371.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 235.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 233.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 167.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 158.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 137.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/SellAction>"
+        ],
+        "count": 1.0
+    }
+]

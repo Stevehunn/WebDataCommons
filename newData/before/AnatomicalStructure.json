@@ -1,0 +1,123 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 4296.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 1863.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/relatedCondition>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedPathophysiology>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/diagram>",
+            "<schema.org/partOfSystem>",
+            "<schema.org/relatedCondition>",
+            "<schema.org/relatedTherapy>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedPathophysiology>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnatomicalStructure>"
+        ],
+        "count": 1.0
+    }
+]

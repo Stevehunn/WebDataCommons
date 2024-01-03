@@ -1,0 +1,3543 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1307054.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 83520.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 45078.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 29088.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 12438.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 12199.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 6422.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 4538.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3436.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 3014.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 2901.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productionDate>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 1978.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1953.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1895.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1778.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1580.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1482.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1213.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1186.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1004.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 792.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 792.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productionDate>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 765.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 709.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 671.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 650.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 646.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 598.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 570.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 567.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 560.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 503.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 447.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 425.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 402.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 401.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 343.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 331.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 276.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 266.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 266.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 254.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 246.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 244.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 224.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 217.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 214.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 195.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 192.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 157.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 152.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 146.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 144.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 134.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/IndividualProduct>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/LOCATION>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/endTime>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/price>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/price>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/publisher>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/publisher>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/releaseDate>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/weight>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/target>",
+            "<schema.org/width>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/seller>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/BuyAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sku>",
+            "<schema.org/target>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    }
+]

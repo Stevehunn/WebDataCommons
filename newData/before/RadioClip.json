@@ -1,0 +1,71 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioClip>"
+        ],
+        "count": 1038.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/timeRequired>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioClip>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfEpisode>",
+            "<schema.org/timeRequired>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioClip>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeason>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/timeRequired>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioClip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/expires>",
+            "<schema.org/genre>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfEpisode>",
+            "<schema.org/timeRequired>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadioClip>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/JoinAction>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/participant>",
+            "<schema.org/target>",
+            "isa:<schema.org/JoinAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/JoinAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/JoinAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/JoinAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/JoinAction>"
+        ],
+        "count": 1.0
+    }
+]

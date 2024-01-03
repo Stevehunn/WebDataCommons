@@ -1,0 +1,4914 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 10743.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5043.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2874.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2659.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2291.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2189.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 894.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 715.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sdPublisher>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 593.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/duration>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 494.0
+    },
+    {
+        "pset": [
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 457.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 450.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 337.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 332.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 311.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 259.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/producer>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 250.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 227.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 183.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 170.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/tracks>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 162.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/producer>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 140.0
+    },
+    {
+        "pset": [
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 83.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/creditedTo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/releaseOf>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sdPublisher>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/albumProductionType>",
+            "<schema.org/albumRelease>",
+            "<schema.org/albumReleaseType>",
+            "<schema.org/byArtist>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/label>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/contributor>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/spatial>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sdPublisher>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/producer>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/contributor>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/spatial>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/albumProductionType>",
+            "<schema.org/albumReleaseType>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sdPublisher>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/audio>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/producer>",
+            "<schema.org/recordLabel>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/creditedto>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordlabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/producer>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/spatial>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Offers>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/tracks>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/producer>",
+            "<schema.org/releaseOf>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numtracks>",
+            "<schema.org/producer>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/spatial>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/track>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicGroup>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/isbn>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numberOfPages>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/tracks>",
+            "isa:<schema.org/MusicRecording>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/contributor>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/inLanguage>",
+            "<schema.org/locationCreated>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/spatial>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/contributor>",
+            "<schema.org/creditedTo>",
+            "<schema.org/datePublished>",
+            "<schema.org/duration>",
+            "<schema.org/locationCreated>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/spatial>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/track>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/MusicRelease>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/inLanguage>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releasedEvent>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/releaseOf>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isbn>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Offers>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/numTracks>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/tracks>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/albumRelease>",
+            "<schema.org/byArtist>",
+            "<schema.org/catalogNumber>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/musicReleaseFormat>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/recordLabel>",
+            "<schema.org/releaseOf>",
+            "<schema.org/review>",
+            "isa:<schema.org/MusicAlbum>",
+            "isa:<schema.org/MusicRelease>"
+        ],
+        "count": 1.0
+    }
+]

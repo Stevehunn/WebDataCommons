@@ -1,0 +1,54 @@
+[
+    {
+        "pset": [
+            "<schema.org/Duration>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 50022.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 4744.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 869.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 263.0
+    },
+    {
+        "pset": [
+            "<schema.org/datetime>",
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 219.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/Duration>"
+        ],
+        "count": 4.0
+    }
+]

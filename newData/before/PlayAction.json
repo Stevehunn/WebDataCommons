@@ -1,0 +1,84 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 94511.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 4595.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 1055.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 1054.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/audience>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 1.0
+    }
+]

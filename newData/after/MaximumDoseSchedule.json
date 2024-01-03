@@ -1,0 +1,18 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MaximumDoseSchedule>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/MaximumDoseSchedule>"
+        ],
+        "count": 8.0
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 490358.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/Distance>",
+            "isa:<schema.org/QuantitativeValue>"
+        ],
+        "count": 53094.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/Distance>"
+        ],
+        "count": 12.0
+    }
+]

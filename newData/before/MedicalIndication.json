@@ -1,0 +1,113 @@
+[
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 197.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 156.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalIndication>"
+        ],
+        "count": 1.0
+    }
+]

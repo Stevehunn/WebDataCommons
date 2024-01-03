@@ -1,0 +1,71 @@
+[
+    {
+        "pset": [
+            "<schema.org/chemicalComposition>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChemicalSubstance>"
+        ],
+        "count": 8356.0
+    },
+    {
+        "pset": [
+            "<schema.org/chemicalComposition>",
+            "<schema.org/chemicalRole>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialUse>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChemicalSubstance>"
+        ],
+        "count": 1792.0
+    },
+    {
+        "pset": [
+            "<schema.org/chemicalComposition>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialUse>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChemicalSubstance>"
+        ],
+        "count": 301.0
+    },
+    {
+        "pset": [
+            "<schema.org/chemicalRole>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialUse>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChemicalSubstance>"
+        ],
+        "count": 160.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChemicalSubstance>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialUse>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChemicalSubstance>"
+        ],
+        "count": 28.0
+    }
+]

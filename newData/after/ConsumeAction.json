@@ -1,0 +1,64 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 382.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 217.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ConsumeAction>"
+        ],
+        "count": 1.0
+    }
+]

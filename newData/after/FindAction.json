@@ -1,0 +1,95 @@
+[
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 6994.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 874.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 284.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/FindAction>"
+        ],
+        "count": 1.0
+    }
+]

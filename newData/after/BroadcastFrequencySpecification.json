@@ -1,0 +1,33 @@
+[
+    {
+        "pset": [
+            "<schema.org/broadcastFrequencyValue>",
+            "<schema.org/broadcastSignalModulation>",
+            "<schema.org/broadcastSubChannel>",
+            "isa:<schema.org/BroadcastFrequencySpecification>"
+        ],
+        "count": 5785.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastFrequencyValue>",
+            "<schema.org/broadcastSignalModulation>",
+            "isa:<schema.org/BroadcastFrequencySpecification>"
+        ],
+        "count": 980.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastFrequencyValue>",
+            "isa:<schema.org/BroadcastFrequencySpecification>"
+        ],
+        "count": 360.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastSignalModulation>",
+            "isa:<schema.org/BroadcastFrequencySpecification>"
+        ],
+        "count": 4.0
+    }
+]

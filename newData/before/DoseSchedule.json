@@ -1,0 +1,129 @@
+[
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 2246.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1168.0
+    },
+    {
+        "pset": [
+            "<schema.org/frequency>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 181.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 166.0
+    },
+    {
+        "pset": [
+            "<schema.org/frequency>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/name>",
+            "<schema.org/targetPopulation>",
+            "<schema.org/url>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/frequency>",
+            "<schema.org/name>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/name>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/guideline>",
+            "<schema.org/name>",
+            "<schema.org/study>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/guideline>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,425 @@
+[
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 229952.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingDestination>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 79845.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 68730.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 56960.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 49301.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 16353.0
+    },
+    {
+        "pset": [
+            "<schema.org/doesNotShip>",
+            "<schema.org/shippingDestination>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 8488.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 8444.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 7470.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 7429.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 4721.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 4464.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/doesNotShip>",
+            "<schema.org/shippingDestination>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 3409.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 2472.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/service>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1788.0
+    },
+    {
+        "pset": [
+            "<schema.org/country>",
+            "<schema.org/description>",
+            "<schema.org/handlingTime>",
+            "<schema.org/service>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1461.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 948.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingLabel>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 895.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 835.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingRate>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 834.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 792.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingdestination>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 745.0
+    },
+    {
+        "pset": [
+            "<schema.org/eligibleTransactionVolume>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 613.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/value>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 592.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 578.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 503.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/name>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 269.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/deliveryTime>",
+            "<schema.org/itemCondition>",
+            "<schema.org/seller>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 241.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/freeShippingThresold>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 166.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 98.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 91.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingLabel>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/freeShippingThreshold>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/definedRegion>",
+            "<schema.org/shippingSettingsLink>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/doesNotShip>",
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutOffTime>",
+            "<schema.org/deliveryTime>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/doesNotShip>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/doesNotShip>",
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/description>",
+            "<schema.org/doesNotShip>",
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "<schema.org/transitTimeLabel>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/doesNotShip>",
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/doesNotShip>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryTime>",
+            "<schema.org/description>",
+            "<schema.org/doesNotShip>",
+            "<schema.org/name>",
+            "<schema.org/shippingDestination>",
+            "<schema.org/shippingRate>",
+            "isa:<schema.org/OfferShippingDetails>"
+        ],
+        "count": 1.0
+    }
+]

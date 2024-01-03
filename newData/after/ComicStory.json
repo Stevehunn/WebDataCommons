@@ -1,0 +1,528 @@
+[
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 1114.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/artist>",
+            "<schema.org/genre>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 991.0
+    },
+    {
+        "pset": [
+            "<schema.org/bookFormat>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 986.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 713.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 479.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 228.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/letterer>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 151.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 127.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/bookEdition>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/editor>",
+            "<schema.org/inker>",
+            "<schema.org/letterer>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/text>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ComicStory>",
+            "isa:<schema.org/CreativeWork>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/bookFormat>",
+            "isa:<schema.org/ComicStory>",
+            "isa:<schema.org/CreativeWork>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/bookEdition>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/editor>",
+            "<schema.org/inker>",
+            "<schema.org/letterer>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/datePublished>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/letterer>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/letterer>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/inker>",
+            "<schema.org/letterer>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/artist>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/letterer>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/genre>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/editor>",
+            "<schema.org/inker>",
+            "<schema.org/letterer>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/editor>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/colorist>",
+            "<schema.org/editor>",
+            "<schema.org/inker>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/ComicStory>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/bookEdition>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/inker>",
+            "<schema.org/name>",
+            "<schema.org/penciler>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/author>",
+            "<schema.org/editor>",
+            "<schema.org/letterer>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/artist>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bookEdition>",
+            "<schema.org/creator>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ComicStory>"
+        ],
+        "count": 1.0
+    }
+]

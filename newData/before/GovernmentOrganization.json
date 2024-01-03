@@ -1,0 +1,5550 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 62903.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 16063.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 15909.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 13057.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 9070.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6768.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4974.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4710.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4697.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4371.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4142.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4070.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3544.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3448.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3389.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3230.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3185.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/legalName>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3184.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2591.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2484.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2133.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2090.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2082.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1883.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1845.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1759.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1736.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1693.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1666.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/department>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1619.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1409.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1407.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1291.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1276.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1271.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1253.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1132.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1127.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1105.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1079.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1061.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 989.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 848.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 780.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 640.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 633.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 627.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/department>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 601.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Library>"
+        ],
+        "count": 601.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 601.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 585.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 575.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 553.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 532.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 504.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 493.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 482.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 480.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 472.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 468.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 446.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 421.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 411.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 407.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 379.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 375.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 348.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duns>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 345.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 340.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 335.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 323.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 310.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telePhone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 309.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 298.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 272.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 261.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/legalName>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 259.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/memberOf>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/subOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 259.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 256.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/memberOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 249.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 239.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 225.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 222.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 215.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/diversityPolicy>",
+            "<schema.org/ethicsPolicy>",
+            "<schema.org/logo>",
+            "<schema.org/naics>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 212.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 210.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 196.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 192.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 182.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 174.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 151.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 145.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEmployees>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 132.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 125.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 103.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 102.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 101.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasMenu>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/Address>",
+            "<schema.org/ContactPoint>",
+            "<schema.org/Image>",
+            "<schema.org/Name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 84.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contactPoint>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasMenu>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/license>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/event>",
+            "<schema.org/image>",
+            "<schema.org/isicV4>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/availability>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/category>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "isa:<schema.org/Event>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/logo>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/department>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEmployees>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/foundingDate>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/dissolutionDate>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/logo>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/inLanguage>",
+            "<schema.org/license>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Corporation>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/memberOf>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/isicv4>",
+            "<schema.org/location>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceArea>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/award>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/duns>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/funder>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEmployees>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/foundingDate>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/award>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/duns>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/funder>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEmployees>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/founders>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/additionalType>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/email>",
+            "<schema.org/employee>",
+            "<schema.org/faxNumber>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subOrganization>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/NGO>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/memberOf>",
+            "<schema.org/members>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEmployees>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/logo>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/email>",
+            "<schema.org/employee>",
+            "<schema.org/event>",
+            "<schema.org/faxNumber>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subOrganization>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/department>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentBuilding>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionableFeedbackPolicy>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/correctionsPolicy>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/diversityPolicy>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/diversityPolicy>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOrganization>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/department>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/faxNumber>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/employee>",
+            "<schema.org/logo>",
+            "<schema.org/memberOf>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/legalName>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/subOrganization>",
+            "<schema.org/taxID>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/foundingDate>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/availability>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/category>",
+            "<schema.org/contactPoint>",
+            "<schema.org/doorTime>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "isa:<schema.org/Event>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/identifier>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/LegalService>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "<schema.org/workTranslation>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/dissolutionDate>",
+            "<schema.org/foundingDate>",
+            "<schema.org/identifier>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/memberOf>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/email>",
+            "<schema.org/employee>",
+            "<schema.org/faxNumber>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEmployees>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/duns>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/location>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Museum>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/department>",
+            "<schema.org/image>",
+            "<schema.org/isicV4>",
+            "<schema.org/naics>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/ContactPoint>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/members>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/serviceArea>",
+            "<schema.org/url>",
+            "isa:<schema.org/GovernmentOrganization>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 626.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalExam>"
+        ],
+        "count": 1.0
+    }
+]

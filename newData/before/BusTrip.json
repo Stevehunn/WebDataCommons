@@ -1,0 +1,462 @@
+[
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 111119.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 83753.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 39831.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/busName>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 27365.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 18403.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 12280.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 11066.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 9641.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 8172.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 6144.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 5858.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/busName>",
+            "<schema.org/departureTime>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 5251.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 4873.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/busName>",
+            "<schema.org/busNumber>",
+            "<schema.org/departureBusStop>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 4691.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 4228.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 898.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/busName>",
+            "<schema.org/busNumber>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 777.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 565.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 429.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/busName>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 393.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 342.0
+    },
+    {
+        "pset": [
+            "<schema.org/busName>",
+            "<schema.org/description>",
+            "<schema.org/isicV4>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 317.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 310.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/busName>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 102.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 82.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/busName>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/busName>",
+            "<schema.org/busNumber>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/busName>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/busName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBusStop>",
+            "<schema.org/author>",
+            "<schema.org/busnumber>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/departureBusStop>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureBusStop>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BusTrip>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 10308.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 4009.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 3318.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 2593.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 2027.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 1402.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 769.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 484.0
+    },
+    {
+        "pset": [
+            "<schema.org/eligibleRegion>",
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 386.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/availabilityends>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 1.0
+    }
+]

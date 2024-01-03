@@ -1,0 +1,89 @@
+[
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 401.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/editor>",
+            "<schema.org/keywords>",
+            "<schema.org/learningResourceType>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/text>",
+            "isa:<schema.org/Code>"
+        ],
+        "count": 1.0
+    }
+]

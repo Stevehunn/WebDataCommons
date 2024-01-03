@@ -1,0 +1,50 @@
+[
+    {
+        "pset": [
+            "<schema.org/grantee>",
+            "<schema.org/permissionType>",
+            "isa:<schema.org/DigitalDocumentPermission>"
+        ],
+        "count": 5913.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/grantee>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/DigitalDocumentPermission>"
+        ],
+        "count": 752.0
+    },
+    {
+        "pset": [
+            "<schema.org/permissionType>",
+            "isa:<schema.org/DigitalDocumentPermission>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/permissiontype>",
+            "isa:<schema.org/DigitalDocumentPermission>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/grantee>",
+            "isa:<schema.org/DigitalDocumentPermission>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DigitalDocumentPermission>"
+        ],
+        "count": 1.0
+    }
+]

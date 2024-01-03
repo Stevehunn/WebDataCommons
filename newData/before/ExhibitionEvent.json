@@ -1,0 +1,4501 @@
+[
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 54898.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 19171.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9708.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9070.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 6387.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3422.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3177.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2974.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2352.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1634.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1332.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1109.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 932.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 851.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 845.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 784.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 749.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 738.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 481.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 475.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 400.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 371.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 346.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 335.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 290.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 240.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 236.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 234.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 233.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 203.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 175.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 165.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 162.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 162.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 158.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 147.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 138.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 131.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 103.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/Offers>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/Performer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workPerformed>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/publisher>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/ArtGallery>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/Museum>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventSchedule>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/Performer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/publisher>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "<schema.org/workTranslation>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/attendee>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/review>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/maximumAttendeeCapacity>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/site>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/photos>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/publisher>",
+            "<schema.org/startDate>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "<schema.org/workTranslation>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/photos>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/sponsor>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/publisher>",
+            "<schema.org/startDate>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "<schema.org/workTranslation>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/photo>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/superEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/previousStartDate>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/email>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/publisher>",
+            "<schema.org/translationOfWork>",
+            "<schema.org/url>",
+            "<schema.org/workTranslation>",
+            "isa:<schema.org/ExhibitionEvent>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/geo>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExhibitionEvent>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "pset": [
+            "<schema.org/Address>",
+            "<schema.org/Description>",
+            "<schema.org/Name>",
+            "<schema.org/OpeningHours>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicToilet>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicToilet>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicToilet>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "pset": [
+            "<schema.org/discount>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 24545.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 2662.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1812.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1352.0
+    },
+    {
+        "pset": [
+            "<schema.org/confirmationNumber-output>",
+            "<schema.org/orderNumber-output>",
+            "<schema.org/orderStatus-output>",
+            "<schema.org/url-output>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 508.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/paymentMethod>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 140.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedOffer>",
+            "<schema.org/billingAddress>",
+            "<schema.org/merchant>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Order>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/paymentUrl>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/customer>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedOffer>",
+            "<schema.org/billingAddress>",
+            "<schema.org/customer>",
+            "<schema.org/discount>",
+            "<schema.org/discountCurrency>",
+            "<schema.org/merchant>",
+            "<schema.org/orderDate>",
+            "<schema.org/orderNumber>",
+            "<schema.org/orderStatus>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/customer>",
+            "<schema.org/orderedItem>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/customer>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/orderedItem>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedOffer>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchant>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/billingAddress>",
+            "<schema.org/merchant>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/confirmationNumber-output>",
+            "<schema.org/name>",
+            "<schema.org/orderNumber-output>",
+            "<schema.org/orderStatus-output>",
+            "<schema.org/url-output>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/employee>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Order>"
+        ],
+        "count": 1.0
+    }
+]

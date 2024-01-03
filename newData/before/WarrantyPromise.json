@@ -1,0 +1,137 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 66404.0
+    },
+    {
+        "pset": [
+            "<schema.org/durationOfWarranty>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 19099.0
+    },
+    {
+        "pset": [
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/name>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 2462.0
+    },
+    {
+        "pset": [
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 2173.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 1889.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 441.0
+    },
+    {
+        "pset": [
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 377.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 131.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/name>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/durationOfWarranty>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/warrantyScope>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/durationofWarranty>",
+            "isa:<schema.org/WarrantyPromise>"
+        ],
+        "count": 1.0
+    }
+]

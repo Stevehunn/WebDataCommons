@@ -1,0 +1,256 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 859.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 584.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 538.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/participant>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/CreateAction>"
+        ],
+        "count": 1.0
+    }
+]

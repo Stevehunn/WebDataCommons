@@ -1,0 +1,4022 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1616668.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 352660.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 231252.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 135222.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 114508.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 114200.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 69275.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 35263.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 23904.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 22825.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 19424.0
+    },
+    {
+        "pset": [
+            "<schema.org/geoMidpoint>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 14688.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 12732.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 12082.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 7042.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5245.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/City>"
+        ],
+        "count": 4384.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 4208.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3977.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3374.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3229.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2454.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2202.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1940.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1934.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1645.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1559.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1367.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1214.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1057.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1049.0
+    },
+    {
+        "pset": [
+            "<schema.org/PriceRange>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1036.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/state>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 945.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 911.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 868.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 680.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 642.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 627.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 625.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 596.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 532.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 492.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/maps>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 430.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 423.0
+    },
+    {
+        "pset": [
+            "<schema.org/geoMidpoint>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 408.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 386.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 375.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 331.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 325.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 303.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/title>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 295.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 294.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 274.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/photos>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 264.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 255.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 254.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 243.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 243.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 219.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 199.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 185.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 164.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 163.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 160.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 158.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 156.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 147.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/openingHours>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 127.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 121.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 115.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/geo>",
+            "<schema.org/geoWithin>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 101.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/SameAs>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 83.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/Hasmap>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/map>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/coordinates>",
+            "<schema.org/country>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/geo>",
+            "<schema.org/hasmap>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/geoWithin>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/cityname>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/branchCode>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/globalLocationNumber>",
+            "<schema.org/hasMap>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/containsPlace>",
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Website>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/Event>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Name>",
+            "<schema.org/Url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/city>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/hasMap>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/Event>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Sameas>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/branchCode>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/includesAttraction>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedinPlace>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Lehi>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/city>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/city>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/PriceRange>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Destination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/publicAccess>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/contactType>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/name>",
+            "<schema.org/serviceLocation>",
+            "<schema.org/servicePhone>",
+            "<schema.org/serviceUrl>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/ContactPoint>",
+            "isa:<schema.org/ServiceChannel>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/events>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/County>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Hasmap>",
+            "<schema.org/description>",
+            "<schema.org/map>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/Cemetery>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geoMidpoint>",
+            "<schema.org/geoRadius>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/GeoCircle>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/telePhone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>",
+            "isa:<schema.org/place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/disambiguatingdescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mainentityofpage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sameas>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedIn>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/GeoShape>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/maps>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Beach>",
+            "isa:<schema.org/BodyOfWater>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Province>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/branchCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CITY>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/alternateName>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/contactType>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/ContactPoint>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/geoWithin>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/PriceRange>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/state>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/streetAddress>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Image>",
+            "<schema.org/address>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isAcceptingNewPatients>",
+            "<schema.org/logo>",
+            "<schema.org/medicalSpecialty>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Dentist>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/areaServed>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Brand>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/URL>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mainentityofpage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/city>",
+            "isa:<schema.org/place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/PostalAddress>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/city>",
+            "isa:<schema.org/country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.orgname>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/name>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedIn>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/geoShape>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "<schema.orgname>",
+            "isa:<schema.org/City>",
+            "isa:<schema.orgCity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/RoofingContractor>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/Place>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>",
+            "isa:<schema.org/country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/EducationalOrganization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Place>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/addressRegion>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/postalCode>",
+            "<schema.org/sameAs>",
+            "<schema.org/streetAddress>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/PostalAddress>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/GeoShape>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/disambiguatingdescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/maps>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProfessionalService>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/AutoDealer>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Hasmap>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/map>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/city>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/hasMap>",
+            "<schema.org/name>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/Country>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/City>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/State>",
+            "isa:<schema.org/state>"
+        ],
+        "count": 1.0
+    }
+]

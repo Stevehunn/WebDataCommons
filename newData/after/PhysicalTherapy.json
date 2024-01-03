@@ -1,0 +1,448 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 12162.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1285.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 297.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 270.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 199.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 121.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/faxNumber>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/MedicalSpecialty>",
+            "isa:<schema.org/MedicineSystem>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableService>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/isAcceptingNewPatients>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availableService>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contactPoint>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/department>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/photo>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/sameas>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/%20%20%20%20%20%20%20%20%20%20%20%20alternateName>",
+            "<schema.org/%20%20%20%20%20%20%20%20%20%20%20%20url>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/%20%20%20%20%20%20%20%20%20%20%20%20url>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/AreaServed>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/keywords>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/potentialAction>",
+            "<schema.org/priceRange>",
+            "<schema.org/procedureType>",
+            "<schema.org/relatedLink>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/ProfessionalService>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>"
+        ],
+        "count": 1.0
+    }
+]

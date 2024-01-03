@@ -1,0 +1,28 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/possibleTreatment>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/signOrSymptom>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 1.0
+    }
+]

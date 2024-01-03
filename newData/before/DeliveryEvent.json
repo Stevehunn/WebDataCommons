@@ -1,0 +1,40 @@
+[
+    {
+        "pset": [
+            "<schema.org/doorTime>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 182.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/DeliveryEvent>"
+        ],
+        "count": 1.0
+    }
+]

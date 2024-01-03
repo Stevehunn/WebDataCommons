@@ -1,0 +1,95 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 555621.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 56840.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 4279.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 722.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 101.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "<schema.org/totalPrice>",
+            "<schema.org/url>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/telephone>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/provider>",
+            "<schema.org/totalPrice>",
+            "<schema.org/url>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/reservationFor>",
+            "isa:<schema.org/Reservation>"
+        ],
+        "count": 1.0
+    }
+]

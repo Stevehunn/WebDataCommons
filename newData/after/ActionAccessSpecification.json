@@ -1,0 +1,143 @@
+[
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 6548.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 4488.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 3697.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 3691.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 2974.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 1250.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 799.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 553.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 420.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 383.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/ineligibleRegion>",
+            "<schema.org/name>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/eligibleRegion>",
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/requiresSubscription>",
+            "isa:<schema.org/ActionAccessSpecification>"
+        ],
+        "count": 1.0
+    }
+]

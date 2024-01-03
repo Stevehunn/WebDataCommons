@@ -1,0 +1,228 @@
+[
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 23797.0
+    },
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 8712.0
+    },
+    {
+        "pset": [
+            "<schema.org/codingSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 7267.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/codingSystem>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 6972.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 3204.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 2885.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 1561.0
+    },
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 568.0
+    },
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 301.0
+    },
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 139.0
+    },
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/codingSystem>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/codingSystem>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Code>",
+            "<schema.org/codingSystem>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/codeValue>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/codingsystem>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/cause>",
+            "<schema.org/code>",
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/epidemiology>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/possibleTreatment>",
+            "<schema.org/primaryPrevention>",
+            "<schema.org/signOrSymptom>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCode>",
+            "isa:<schema.org/MedicalCondition>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/cause>",
+            "<schema.org/code>",
+            "<schema.org/codeValue>",
+            "<schema.org/codingSystem>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/epidemiology>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/possibleTreatment>",
+            "<schema.org/primaryPrevention>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCode>",
+            "isa:<schema.org/MedicalCondition>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "isa:<schema.org/MedicalCode>"
+        ],
+        "count": 1.0
+    }
+]

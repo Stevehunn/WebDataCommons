@@ -1,0 +1,92 @@
+[
+    {
+        "pset": [
+            "<schema.org/associatedMedia>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 6394.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 5600.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 2343.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 1631.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 1548.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 378.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntity>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MediaGallery>"
+        ],
+        "count": 1.0
+    }
+]

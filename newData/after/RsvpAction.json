@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/additionalNumberOfGuests>",
+            "isa:<schema.org/RsvpAction>"
+        ],
+        "count": 599.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/target>",
+            "isa:<schema.org/RsvpAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/rsvpResponse-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/RsvpAction>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/fileFormat>",
+            "isa:<schema.org/LegislationObject>"
+        ],
+        "count": 25759.0
+    },
+    {
+        "pset": [
+            "<schema.org/encodingFormat>",
+            "isa:<schema.org/LegislationObject>"
+        ],
+        "count": 5219.0
+    },
+    {
+        "pset": [
+            "<schema.org/encodesCreativeWork>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationLegalValue>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/LegislationObject>"
+        ],
+        "count": 168.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightHolder>",
+            "<schema.org/encodesCreativeWork>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationLegalValue>",
+            "<schema.org/license>",
+            "isa:<schema.org/LegislationObject>"
+        ],
+        "count": 84.0
+    }
+]

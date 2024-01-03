@@ -1,0 +1,391 @@
+[
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 14240.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 7742.0
+    },
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 6402.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 4237.0
+    },
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 459.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 261.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 151.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/hoursAvailable>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableService>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceArea>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/areaServed>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/areaServed>",
+            "<schema.org/containedIn>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasMenu>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/location>",
+            "<schema.org/menu>",
+            "<schema.org/name>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/servesCuisine>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/FoodEstablishment>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/FoodService>"
+        ],
+        "count": 1.0
+    }
+]

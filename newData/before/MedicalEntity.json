@@ -1,0 +1,914 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 85634.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 4619.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameas>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 3792.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1308.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 888.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 656.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 655.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 588.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 401.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 381.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 247.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 234.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 230.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 163.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/translation>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 131.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/medicalSpecialty>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/guideline>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/logo>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/legalStatus>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/@medicalSpecialty>",
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/guideline>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/guideline>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/logo>",
+            "<schema.org/medicalSpecialty>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/taxID>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LifestyleModification>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/medicalSpecialty>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/study>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/diagnosis>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/medicalAudience>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/study>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightYear>",
+            "<schema.org/instrument>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntity>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/result>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/medicalSpecialty>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/Physician>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/drug>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/code>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/founder>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/image>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/guideline>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalEntity>"
+        ],
+        "count": 1.0
+    }
+]

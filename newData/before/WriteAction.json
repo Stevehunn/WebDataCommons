@@ -1,0 +1,50 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1833.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1744.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 137.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1.0
+    }
+]

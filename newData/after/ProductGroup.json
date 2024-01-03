@@ -1,0 +1,2548 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 75030.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 11945.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 10714.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupId>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 5109.0
+    },
+    {
+        "pset": [
+            "<schema.org/Category>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4822.0
+    },
+    {
+        "pset": [
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3915.0
+    },
+    {
+        "pset": [
+            "<schema.org/Category>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3830.0
+    },
+    {
+        "pset": [
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3437.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1745.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1735.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1423.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1397.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1280.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1062.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 831.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 772.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 714.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 709.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 693.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 486.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 464.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 354.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/review>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 300.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 276.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 273.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 270.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 257.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 254.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 242.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupId>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 238.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupId>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 204.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 191.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 186.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 125.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/Category>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 103.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Brand>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 84.0
+    },
+    {
+        "pset": [
+            "<schema.org/ProductGroup>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupId>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/Category>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/logo>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/ProductGroupID>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/pattern>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/productID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/productId>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/Category>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/itemCondition>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin12>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/productId>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/pattern>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasVariant>",
+            "<schema.org/productGroupID>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/material>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/pattern>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/pattern>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasVariant>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/weight>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productID>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/@keywords>",
+            "<schema.org/@productGroupID>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/logo>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/itemCondition>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/gtin>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/productGroupID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/gtin>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/productGroupID>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/weight>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/depth>",
+            "<schema.org/description>",
+            "<schema.org/hasVariant>",
+            "<schema.org/height>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/pattern>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/variesBy>",
+            "<schema.org/width>",
+            "isa:<schema.org/ProductGroup>"
+        ],
+        "count": 1.0
+    }
+]

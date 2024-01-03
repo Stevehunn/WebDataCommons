@@ -1,0 +1,108 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Class>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<omeka.org/s/vocabs/o#label>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Class>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    }
+]

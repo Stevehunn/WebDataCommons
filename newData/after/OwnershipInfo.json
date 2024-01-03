@@ -1,0 +1,116 @@
+[
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/ownedFrom>",
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 8200.0
+    },
+    {
+        "pset": [
+            "<schema.org/acquiredFrom>",
+            "<schema.org/name>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 7767.0
+    },
+    {
+        "pset": [
+            "<schema.org/acquiredFrom>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 4077.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 254.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/ownedFrom>",
+            "<schema.org/typeOfGood>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/ownedFrom>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/typeOfGood>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/ownedFrom>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/url>",
+            "isa:<schema.org/OwnershipInfo>"
+        ],
+        "count": 1.0
+    }
+]

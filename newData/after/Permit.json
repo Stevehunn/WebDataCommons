@@ -1,0 +1,27 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/validFrom>",
+            "<schema.org/validUntil>",
+            "isa:<schema.org/Permit>"
+        ],
+        "count": 1542.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/issuedBy>",
+            "<schema.org/issuedThrough>",
+            "<schema.org/name>",
+            "<schema.org/permitAudience>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "<schema.org/validFor>",
+            "<schema.org/validIn>",
+            "isa:<schema.org/Permit>"
+        ],
+        "count": 1.0
+    }
+]

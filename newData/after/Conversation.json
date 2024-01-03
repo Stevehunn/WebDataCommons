@@ -1,0 +1,173 @@
+[
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/comment>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateCreated>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/text>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 9569.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 5363.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateCreated>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/text>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 1851.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 419.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Collection>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/interactionStatistic>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Collection>",
+            "isa:<schema.org/Conversation>",
+            "isa:<schema.org/Periodical>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/contributor>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Conversation>"
+        ],
+        "count": 1.0
+    }
+]

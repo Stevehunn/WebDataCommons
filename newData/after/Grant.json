@@ -1,0 +1,98 @@
+[
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 10822.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 613.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 500.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 310.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "<schema.org/image>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 157.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fundedItem>",
+            "<schema.org/funder>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/funder>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 1.0
+    }
+]

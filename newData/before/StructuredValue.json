@@ -1,0 +1,82 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 23982.0
+    },
+    {
+        "pset": [
+            "isa:<data.flachau.com/schema/AmenityFeature>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 468.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.org/minPrice>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/unitText>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 4.0
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "<schema.org/name>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 1726.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "<schema.org/object>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 1310.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 201.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChooseAction>",
+            "isa:<schema.org/VoteAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 1.0
+    }
+]

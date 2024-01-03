@@ -1,0 +1,27 @@
+[
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/RecommendedDoseSchedule>"
+        ],
+        "count": 2.0
+    }
+]

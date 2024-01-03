@@ -1,0 +1,192 @@
+[
+    {
+        "pset": [
+            "<schema.org/educationalRole>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 55798.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/educationalRole>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 8566.0
+    },
+    {
+        "pset": [
+            "<schema.org/EducationalRole>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 5697.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/educationalRole>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 1578.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 1379.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 1038.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/educationalRole>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 863.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 329.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/audiencetype>",
+            "<schema.org/educationalRole>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/educationalRole>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "<schema.org/URL>",
+            "<schema.org/educationalRole>",
+            "<schema.org/name>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/AudienceType>",
+            "<schema.org/educationalRole>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/educationalRole>",
+            "<schema.org/geographicArea>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/EducationalAudience>"
+        ],
+        "count": 1.0
+    }
+]

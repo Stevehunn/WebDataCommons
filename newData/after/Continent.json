@@ -1,0 +1,98 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 2189.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 180.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Continent>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/Continent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Continent>",
+            "isa:<schema.org/geoShape>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 4591.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 4141.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 779.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 672.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 372.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/instrument>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RegisterAction>"
+        ],
+        "count": 1.0
+    }
+]

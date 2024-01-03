@@ -1,0 +1,62 @@
+[
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 35981.0
+    },
+    {
+        "pset": [
+            "<dct:conformsTo>",
+            "<schema.org/hasRepresentation>",
+            "<schema.org/identifier>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 710.0
+    },
+    {
+        "pset": [
+            "<dct:conformsTo>",
+            "<schema.org/hasRepresentation>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartOfBioChemEntity>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 633.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/url>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 365.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 317.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 289.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 1.0
+    }
+]

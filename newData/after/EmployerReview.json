@@ -1,0 +1,61 @@
+[
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/EmployerReview>"
+        ],
+        "count": 2236.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/EmployerReview>"
+        ],
+        "count": 338.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/EmployerReview>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/EmployerReview>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewAspect>",
+            "isa:<schema.org/EmployerReview>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/EmployerReview>"
+        ],
+        "count": 1.0
+    }
+]

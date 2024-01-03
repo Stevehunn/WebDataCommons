@@ -1,0 +1,252 @@
+[
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 7208.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/codeCategory>",
+            "<schema.org/name>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 3963.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/name>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 3043.0
+    },
+    {
+        "pset": [
+            "<rs.tdwg.org/dwc/terms/vernacularName>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/alternateScientificName>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 2923.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1929.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/alternateScientificName>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1383.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/sameAs>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1078.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/sameAs>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1045.0
+    },
+    {
+        "pset": [
+            "<rs.tdwg.org/dwc/terms/vernacularName>",
+            "<schema.org/additionalType>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 975.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 412.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/sameAs>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 375.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/sameAs>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 104.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/url>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<rs.tdwg.org/dwc/terms/vernacularName>",
+            "<schema.org/additionalType>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/parentTaxon>",
+            "<schema.org/scientificName>",
+            "<schema.org/taxonRank>",
+            "isa:<schema.org/Taxon>"
+        ],
+        "count": 1.0
+    }
+]

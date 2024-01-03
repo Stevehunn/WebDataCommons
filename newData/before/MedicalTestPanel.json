@@ -1,0 +1,29 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BloodTest>",
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTest>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTestPanel>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 1.0
+    }
+]

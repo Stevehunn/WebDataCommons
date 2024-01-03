@@ -1,0 +1,4774 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 26554.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 15267.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10404.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8070.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8000.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6798.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6226.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6041.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5328.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3865.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3245.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2844.0
+    },
+    {
+        "pset": [
+            "<schema.org/Bed>",
+            "<schema.org/Occupancy>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2749.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2589.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2127.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1727.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1604.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1399.0
+    },
+    {
+        "pset": [
+            "<schema.org/Bed>",
+            "<schema.org/Occupancy>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1290.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1181.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1127.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 814.0
+    },
+    {
+        "pset": [
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 682.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 587.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 504.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 488.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 484.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 464.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 436.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 403.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 390.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberofBedrooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 387.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/photo>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 382.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 352.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 330.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 317.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 315.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 280.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 253.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 244.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 242.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 232.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 225.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 204.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 203.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 180.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 162.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 156.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 145.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 134.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 132.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 132.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 130.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 106.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 84.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/review>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/starRating>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberofBedrooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/Occupancy>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/review>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/sameAs>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/bedType>",
+            "<schema.org/description>",
+            "<schema.org/floorsize>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/gtin8>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/yearBuilt>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedIn>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/checkinTime>",
+            "<schema.org/checkoutTime>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/House>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/category>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorLevel>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/releaseDate>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/containedIn>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "<schema.org/reviews>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberofRooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/photos>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Room>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/floorSize>",
+            "<schema.org/numberOfFullBathrooms>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/floorSize>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/permittedUsage>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/photo>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/photo>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/award>",
+            "<schema.org/bed>",
+            "<schema.org/checkinTime>",
+            "<schema.org/checkoutTime>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Hotel>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationFloorPlan>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberofRooms>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/AggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/potentialAction>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/floorLevel>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/map>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/ItemList>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/accommodationFloorPlan>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/floorsize>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/sameAs>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/photo>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/floorSize>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/floorSize>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/floorSize>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/checkinTime>",
+            "<schema.org/checkoutTime>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBathroomsTotal>",
+            "<schema.org/numberOfBedrooms>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/potentialAction>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/SKU>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/potentialAction>",
+            "<schema.org/review>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/photo>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/award>",
+            "<schema.org/checkinTime>",
+            "<schema.org/checkoutTime>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/Hotel>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/checkinTime>",
+            "<schema.org/checkoutTime>",
+            "<schema.org/containsPlace>",
+            "<schema.org/department>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/makesOffer>",
+            "<schema.org/memberof>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/sameas>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Hotel>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/priceRange>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Bed>",
+            "<schema.org/Occupancy>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/containedIn>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/photo>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedIn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/brand>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/containedIn>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/accommodationCategory>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/floorSize>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/logo>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/numberOfRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/bed>",
+            "<schema.org/checkinTime>",
+            "<schema.org/checkoutTime>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/faxNumber>",
+            "<schema.org/floorSize>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/makesOffer>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/starRating>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Hotel>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/photo>",
+            "<schema.org/specialOpeningHoursSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Address>",
+            "<schema.org/AmenityFeature>",
+            "<schema.org/FaxNumber>",
+            "<schema.org/Image>",
+            "<schema.org/Name>",
+            "<schema.org/NumberOfBathroomsTotal>",
+            "<schema.org/NumberofRooms>",
+            "<schema.org/TourBookingPage>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/bed>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasMap>",
+            "<schema.org/numberofRooms>",
+            "<schema.org/occupancy>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BedAndBreakfast>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/tourBookingPage>",
+            "isa:<schema.org/HotelRoom>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/audience>",
+            "<schema.org/bed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/occupancy>",
+            "<schema.org/offers>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/url>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    }
+]

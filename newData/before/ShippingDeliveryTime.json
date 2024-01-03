@@ -1,0 +1,191 @@
+[
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/handlingTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 130184.0
+    },
+    {
+        "pset": [
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 56083.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutOffTime>",
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 33066.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 31652.0
+    },
+    {
+        "pset": [
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 7082.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutOffTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 4255.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/description>",
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 4012.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 3869.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 1036.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 884.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutOffTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 473.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 328.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/handlingTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 170.0
+    },
+    {
+        "pset": [
+            "<schema.org/handlingTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/cutOfftime>",
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutOffTime>",
+            "<schema.org/handlingTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/handlingTime>",
+            "<schema.org/name>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/description>",
+            "<schema.org/handlingTime>",
+            "<schema.org/name>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/cutoffTime>",
+            "<schema.org/handlingTime>",
+            "<schema.org/transitTime>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessDays>",
+            "<schema.org/cutoffTime>",
+            "<schema.org/description>",
+            "<schema.org/handlingTime>",
+            "<schema.org/name>",
+            "isa:<schema.org/ShippingDeliveryTime>"
+        ],
+        "count": 1.0
+    }
+]

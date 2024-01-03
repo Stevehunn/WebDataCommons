@@ -1,0 +1,19 @@
+[
+    {
+        "pset": [
+            "<schema.org/energyEfficiencyScaleMax>",
+            "<schema.org/energyEfficiencyScaleMin>",
+            "isa:<schema.org/EnergyConsumptionDetails>"
+        ],
+        "count": 163.0
+    },
+    {
+        "pset": [
+            "<schema.org/energyEfficiencyScaleMax>",
+            "<schema.org/energyEfficiencyScaleMin>",
+            "<schema.org/hasEnergyEfficiencyCategory>",
+            "isa:<schema.org/EnergyConsumptionDetails>"
+        ],
+        "count": 1.0
+    }
+]

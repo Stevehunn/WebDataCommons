@@ -1,0 +1,149 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 23263.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<data.flachau.com/schema/AmenityFeature>"
+        ],
+        "count": 422.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<data.burgenland.info/schema/AmenityFeature>"
+        ],
+        "count": 226.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<datacycle.kaernten.at/schema/Preis>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.org/minPrice>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<data.flachau.com/schema/Preis>"
+        ],
+        "count": 104.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<data.flachau.com/schema/Preis>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<data.flachau.com/schema/Preis>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<data.flachau.com/schema/Preis>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.org/minPrice>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<datacycle.kaernten.at/schema/Preis>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>",
+            "isa:<data.flachau.com/schema/Preis>"
+        ],
+        "count": 3.0
+    }
+]

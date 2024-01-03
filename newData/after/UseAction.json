@@ -1,0 +1,29 @@
+[
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "isa:<schema.org/ListenAction>",
+            "isa:<schema.org/ReadAction>",
+            "isa:<schema.org/UseAction>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/UseAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/UseAction>"
+        ],
+        "count": 2.0
+    }
+]

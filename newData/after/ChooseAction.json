@@ -1,0 +1,55 @@
+[
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "<schema.org/object>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 782.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/object>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 396.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "<schema.org/name>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/ActionOption>",
+            "<schema.org/description>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ChooseAction>"
+        ],
+        "count": 3.0
+    }
+]

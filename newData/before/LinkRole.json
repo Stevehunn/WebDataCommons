@@ -1,0 +1,73 @@
+[
+    {
+        "pset": [
+            "<schema.org/linkRelationship>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 6929.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/linkRelationship>",
+            "<schema.org/url>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 4690.0
+    },
+    {
+        "pset": [
+            "<schema.org/linkRelationship>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/relatedLink>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 939.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/linkRelationship>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 537.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/linkRelationship>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 346.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/linkRelationship>",
+            "<schema.org/target>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LinkRole>"
+        ],
+        "count": 70.0
+    }
+]

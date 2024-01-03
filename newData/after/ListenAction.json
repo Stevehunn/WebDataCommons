@@ -1,0 +1,148 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 680920.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 232076.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 224488.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 103497.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 34284.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 8223.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 1249.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 327.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 323.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "isa:<schema.org/ListenAction>",
+            "isa:<schema.org/ReadAction>",
+            "isa:<schema.org/UseAction>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 1.0
+    }
+]

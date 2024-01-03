@@ -1,0 +1,4455 @@
+[
+    {
+        "pset": [
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 109055.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 18851.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 17695.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11339.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11211.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10037.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8963.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8906.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 6153.0
+    },
+    {
+        "pset": [
+            "<schema.org/episodes>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5958.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4512.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4511.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4065.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3888.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2369.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/temporal>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2260.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2079.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2049.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1667.0
+    },
+    {
+        "pset": [
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1606.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1545.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1361.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1057.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1027.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 937.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 889.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 843.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/TVSeries>"
+        ],
+        "count": 821.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 784.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 725.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 713.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 686.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 622.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 534.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 526.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 523.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 517.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 484.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 451.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 445.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 438.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 434.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 430.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 389.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 371.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 363.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 339.0
+    },
+    {
+        "pset": [
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 331.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/actor>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 326.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 322.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 322.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 314.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 312.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 276.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/TVSeries>"
+        ],
+        "count": 274.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 271.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 270.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 250.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 236.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 210.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 203.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 182.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 161.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 150.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 149.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 143.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 137.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 134.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/actor>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 134.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/actor>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/trailer>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/TVSeries>"
+        ],
+        "count": 121.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 109.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 104.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 91.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 87.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/TVSeries>",
+            "isa:<schema.org/TvSeries>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/temporal>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/productionCompany>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 58.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsSeason>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfTVSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/actor>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/expires>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/offers>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/episodes>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/episodes>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/producer>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/partOfTVSeries>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/temporal>",
+            "<schema.org/trailer>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/producer>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/producer>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/expires>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/offers>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfTVSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/offers>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/producer>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/TVSeries>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/episode>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/expires>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/offers>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/seasonNumber>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/episodes>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/producer>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/creator>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/productionCompany>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/producer>",
+            "<schema.org/productionCompany>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/TVSeries>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfEpisodes>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfTVSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/actor>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/producer>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/productionCompany>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfTVSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/trailer>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/productionCompany>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/expires>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/offers>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/partOfSeries>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/image>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/producer>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentRating>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/episode>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/productionCompany>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/datePublished>",
+            "<schema.org/episode>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/contentRating>",
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/publisher>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/episode>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/director>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfEpisodes>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/potentialAction>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/review>",
+            "<schema.org/seasonNumber>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/TVSeason>"
+        ],
+        "count": 1.0
+    }
+]

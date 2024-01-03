@@ -1,0 +1,131 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 6326.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 360.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 164.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/AchieveAction>",
+            "isa:<schema.org/Article>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/AchieveAction>",
+            "isa:<schema.org/CreativeWork>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/AchieveAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "<schema.org/url>",
+            "<schema.org/video>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/AchieveAction>",
+            "isa:<schema.org/NewsArticle>"
+        ],
+        "count": 1.0
+    }
+]

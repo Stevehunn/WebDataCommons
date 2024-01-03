@@ -1,0 +1,288 @@
+[
+    {
+        "pset": [
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 3533367.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 2681204.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 1438328.0
+    },
+    {
+        "pset": [
+            "<schema.org/xPath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 138399.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 68133.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 31507.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "<schema.org/xPath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 28467.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/url>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 11666.0
+    },
+    {
+        "pset": [
+            "<schema.org/value>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 8693.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 3737.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 3351.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 2588.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 1366.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 794.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/xPath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 212.0
+    },
+    {
+        "pset": [
+            "<schema.org/@xPath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 189.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssselector>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssselector>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 104.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/value>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/xPath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "<schema.org/value>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/value>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/XPath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Value>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelectors>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelect\\u8981\\u4E48>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelec\\u81F3r>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/SpeakableSpecification>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/xpath>",
+            "isa:<schema.org/SpeakableSpecification>"
+        ],
+        "count": 1.0
+    }
+]

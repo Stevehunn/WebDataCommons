@@ -1,0 +1,955 @@
+[
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 132054.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 23638.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 21459.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 19516.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 13450.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 10360.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 5225.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 3962.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 3688.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2528.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1100.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 759.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 708.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 583.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 414.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 393.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 279.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/fileFormat>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 231.0
+    },
+    {
+        "pset": [
+            "<schema.org/accountablePerson>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 209.0
+    },
+    {
+        "pset": [
+            "<schema.org/character>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/dataset>",
+            "<schema.org/fileFormat>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/includedinDataCatalog>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/variablesMeasured>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/headline>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dataset>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/conformsTo>",
+            "<schema.org/citation>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedMedia>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/dataset>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dataset>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/description>",
+            "<schema.org/description>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<w3.org/2000/01/rdf-schema#label>",
+            "<w3.org/2006/vcard/ns#email>",
+            "<w3.org/ns/dcat#dataset>",
+            "<xmlns.com/foaf/0.1/depiction>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<w3.org/ns/dcat#Catalog>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dataset>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartOf>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/subjectOf>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dataset>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dataset>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dataset>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publication>",
+            "<schema.org/url>",
+            "<schema.org/version>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartof>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/TouristDestination>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dataset>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/citation>",
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/sourceOrganization>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dataset>",
+            "<schema.org/description>",
+            "<schema.org/distribution>",
+            "<schema.org/identifier>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/publication>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/Dataset>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/foundingDate>",
+            "<schema.org/funder>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/identifier>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/parentOrganization>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ResearchProject>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fileformat>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dataset>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/hasPart>",
+            "<schema.org/identifier>",
+            "<schema.org/license>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataCatalog>"
+        ],
+        "count": 1.0
+    }
+]

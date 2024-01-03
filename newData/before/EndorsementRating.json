@@ -1,0 +1,59 @@
+[
+    {
+        "pset": [
+            "<schema.org/bestRating>",
+            "<schema.org/ratingValue>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 5501.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/ratingValue>",
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 1658.0
+    },
+    {
+        "pset": [
+            "<schema.org/bestRating>",
+            "<schema.org/ratingCount>",
+            "<schema.org/ratingValue>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 839.0
+    },
+    {
+        "pset": [
+            "<schema.org/bestRating>",
+            "<schema.org/name>",
+            "<schema.org/ratingValue>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 617.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 560.0
+    },
+    {
+        "pset": [
+            "<schema.org/ratingValue>",
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/EndorsementRating>"
+        ],
+        "count": 4.0
+    }
+]

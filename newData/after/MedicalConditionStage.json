@@ -1,0 +1,48 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/stageAsNumber>",
+            "isa:<schema.org/MedicalConditionStage>"
+        ],
+        "count": 184.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/stageAsNumber>",
+            "<schema.org/subStageSuffix>",
+            "isa:<schema.org/MedicalConditionStage>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalConditionStage>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalConditionStage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/stageAsNumber>",
+            "isa:<schema.org/MedicalConditionStage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/stageAsNumber>",
+            "isa:<schema.org/MedicalConditionStage>"
+        ],
+        "count": 2.0
+    }
+]

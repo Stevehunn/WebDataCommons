@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/boatName>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/reservationFor>",
+            "<schema.org/url>",
+            "isa:<schema.org/BoatReservation>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BoatReservation>"
+        ],
+        "count": 2.0
+    }
+]

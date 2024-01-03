@@ -1,0 +1,1207 @@
+[
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 8108.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 3739.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 2699.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 2575.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1030.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 910.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/issn>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 605.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 361.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BookSeries>",
+            "isa:<schema.org/ItemList>"
+        ],
+        "count": 356.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 243.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/issn>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 178.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 148.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/BookSeries>",
+            "isa:<schema.org/ItemList>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translator>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/endDate>",
+            "<schema.org/hasPart>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translator>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translator>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/translator>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BookSeries>",
+            "isa:<schema.org/ItemList>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/illustrator>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/creativeWorkStatus>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/issn>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/character>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BookSeries>",
+            "isa:<schema.org/ItemList>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/countryOfOrigin>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/character>",
+            "<schema.org/description>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/endDate>",
+            "<schema.org/genre>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BookSeries>"
+        ],
+        "count": 1.0
+    }
+]

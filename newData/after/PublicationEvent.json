@@ -1,0 +1,701 @@
+[
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 221940.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 111643.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 28818.0
+    },
+    {
+        "pset": [
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 21245.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 6890.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 6163.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 5465.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/publishedBy>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 3993.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/startdate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 3496.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2418.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1984.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1938.0
+    },
+    {
+        "pset": [
+            "<schema.org/director>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1198.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/director>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 929.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 289.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 260.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 251.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/endDate>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publishedBy>",
+            "<schema.org/startDate>",
+            "<schema.org/workFeatured>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 224.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvent>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 180.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/attendee>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 106.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/Location>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performers>",
+            "<schema.org/startDate>",
+            "<schema.org/subEvents>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/director>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/releasedEvent>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EventSeries>",
+            "isa:<schema.org/PublicationEvent>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/startYear>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/endDate>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/director>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/performer>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationEvent>"
+        ],
+        "count": 1.0
+    }
+]

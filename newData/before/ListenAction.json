@@ -1,0 +1,90 @@
+[
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 337695.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 63132.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 706.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 386.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 229.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "<schema.org/target>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/ListenAction>"
+        ],
+        "count": 1.0
+    }
+]

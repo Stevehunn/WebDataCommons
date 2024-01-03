@@ -1,0 +1,226 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 63042.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 698.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 405.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 218.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 101.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 90.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/mainEntity>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/target>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/DownloadAction>"
+        ],
+        "count": 1.0
+    }
+]

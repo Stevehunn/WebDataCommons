@@ -1,0 +1,975 @@
+[
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/jurisdiction>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationType>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 20170.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/jurisdiction>",
+            "<schema.org/legislationType>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 7129.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 4204.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/keywords>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1492.0
+    },
+    {
+        "pset": [
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 856.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 813.0
+    },
+    {
+        "pset": [
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 726.0
+    },
+    {
+        "pset": [
+            "<schema.org/contributor>",
+            "<schema.org/jurisdiction>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationDateVersion>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 685.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 530.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 376.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/jurisdiction>",
+            "<schema.org/keywords>",
+            "<schema.org/legislationDateVersion>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 328.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 310.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/legislationConsolidates>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 287.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 244.0
+    },
+    {
+        "pset": [
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationDateVersion>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 154.0
+    },
+    {
+        "pset": [
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationDateVersion>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/encoding>",
+            "<schema.org/exampleOfWork>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationConsolidates>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationType>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/version>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationTransposes>",
+            "<schema.org/legislationType>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/version>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/url>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/ImageObject>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/contributor>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationType>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/version>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/citation>",
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/keywords>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/contributor>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contributor>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationTransposes>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/temporalCoverage>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentUrl>",
+            "<schema.org/description>",
+            "<schema.org/encoding>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationLegalValue>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>",
+            "isa:<schema.org/LegislationObject>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/encoding>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/editor>",
+            "<schema.org/keywords>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/maintainer>",
+            "<schema.org/name>",
+            "<schema.org/temporal>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/usageInfo>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/legislationChanges>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationResponsible>",
+            "<schema.org/legislationType>",
+            "<schema.org/license>",
+            "<schema.org/workExample>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/legislationDate>",
+            "<schema.org/legislationIdentifier>",
+            "<schema.org/legislationJurisdiction>",
+            "<schema.org/legislationLegalForce>",
+            "<schema.org/legislationPassedBy>",
+            "<schema.org/legislationType>",
+            "<schema.org/name>",
+            "isa:<schema.org/Legislation>"
+        ],
+        "count": 1.0
+    }
+]

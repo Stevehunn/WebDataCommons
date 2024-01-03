@@ -1,0 +1,83 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 2302.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 172.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dateIssued>",
+            "<schema.org/description>",
+            "<schema.org/issuedBy>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 1.0
+    }
+]

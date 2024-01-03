@@ -1,0 +1,36 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/author>",
+            "<schema.org/contentRating>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/fileFormat>",
+            "<schema.org/image>",
+            "isa:<schema.org/NoteDigitalDocument>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/NoteDigitalDocument>"
+        ],
+        "count": 2.0
+    }
+]

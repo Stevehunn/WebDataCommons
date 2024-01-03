@@ -1,0 +1,348 @@
+[
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/category>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/negativeNotes>",
+            "<schema.org/positiveNotes>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 63958.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/category>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 4975.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/category>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewAspect>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 3869.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/category>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/positiveNotes>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1973.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/position>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 83.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/reviewBody>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/image>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/position>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/position>",
+            "<schema.org/reviewAspect>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/item>",
+            "<schema.org/position>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/category>",
+            "<schema.org/creator>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/review>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/category>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/position>",
+            "<schema.org/reviewBody>",
+            "<schema.org/reviewRating>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/itemReviewed>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/publisher>",
+            "<schema.org/reviewRating>",
+            "<schema.org/sameAs>",
+            "<schema.org/text>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/reviewBody>",
+            "isa:<schema.org/Recommendation>"
+        ],
+        "count": 1.0
+    }
+]

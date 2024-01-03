@@ -1,0 +1,787 @@
+[
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 36497.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/result>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 6554.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/result>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 5785.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 4838.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/object>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 3303.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 3163.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1499.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1340.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1219.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1123.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 936.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 544.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 501.0
+    },
+    {
+        "pset": [
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 450.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 319.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 261.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 174.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/endTime>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 157.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/participant>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 143.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "<schema.org/location>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/endTime>",
+            "<schema.org/fromLocation>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/startTime>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 98.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/result>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 89.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/location>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "isa:<schema.org/AdministrativeArea>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/endTime>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/startTime>",
+            "<schema.org/target>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/result>",
+            "<schema.org/tolocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/endTime>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/address>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Park>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/toLocation>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Mountain>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/review>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Location>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/instrument>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Distance>",
+            "<schema.org/containedInPlace>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/publicAccess>",
+            "<schema.org/sameAs>",
+            "<schema.org/toLocation>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Location>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Location>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/sameAs>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/MedicalObservationalStudy>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalObservationalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/StudyDesign>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalObservationalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalObservationalStudy>"
+        ],
+        "count": 1.0
+    }
+]

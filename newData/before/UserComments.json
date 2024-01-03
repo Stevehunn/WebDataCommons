@@ -1,0 +1,178 @@
+[
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 27182.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "<schema.org/replyToUrl>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 5703.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/replyToUrl>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 4291.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 3272.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/name>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 2683.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/creator>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 808.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 162.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/inLanguage>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/discusses>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/replyToUrl>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/replyToUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/name>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 1.0
+    }
+]

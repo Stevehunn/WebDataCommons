@@ -1,0 +1,273 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 18006.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 9717.0
+    },
+    {
+        "pset": [
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 2262.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 942.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 550.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 308.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 118.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/instrument>",
+            "<schema.org/target>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/participant>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractAction>"
+        ],
+        "count": 1.0
+    }
+]

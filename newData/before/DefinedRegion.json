@@ -1,0 +1,121 @@
+[
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 2093276.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 122238.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/postalCodeRange>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 42146.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/addressRegion>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 14085.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/addressRegion>",
+            "<schema.org/postalCodeRange>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 2398.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/name>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 779.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressRegion>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 591.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 203.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/addressRegion>",
+            "<schema.org/postalCode>",
+            "<schema.org/postalCodeRange>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/addressRegion>",
+            "<schema.org/postalCode>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/addressCountry>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/deliveryTime>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adressCountry>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/postalCodeRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/postalCodeRange>",
+            "isa:<schema.org/DefinedRegion>"
+        ],
+        "count": 1.0
+    }
+]

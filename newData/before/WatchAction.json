@@ -1,0 +1,135 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 699154.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 215263.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 204539.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 23208.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 7754.0
+    },
+    {
+        "pset": [
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 1606.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 153.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/url>",
+            "isa:<schema.org/WatchAction>"
+        ],
+        "count": 2.0
+    }
+]

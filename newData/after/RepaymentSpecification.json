@@ -1,0 +1,52 @@
+[
+    {
+        "pset": [
+            "<schema.org/loanPaymentAmount>",
+            "<schema.org/loanPaymentFrequency>",
+            "<schema.org/numberOfLoanPayments>",
+            "isa:<schema.org/RepaymentSpecification>"
+        ],
+        "count": 3873.0
+    },
+    {
+        "pset": [
+            "<schema.org/loanPaymentFrequency>",
+            "<schema.org/numberOfLoanPayments>",
+            "isa:<schema.org/RepaymentSpecification>"
+        ],
+        "count": 2672.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/RepaymentSpecification>"
+        ],
+        "count": 1063.0
+    },
+    {
+        "pset": [
+            "<schema.org/downPayment>",
+            "<schema.org/loanPaymentFrequency>",
+            "<schema.org/numberOfLoanPayments>",
+            "isa:<schema.org/RepaymentSpecification>"
+        ],
+        "count": 526.0
+    },
+    {
+        "pset": [
+            "<schema.org/downPayment>",
+            "isa:<schema.org/RepaymentSpecification>"
+        ],
+        "count": 313.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/loanPaymentFrequency>",
+            "<schema.org/name>",
+            "<schema.org/numberOfLoanPayments>",
+            "isa:<schema.org/RepaymentSpecification>"
+        ],
+        "count": 1.0
+    }
+]

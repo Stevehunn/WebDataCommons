@@ -1,0 +1,26 @@
+[
+    {
+        "pset": [
+            "<schema.org/postalCodeBegin>",
+            "<schema.org/postalCodeEnd>",
+            "isa:<schema.org/PostalCodeRangeSpecification>"
+        ],
+        "count": 5487.0
+    },
+    {
+        "pset": [
+            "<schema.org/context>",
+            "<schema.org/postalCodeBegin>",
+            "<schema.org/postalCodeEnd>",
+            "isa:<schema.org/PostalCodeRangeSpecification>"
+        ],
+        "count": 939.0
+    },
+    {
+        "pset": [
+            "<schema.org/postalCodeBegin>",
+            "isa:<schema.org/PostalCodeRangeSpecification>"
+        ],
+        "count": 154.0
+    }
+]

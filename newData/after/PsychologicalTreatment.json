@@ -1,0 +1,411 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 994.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 798.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/Outcome>",
+            "<schema.org/drug>",
+            "<schema.org/howperformed>",
+            "<schema.org/indication>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/applicationCategory>",
+            "<schema.org/name>",
+            "<schema.org/operatingSystem>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/Howperformed>",
+            "<schema.org/additionalType>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/procedureType>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/study>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/latitude>",
+            "<schema.org/longitude>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/sameAs>",
+            "<schema.org/study>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/PsychologicalTreatment>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 9807.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 9214.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 107.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CategoryCodeSet>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/name>",
+            "isa:<schema.org/CategoryCodeSet>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasCategoryCode>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CategoryCodeSet>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    }
+]

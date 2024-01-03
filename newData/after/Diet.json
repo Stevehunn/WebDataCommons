@@ -1,0 +1,67 @@
+[
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/award>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/legalStatus>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Diet>"
+        ],
+        "count": 300.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Diet>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/award>",
+            "<schema.org/code>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/legalStatus>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Diet>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Diet>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 616.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 373.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/additionaltype>",
+            "<schema.org/description>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Indication>",
+            "<schema.org/Preparation>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/additionaltype>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/author>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/DiagnosticProcedure>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/preparation>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Indication>",
+            "<schema.org/Preparation>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/DiagnosticProcedure>"
+        ],
+        "count": 1.0
+    }
+]

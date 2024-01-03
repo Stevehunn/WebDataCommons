@@ -1,0 +1,671 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 392.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/sponsor>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/population>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/drugUnit>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/warning>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/status>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/population>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studyLocation>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/population>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sponsor>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/drugUnit>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/warning>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/population>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/studyLocation>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contraindication>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/drugUnit>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/warning>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/drugUnit>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/image>",
+            "<schema.org/interactingDrug>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mechanismOfAction>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/sameas>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/study>",
+            "<schema.org/text>",
+            "<schema.org/warning>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/drugUnit>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/study>",
+            "<schema.org/warning>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/healthCondition>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/studyLocation>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/population>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/outcome>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/outcome>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/guideline>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/naturalProgression>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/speakable>",
+            "<schema.org/study>",
+            "isa:<schema.org/ApprovedIndication>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sponsor>",
+            "<schema.org/status>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/outcome>",
+            "<schema.org/population>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/study>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalStudy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/activeIngredient>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/nonProprietaryName>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/speakable>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 1.0
+    }
+]

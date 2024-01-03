@@ -1,0 +1,17 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/SendAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/SendAction>"
+        ],
+        "count": 1.0
+    }
+]

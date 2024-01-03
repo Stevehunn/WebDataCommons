@@ -1,0 +1,93 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 74989.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 3652.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 684.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 662.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 160.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/PlayAction>"
+        ],
+        "count": 2.0
+    }
+]

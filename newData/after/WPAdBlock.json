@@ -1,0 +1,41 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 4221.0
+    },
+    {
+        "pset": [
+            "<schema.org/cssSelector>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 400.0
+    },
+    {
+        "pset": [
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/offers>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "isa:<schema.org/WPAdBlock>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/offers>",
+            "isa:<schema.org/WPAdBlock>",
+            "isa:<schema.org/WebPageElement>"
+        ],
+        "count": 2.0
+    }
+]

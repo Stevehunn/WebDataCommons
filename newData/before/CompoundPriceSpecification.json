@@ -1,0 +1,131 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 23579.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 7321.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/validFrom>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 1055.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 242.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 195.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceComponent>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceType>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceComponent>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceType>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/maxPrice>",
+            "<schema.org/minPrice>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 1.0
+    }
+]

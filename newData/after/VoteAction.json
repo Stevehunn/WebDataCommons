@@ -1,0 +1,42 @@
+[
+    {
+        "pset": [
+            "<schema.org/candidate>",
+            "<schema.org/description>",
+            "<schema.org/object>",
+            "isa:<schema.org/VoteAction>"
+        ],
+        "count": 791.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/VoteAction>"
+        ],
+        "count": 397.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "isa:<schema.org/VoteAction>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/candidate>",
+            "isa:<schema.org/VoteAction>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionOption>",
+            "<schema.org/candidate>",
+            "<schema.org/location>",
+            "isa:<schema.org/VoteAction>"
+        ],
+        "count": 10.0
+    }
+]

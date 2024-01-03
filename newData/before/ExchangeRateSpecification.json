@@ -1,0 +1,131 @@
+[
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 40516.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 26956.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/name>",
+            "<schema.org/rank>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 2488.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 2488.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 1539.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 683.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 331.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 142.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/exchangeRateSpread>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/description>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/exchangeRateSpread>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/currency>",
+            "<schema.org/currentExchangeRate>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExchangeRateSpecification>"
+        ],
+        "count": 1.0
+    }
+]

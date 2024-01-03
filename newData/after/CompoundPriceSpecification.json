@@ -1,0 +1,100 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 6741.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceType>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 1026.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 372.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 205.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceType>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/validFrom>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceComponent>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceComponent>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/CompoundPriceSpecification>"
+        ],
+        "count": 10.0
+    }
+]

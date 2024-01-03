@@ -1,0 +1,63 @@
+[
+    {
+        "pset": [
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 8476.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfBeds>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 7280.0
+    },
+    {
+        "pset": [
+            "<schema.org/NumberOfBeds>",
+            "<schema.org/TypeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 5270.0
+    },
+    {
+        "pset": [
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 86.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/numberOfBeds>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 4.0
+    }
+]

@@ -1,0 +1,546 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 382425.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 85068.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 39716.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 12959.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 9786.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 6765.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/ReadAction>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 2579.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1410.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1166.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 563.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 553.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 488.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 382.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 371.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 242.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 228.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 198.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 144.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 107.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/SiteNavigationElement>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/Target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/instrument>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "<schema.org/startTime>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/inLanguage>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/object>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/name>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/name>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 1.0
+    }
+]

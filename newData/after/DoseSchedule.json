@@ -1,0 +1,190 @@
+[
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1795.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 222.0
+    },
+    {
+        "pset": [
+            "<schema.org/frequency>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 184.0
+    },
+    {
+        "pset": [
+            "<schema.org/frequency>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/frequency>",
+            "<schema.org/name>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/frequency>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/name>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doseUnit>",
+            "<schema.org/doseValue>",
+            "<schema.org/frequency>",
+            "<schema.org/name>",
+            "<schema.org/targetPopulation>",
+            "<schema.org/url>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/guideline>",
+            "<schema.org/targetPopulation>",
+            "isa:<schema.org/DoseSchedule>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/breastfeedingWarning>",
+            "<schema.org/description>",
+            "<schema.org/dosageform>",
+            "<schema.org/doseUnit>",
+            "<schema.org/dosevalue>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingauthority>",
+            "<schema.org/sameas>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/speakable>",
+            "<schema.org/strengthUnit>",
+            "<schema.org/strengthValue>",
+            "<schema.org/text>",
+            "isa:<schema.org/DoseSchedule>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugStrength>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/doseUnit>",
+            "<schema.org/dosevalue>",
+            "<schema.org/drug>",
+            "<schema.org/frequency>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "<schema.org/warning>",
+            "isa:<schema.org/DoseSchedule>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>"
+        ],
+        "count": 1.0
+    }
+]

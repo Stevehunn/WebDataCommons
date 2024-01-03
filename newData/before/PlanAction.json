@@ -1,0 +1,20 @@
+[
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/scheduledTime>",
+            "isa:<schema.org/PlanAction>"
+        ],
+        "count": 7084.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/scheduledTime>",
+            "isa:<schema.org/PlanAction>"
+        ],
+        "count": 6508.0
+    }
+]

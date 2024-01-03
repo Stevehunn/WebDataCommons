@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subTest>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTestPanel>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 1.0
+    }
+]

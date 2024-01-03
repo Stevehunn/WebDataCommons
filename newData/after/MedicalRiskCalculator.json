@@ -1,0 +1,45 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalRiskCalculator>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/estimatesRiskOf>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalRiskCalculator>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalRiskCalculator>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/estimatesRiskOf>",
+            "<schema.org/image>",
+            "<schema.org/includedRiskFactor>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalRiskCalculator>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "pset": [
+            "<schema.org/applicableLocation>",
+            "<schema.org/code>",
+            "<schema.org/costCategory>",
+            "<schema.org/costCurrency>",
+            "<schema.org/costPerUnit>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 7698.0
+    },
+    {
+        "pset": [
+            "<schema.org/costPerUnit>",
+            "<schema.org/description>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 983.0
+    },
+    {
+        "pset": [
+            "<schema.org/costPerUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 318.0
+    },
+    {
+        "pset": [
+            "<schema.org/costCurrency>",
+            "<schema.org/costPerUnit>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 297.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicableLocation>",
+            "<schema.org/costCategory>",
+            "<schema.org/costCurrency>",
+            "<schema.org/costPerUnit>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 258.0
+    },
+    {
+        "pset": [
+            "<schema.org/costPerUnit>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/costCategory>",
+            "<schema.org/costCurrency>",
+            "<schema.org/costPerUnit>",
+            "<schema.org/name>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicableLocation>",
+            "<schema.org/costCurrency>",
+            "<schema.org/costOrigin>",
+            "<schema.org/costPerUnit>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/costCategory>",
+            "<schema.org/costCurrency>",
+            "<schema.org/costPerUnit>",
+            "<schema.org/drugUnit>",
+            "isa:<schema.org/DrugCost>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/activeingredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/costOrigin>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/isProprietary>",
+            "<schema.org/keywords>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/speakable>",
+            "<schema.org/specialty>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugCost>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Medicaltherapy>",
+            "isa:<schema.org/approvedindication>",
+            "isa:<schema.org/medicaldevice>"
+        ],
+        "count": 1.0
+    }
+]

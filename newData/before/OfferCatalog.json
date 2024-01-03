@@ -1,0 +1,4002 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 975604.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 876530.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 364306.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 323247.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 211695.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 150210.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 113488.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 43790.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 39308.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 29634.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 23621.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 22814.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 22494.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 19859.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 17443.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 8061.0
+    },
+    {
+        "pset": [
+            "<schema.org/ItemListElement>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 7957.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 7725.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 7011.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 4813.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 4570.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 4380.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 3433.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3417.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 3332.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2870.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2445.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2436.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2069.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2067.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1711.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1592.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1591.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1412.0
+    },
+    {
+        "pset": [
+            "<schema.org/treatments>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1397.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1262.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1198.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1147.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HomeAndConstructionBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1050.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 985.0
+    },
+    {
+        "pset": [
+            "<schema.org/ItemListElement>",
+            "<schema.org/Name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 901.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 862.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 846.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 808.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Car>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 794.0
+    },
+    {
+        "pset": [
+            "<schema.org/event>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 682.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 621.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 614.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 523.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 508.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Car>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 493.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 491.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 489.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 438.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 401.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 383.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 334.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 334.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 307.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 302.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 286.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 267.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 260.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 259.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Car>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 244.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 237.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 235.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 172.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Car>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 164.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 154.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 146.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemlistElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 122.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 115.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/nombre>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 106.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Car>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 96.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemlistelement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemlistElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListOrder>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/offeredBy>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListelement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/award>",
+            "<schema.org/backstory>",
+            "<schema.org/citation>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/editor>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "<schema.org/wordcount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/award>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/ItemListElement>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Website>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/familyName>",
+            "<schema.org/gender>",
+            "<schema.org/givenName>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/jobTitle>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/workLocation>",
+            "<schema.org/worksFor>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/itemListElement>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/HomeAndConstructionBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contentReferenceTime>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/audience>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasMerchantReturnPolicy>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/material>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/sku>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/question>",
+            "<schema.org/video>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/Website>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<advancedmp3players.co.uk/Organization>",
+            "isa:<advancedmp3players.co.uk/blog/Organization>",
+            "isa:<advancedmp3players.co.uk/catalog/Organization>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProfessionalService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProfessionalService>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternatename>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/Action>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Medicalspecialty>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternatename>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalBusiness>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberofItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/founders>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImageObject>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Store>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceType>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/award>",
+            "<schema.org/geo>",
+            "<schema.org/hasPart>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Plumber>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/award>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/award>",
+            "<schema.org/description>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Car>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/abstract>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/author>",
+            "<schema.org/award>",
+            "<schema.org/backstory>",
+            "<schema.org/commentCount>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/editor>",
+            "<schema.org/genre>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/publisher>",
+            "<schema.org/text>",
+            "<schema.org/url>",
+            "<schema.org/wordcount>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/TelevisionStation>",
+            "isa:<schema.org/Wholesaler>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LegalService>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/HotelRoom>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/Localbusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/AdditionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/maxPrice>",
+            "<schema.org/minPrice>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "<schema.org/valueAddedTaxIncluded>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/PriceSpecification>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProfessionalService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/audience>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasMerchantReturnPolicy>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/material>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/sku>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/award>",
+            "<schema.org/employees>",
+            "<schema.org/isAcceptingNewPatients>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/knowsLanguage>",
+            "<schema.org/medicalSpecialty>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProfessionalService>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceType>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/ProfessionalService>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/award>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/founder>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/potentialAction>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/foundingLocation>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/RoofingContractor>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/offeredBy>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImageObject>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/ItemList>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/additionalType>",
+            "<schema.org/award>",
+            "<schema.org/hasPart>",
+            "<schema.org/itemListElement>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/PublicHealth>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/ToyStore>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/foundingDate>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/RoofingContractor>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/IsRelatedTo>",
+            "<schema.org/IsSimilarTo>",
+            "<schema.org/additionalType>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/productID>",
+            "<schema.org/sameAs>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/WebSite>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/duns>",
+            "<schema.org/email>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/itemListOrder>",
+            "<schema.org/legalName>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "<schema.org/vatID>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Pharmacy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/caption>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImageObject>",
+            "isa:<schema.org/OfferCatalog>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternatename>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/FinancialService>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/PriceRange>",
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/contactPoint>",
+            "<schema.org/currenciesAccepted>",
+            "<schema.org/description>",
+            "<schema.org/founder>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/itemListElement>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/slogan>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/City>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/OfferCatalog>"
+        ],
+        "count": 1.0
+    }
+]

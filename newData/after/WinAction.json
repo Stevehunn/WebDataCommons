@@ -1,0 +1,30 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/WinAction>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "<schema.org/result>",
+            "isa:<schema.org/WinAction>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/participant>",
+            "isa:<schema.org/WinAction>"
+        ],
+        "count": 25.0
+    }
+]

@@ -1,0 +1,296 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 111853.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 56141.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 48361.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 12811.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 6600.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 4147.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 1883.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 1452.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 363.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/endTime>",
+            "<schema.org/startTime>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 258.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/eligibleTransactionVolume>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 215.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/deliveryMethod>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 213.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/deliveryMethod>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 191.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/image>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 166.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 91.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/deliveryMethod>",
+            "<schema.org/error>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/Target>",
+            "<schema.org/deliveryMethod>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/inLanguage>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/OrganizeAction>",
+            "<schema.org/TradeAction>",
+            "<schema.org/actionType>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/target>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryMethod>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OrderAction>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 4720.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 109.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/dateIssued>",
+            "<schema.org/description>",
+            "<schema.org/issuedBy>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/ticketNumber>",
+            "<schema.org/ticketToken>",
+            "<schema.org/ticketedSeat>",
+            "isa:<schema.org/Ticket>"
+        ],
+        "count": 1.0
+    }
+]

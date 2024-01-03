@@ -1,0 +1,643 @@
+[
+    {
+        "pset": [
+            "<schema.org/issn>",
+            "<schema.org/name>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 381447.0
+    },
+    {
+        "pset": [
+            "<schema.org/issn>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 29881.0
+    },
+    {
+        "pset": [
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 20434.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/bookFormat>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/isbn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfPages>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2820.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2730.0
+    },
+    {
+        "pset": [
+            "<schema.org/issn>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2359.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/bookFormat>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/isbn>",
+            "<schema.org/name>",
+            "<schema.org/numberOfPages>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2002.0
+    },
+    {
+        "pset": [
+            "<schema.org/publisher>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1711.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1678.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1201.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1201.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1006.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 979.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 751.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameas>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 709.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 596.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 431.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/issn>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 364.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 277.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/bookFormat>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/isbn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 129.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/isPartOf>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/publisher>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 74.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/isPartOf>",
+            "<schema.org/name>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/issueNumber>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/text>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationIssue>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/bookFormat>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/isbn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/issn>",
+            "<schema.org/name>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/isPartOf>",
+            "<schema.org/issn>",
+            "<schema.org/issueNumber>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationIssue>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/name>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/isbn>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/accessMode>",
+            "<schema.org/dateModified>",
+            "<schema.org/image>",
+            "<schema.org/issn>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/publishingPrinciples>",
+            "<schema.org/url>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/url>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/numberOfPages>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isPartOf>",
+            "<schema.org/isbn>",
+            "<schema.org/name>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/numberOfPages>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/issn>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartOf>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/isPartOf>",
+            "<schema.org/issueNumber>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/text>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/Periodical>",
+            "isa:<schema.org/PublicationIssue>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/hasPart>",
+            "<schema.org/issueNumber>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationIssue>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/numberOfPages>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/Book>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartOf>",
+            "<schema.org/volumeNumber>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/VolumeNumber>",
+            "<schema.org/author>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/hasPart>",
+            "<schema.org/headline>",
+            "<schema.org/inLanguage>",
+            "<schema.org/keywords>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "isa:<schema.org/PublicationVolume>"
+        ],
+        "count": 1.0
+    }
+]

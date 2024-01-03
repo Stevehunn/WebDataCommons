@@ -1,0 +1,26 @@
+[
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/InstallAction>"
+        ],
+        "count": 10774.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/InstallAction>"
+        ],
+        "count": 132.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/InstallAction>"
+        ],
+        "count": 7.0
+    }
+]

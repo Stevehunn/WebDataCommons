@@ -1,0 +1,819 @@
+[
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 16411.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/publishedOn>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 14330.0
+    },
+    {
+        "pset": [
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 13839.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 9608.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/isLiveBroadcast>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 5630.0
+    },
+    {
+        "pset": [
+            "<schema.org/publishedOn>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 2893.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1932.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/eventStatus>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1626.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 455.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/publishedOn>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 402.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 254.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/performer>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 204.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 193.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 179.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 127.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 115.0
+    },
+    {
+        "pset": [
+            "<schema.org/containsSeason>",
+            "<schema.org/publishedBy>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/publishedOn>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publishedBy>",
+            "<schema.org/recordedIn>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/publishedOn>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/name>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/publishedBy>",
+            "<schema.org/publishedOn>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/audio>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/inLanguage>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/productionCompany>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>",
+            "isa:<schema.org/PodcastEpisode>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/liveBlogUpdate>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/isLiveBroadcast>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/publishedBy>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/liveBlogUpdate>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publishedBy>",
+            "<schema.org/publishedOn>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/audio>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/episodeNumber>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/partOfSeries>",
+            "<schema.org/performer>",
+            "<schema.org/productionCompany>",
+            "<schema.org/publishedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>",
+            "isa:<schema.org/PodcastEpisode>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publishedBy>",
+            "<schema.org/publishedOn>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/composer>",
+            "<schema.org/funder>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/name>",
+            "<schema.org/publishedBy>",
+            "<schema.org/publishedOn>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/contributor>",
+            "<schema.org/description>",
+            "<schema.org/duration>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastEvent>",
+            "isa:<schema.org/BusinessEvent>",
+            "isa:<schema.org/EducationEvent>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/author>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/coverageEndTime>",
+            "<schema.org/coverageStartTime>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/liveBlogUpdate>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/review>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/LiveBlogPosting>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/description>",
+            "<schema.org/mainEntity>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/primaryImageOfPage>",
+            "<schema.org/url>",
+            "isa:<schema.org/CollectionPage>",
+            "isa:<schema.org/OnDemandEvent>"
+        ],
+        "count": 1.0
+    }
+]

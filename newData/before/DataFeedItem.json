@@ -1,0 +1,86 @@
+[
+    {
+        "pset": [
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 617405.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 48997.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 22655.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 2249.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 304.0
+    },
+    {
+        "pset": [
+            "<schema.org/item>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/item>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/item>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 1.0
+    }
+]

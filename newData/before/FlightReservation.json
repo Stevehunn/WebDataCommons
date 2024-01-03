@@ -1,0 +1,61 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 182.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "<schema.org/securityScreening>",
+            "<schema.org/underName>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationId>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/FlightReservation>",
+            "isa:<schema.org/LocalBusiness>"
+        ],
+        "count": 1.0
+    }
+]

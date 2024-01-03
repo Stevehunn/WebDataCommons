@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/PalliativeProcedure>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PalliativeProcedure>"
+        ],
+        "count": 3.0
+    }
+]

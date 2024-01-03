@@ -1,0 +1,68 @@
+[
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 6569.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 576.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/participant>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/object>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/OrganizeAction>"
+        ],
+        "count": 1.0
+    }
+]

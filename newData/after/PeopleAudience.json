@@ -1,0 +1,431 @@
+[
+    {
+        "pset": [
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 476891.0
+    },
+    {
+        "pset": [
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 26184.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 16921.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 13044.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 12766.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 5040.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 3050.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 2143.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1582.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/requiredMinAge>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1112.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 956.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedAge>",
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 691.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 537.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 471.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 423.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 415.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 412.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 295.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 281.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 281.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedMaxAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 230.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/healthCondition>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 210.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedAge>",
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/%20suggestedMaxAge>",
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/suggestedAge>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/healthCondition>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/audienceType>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/requiredMinAge>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "<schema.org/url>",
+            "isa:<schema.org/PeopleAudience>",
+            "isa:<schema.org/Specialty>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/requiredMinAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "<schema.org/sameAs>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "<schema.org/url>",
+            "isa:<schema.org/PeopleAudience>",
+            "isa:<schema.org/Specialty>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/PeopleAudience>",
+            "isa:<w3.org/2002/07/owl#DatatypeProperty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/description>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 1.0
+    }
+]

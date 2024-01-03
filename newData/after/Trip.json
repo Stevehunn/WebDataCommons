@@ -1,0 +1,1414 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 9230.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 8006.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 7939.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 7015.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 6193.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 4670.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2930.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2745.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2265.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1973.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1686.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1508.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1392.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 883.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 612.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 610.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 586.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 513.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 500.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 345.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productID>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 282.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 274.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 237.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 225.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 221.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/partOfTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 219.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 216.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sourceOrganization>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 83.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 83.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 82.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalStation>",
+            "<schema.org/departureStation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/sku>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sku>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/SportsActivityLocation>",
+            "isa:<schema.org/Trip>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/TouristDestination>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/url>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/isPartOf>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/itinerary>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureStation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/amenityFeature>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/SportsActivityLocation>",
+            "isa:<schema.org/Trip>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/reviews>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/containsPlace>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/touristType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureTime>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sku>",
+            "<schema.org/subTrip>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerType>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/reviews>",
+            "<schema.org/subTrip>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/url>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/TouristTrip>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/reviews>",
+            "<schema.org/sku>",
+            "<schema.org/subTrip>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/Trip>"
+        ],
+        "count": 1.0
+    }
+]

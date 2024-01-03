@@ -1,0 +1,36 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eduQuestionType>",
+            "<schema.org/mathExpression-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SolveMathAction>"
+        ],
+        "count": 198.0
+    },
+    {
+        "pset": [
+            "<schema.org/eduQuestionType>",
+            "<schema.org/mathExpression-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SolveMathAction>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/eduQuestionType>",
+            "isa:<schema.org/SolveMathAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mathExpression-input>",
+            "<schema.org/target>",
+            "isa:<schema.org/SolveMathAction>"
+        ],
+        "count": 1.0
+    }
+]

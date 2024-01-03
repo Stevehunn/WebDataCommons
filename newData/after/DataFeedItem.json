@@ -1,0 +1,99 @@
+[
+    {
+        "pset": [
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 134392.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 26652.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 5786.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/item>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 4563.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 1741.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 886.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 247.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/item>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateCreated>",
+            "<schema.org/name>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DataFeedItem>"
+        ],
+        "count": 1.0
+    }
+]

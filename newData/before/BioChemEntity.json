@@ -1,0 +1,38 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/codeCategory>",
+            "<schema.org/name>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 9284.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/url>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 7149.0
+    },
+    {
+        "pset": [
+            "<dct:conformsTo>",
+            "<schema.org/hasRepresentation>",
+            "<schema.org/identifier>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 1152.0
+    },
+    {
+        "pset": [
+            "<dct:conformsTo>",
+            "<schema.org/hasRepresentation>",
+            "<schema.org/identifier>",
+            "<schema.org/isPartOfBioChemEntity>",
+            "isa:<schema.org/BioChemEntity>"
+        ],
+        "count": 1022.0
+    }
+]

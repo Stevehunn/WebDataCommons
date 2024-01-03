@@ -1,0 +1,119 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 40974.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numAdults>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 620.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 458.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/underName>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 444.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 344.0
+    },
+    {
+        "pset": [
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/email>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/geo>",
+            "<schema.org/hasmap>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/photo>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameas>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/LodgingReservation>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/LodgingReservation>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 2529.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 603.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/name>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/authenticator>",
+            "<schema.org/name>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/commonTier>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/authenticator>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MediaSubscription>"
+        ],
+        "count": 1.0
+    }
+]

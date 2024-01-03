@@ -1,0 +1,54 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/code>",
+            "<schema.org/infectiousAgent>",
+            "<schema.org/infectiousAgentClass>",
+            "<schema.org/name>",
+            "<schema.org/naturalProgression>",
+            "<schema.org/primaryPrevention>",
+            "<schema.org/signOrSymptom>",
+            "<schema.org/transmissionMethod>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/code>",
+            "<schema.org/infectiousAgent>",
+            "<schema.org/infectiousAgentClass>",
+            "<schema.org/name>",
+            "<schema.org/primaryPrevention>",
+            "<schema.org/signOrSymptom>",
+            "<schema.org/transmissionMethod>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/code>",
+            "<schema.org/infectiousAgent>",
+            "<schema.org/infectiousAgentClass>",
+            "<schema.org/name>",
+            "<schema.org/naturalProgression>",
+            "<schema.org/possibleComplication>",
+            "<schema.org/primaryPrevention>",
+            "<schema.org/signOrSymptom>",
+            "<schema.org/transmissionMethod>",
+            "isa:<schema.org/InfectiousDisease>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "isa:<schema.org/FlightReservation>"
+        ],
+        "count": 12.0
+    }
+]

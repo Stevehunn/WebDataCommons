@@ -1,0 +1,46 @@
+[
+    {
+        "pset": [
+            "<schema.org/monthsOfExperience>",
+            "isa:<schema.org/OccupationalExperienceRequirements>"
+        ],
+        "count": 159593.0
+    },
+    {
+        "pset": [
+            "<schema.org/MonthsOfExperience>",
+            "isa:<schema.org/OccupationalExperienceRequirements>"
+        ],
+        "count": 1948.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/monthsOfExperience>",
+            "isa:<schema.org/OccupationalExperienceRequirements>"
+        ],
+        "count": 371.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/OccupationalExperienceRequirements>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/value>",
+            "isa:<schema.org/OccupationalExperienceRequirements>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/monthsOfExperience>",
+            "<schema.org/name>",
+            "isa:<schema.org/OccupationalExperienceRequirements>"
+        ],
+        "count": 3.0
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/characterName>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 176338.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/characterName>",
+            "<schema.org/url>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 64678.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/roleName>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 8678.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 1811.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 969.0
+    },
+    {
+        "pset": [
+            "<schema.org/CharacterName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 602.0
+    },
+    {
+        "pset": [
+            "<schema.org/CharacterName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 400.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 284.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/characterName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 246.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/characterName>",
+            "<schema.org/description>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 234.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/characterName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 211.0
+    },
+    {
+        "pset": [
+            "<schema.org/actor>",
+            "<schema.org/alternateName>",
+            "<schema.org/characterName>",
+            "<schema.org/description>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/characterName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/characterName>",
+            "<schema.org/image>",
+            "isa:<schema.org/PerformanceRole>"
+        ],
+        "count": 3.0
+    }
+]

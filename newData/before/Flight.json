@@ -1,0 +1,676 @@
+[
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 987944.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureGate>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/departureTime>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 158974.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalGate>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 132211.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 89415.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 88950.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 69381.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 60504.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureGate>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/departureTime>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 49142.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalGate>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 42183.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/flightNumber>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 37593.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 19997.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/provider>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 19149.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 9125.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 8455.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 7163.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 6488.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 5752.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 2768.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 2588.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 2258.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 1461.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 1157.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 728.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 658.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 654.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 559.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/departureAirport>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 529.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 480.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 452.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 330.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureAirport>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 287.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/departureTime>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 230.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 219.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 163.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 117.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 100.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/flightNumber>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/airline>",
+            "<schema.org/departureAirport>",
+            "<schema.org/operatedBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTime>",
+            "<schema.org/description>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightNumber>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/provider>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/provider>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/departureAirport>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/departureTime>",
+            "<schema.org/flightNumber>",
+            "<schema.org/image>",
+            "<schema.org/provider>",
+            "<schema.org/seller>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Name>",
+            "<schema.org/additionalType>",
+            "<schema.org/aircraft>",
+            "<schema.org/alternateName>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/boardingPolicy>",
+            "<schema.org/departureAirport>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityofpage>",
+            "<schema.org/mealService>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "<schema.org/webCheckinTime>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalAirport>",
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/departureAirport>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalTerminal>",
+            "<schema.org/departureTerminal>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/flightNumber>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aircraft>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/departureAirport>",
+            "isa:<schema.org/Flight>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Name>",
+            "<schema.org/additionalType>",
+            "<schema.org/aircraft>",
+            "<schema.org/alternateName>",
+            "<schema.org/arrivalAirport>",
+            "<schema.org/boardingPolicy>",
+            "<schema.org/departureAirport>",
+            "<schema.org/description>",
+            "<schema.org/estimatedFlightDuration>",
+            "<schema.org/flightDistance>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityofpage>",
+            "<schema.org/mealService>",
+            "<schema.org/offers>",
+            "<schema.org/sameAs>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "<schema.org/webCheckinTime>",
+            "isa:<schema.org/Flight>",
+            "isa:<schema.org/Specialty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Flight>",
+            "isa:<schema.org/Office>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    }
+]

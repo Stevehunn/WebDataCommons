@@ -1,0 +1,24 @@
+[
+    {
+        "pset": [
+            "<schema.org/applicableLocation>",
+            "<schema.org/name>",
+            "isa:<schema.org/DrugLegalStatus>"
+        ],
+        "count": 5318.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicableLocation>",
+            "isa:<schema.org/DrugLegalStatus>"
+        ],
+        "count": 4439.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DrugLegalStatus>"
+        ],
+        "count": 25.0
+    }
+]

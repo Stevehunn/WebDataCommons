@@ -1,0 +1,118 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 11968.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/name>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 6349.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 3244.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/drug>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 678.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 84.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/title>",
+            "isa:<schema.org/DrugClass>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/diagnosis>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainContentOfPage>",
+            "<schema.org/medicalAudience>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/Thing>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/headline>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/telephone>",
+            "<schema.org/trialDesign>",
+            "<schema.org/url>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/DrugClass>",
+            "isa:<schema.org/MedicalEntity>",
+            "isa:<schema.org/MedicalTrial>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/Organization>"
+        ],
+        "count": 1.0
+    }
+]

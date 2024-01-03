@@ -1,0 +1,31 @@
+[
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/Reservoir>",
+            "isa:<schema.org/RiverBodyOfWater>",
+            "isa:<schema.org/TouristAttraction>",
+            "isa:<schema.org/Waterfall>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/availableLanguage>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/touristType>",
+            "isa:<schema.org/LandmarksOrHistoricalBuildings>",
+            "isa:<schema.org/Reservoir>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    }
+]

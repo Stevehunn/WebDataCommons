@@ -1,0 +1,78 @@
+[
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/distinguishingSign>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 1481.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 374.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 79.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/Diagnosis>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/distinguishingSign>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/distinguishingSign>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/distinguishingSign>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/riskFactor>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,5620 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 16728576.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 415216.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 302743.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 247149.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 197293.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 58366.0
+    },
+    {
+        "pset": [
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 50066.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 39317.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 36598.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 36098.0
+    },
+    {
+        "pset": [
+            "<schema.org/PropertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 22220.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 19214.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitCode>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 17874.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 14759.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 12045.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 11265.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 11219.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 10853.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 10560.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9745.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyId>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9530.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9528.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 8031.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5697.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5508.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/Value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5108.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4913.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4880.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4107.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3577.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3511.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3491.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2997.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2953.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2903.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2724.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2686.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2370.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2352.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyID>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2053.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2008.0
+    },
+    {
+        "pset": [
+            "<schema.org/externalIdentifier>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1905.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1791.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1782.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1685.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1557.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1510.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyId>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1509.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1419.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1384.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1358.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1332.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1261.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1226.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1187.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1146.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1139.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1068.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/weight>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1002.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 943.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 934.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 920.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 913.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 899.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 878.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 855.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 799.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 781.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 648.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 639.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 627.0
+    },
+    {
+        "pset": [
+            "<schema.org/Value>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 617.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 604.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 600.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 588.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 587.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 575.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 556.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 457.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<data.flachau.com/schema/AmenityFeature>"
+        ],
+        "count": 422.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 399.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 386.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 382.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 368.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 363.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/fileFormat>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 359.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitText>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 332.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 320.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 313.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 302.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 301.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 282.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 279.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 272.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 263.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 232.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<data.burgenland.info/schema/AmenityFeature>"
+        ],
+        "count": 226.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyID>",
+            "<schema.org/status>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 208.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 202.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 184.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 179.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 171.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 158.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 155.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/citation>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/identifier>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 141.0
+    },
+    {
+        "pset": [
+            "<schema.org/PropertyID>",
+            "<schema.org/Value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 128.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 116.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 113.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/link>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 93.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitText>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/unitCode>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 77.0
+    },
+    {
+        "pset": [
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/employerOverview>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/externalIdentifier>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/sameAs>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/identifier>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 43.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/familyName>",
+            "<schema.org/givenName>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/email>",
+            "<schema.org/familyName>",
+            "<schema.org/givenName>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/measurementTechnique>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/amenityFeature>",
+            "<schema.org/description>",
+            "<schema.org/petsAllowed>",
+            "<schema.org/smokingAllowed>",
+            "<schema.org/tourBookingPage>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/identifier>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/Maxvalue>",
+            "<schema.org/MinValue>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/fileFormat>",
+            "<schema.org/identifier>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/citation>",
+            "<schema.org/contributor>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/maxValue>",
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Value>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/PropertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/unitCode>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/sameAs>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/unitCode>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isVariantOf>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitCode>",
+            "<schema.org/unitText>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/affiliation>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Person>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/fileFormat>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/citation>",
+            "<schema.org/dateCreated>",
+            "<schema.org/description>",
+            "<schema.org/encodingFormat>",
+            "<schema.org/fileFormat>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/includedInDataCatalog>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/keywords>",
+            "<schema.org/license>",
+            "<schema.org/locationCreated>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/publisher>",
+            "<schema.org/sameAs>",
+            "<schema.org/spatialCoverage>",
+            "<schema.org/temporalCoverage>",
+            "<schema.org/url>",
+            "<schema.org/usageinfo>",
+            "<schema.org/value>",
+            "<schema.org/variableMeasured>",
+            "<schema.org/version>",
+            "isa:<schema.org/Dataset>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/minValue>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/gtin13>",
+            "<schema.org/productID>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/affiliation>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyid>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Hotel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyid>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/propertyid>",
+            "<schema.org/sameAs>",
+            "<schema.org/sameas>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/propertyid>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyid>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/minValue>",
+            "<schema.org/name>",
+            "<schema.org/unitText>",
+            "<schema.org/value>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/identifier>",
+            "<schema.org/legalName>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/Organization>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/color>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/itemCondition>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/Value>",
+            "<schema.org/unitCode>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/lowPrice>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/productID>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/propertyID>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/valueReference>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/availability>",
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/availableDeliveryMethod>",
+            "<schema.org/bestRating>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/deliveryLeadTime>",
+            "<schema.org/description>",
+            "<schema.org/gtin13>",
+            "<schema.org/image>",
+            "<schema.org/isAccessoryOrSparePartFor>",
+            "<schema.org/itemCondition>",
+            "<schema.org/material>",
+            "<schema.org/model>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/productID>",
+            "<schema.org/ratingValue>",
+            "<schema.org/review>",
+            "<schema.org/reviewCount>",
+            "<schema.org/seller>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/value>",
+            "<schema.org/worstRating>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Offer>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/ProductModel>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/propertyid>",
+            "<schema.org/url>",
+            "isa:<schema.org/PropertyValue>"
+        ],
+        "count": 1.0
+    }
+]

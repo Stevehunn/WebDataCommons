@@ -1,0 +1,1422 @@
+[
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeOfDay>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 913.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 583.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 517.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 431.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 120.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 98.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/provider>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 82.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/offers>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/image>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeOfDay>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/position>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/provider>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/termDuration>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/termDuration>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeOfDay>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/alternateName>",
+            "<schema.org/applicationDeadline>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/hasCourse>",
+            "<schema.org/identifier>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/programType>",
+            "<schema.org/provider>",
+            "<schema.org/termDuration>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/name>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/hasCourse>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/hasCourse>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeOfDay>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeOfDay>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/endDate>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/hasCredential>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/subOrganization>",
+            "<schema.org/timeOfDay>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasCourse>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/dayOfWeek>",
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/financialAidEligible>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadLine>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalCredentialAwarded>",
+            "<schema.org/email>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/telephone>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/identifier>",
+            "<schema.org/maximumEnrollment>",
+            "<schema.org/name>",
+            "<schema.org/numberOfCredits>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/occupationalCredentialAwarded>",
+            "<schema.org/offers>",
+            "<schema.org/programPrerequisites>",
+            "<schema.org/provider>",
+            "<schema.org/startDate>",
+            "<schema.org/termDuration>",
+            "<schema.org/termsPerYear>",
+            "<schema.org/timeToComplete>",
+            "<schema.org/typicalCreditsPerTerm>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/applicationDeadline>",
+            "<schema.org/applicationStartDate>",
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/endDate>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/educationalProgramMode>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/occupationalCategory>",
+            "<schema.org/provider>",
+            "<schema.org/timeToComplete>",
+            "isa:<schema.org/EducationalOccupationalProgram>"
+        ],
+        "count": 1.0
+    }
+]

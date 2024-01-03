@@ -1,0 +1,519 @@
+[
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 54310.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/exerciseType>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 4051.0
+    },
+    {
+        "pset": [
+            "<schema.org/exerciseType>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 3357.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/distance>",
+            "<schema.org/exerciseType>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 2210.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/TravelAction>"
+        ],
+        "count": 1340.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/exerciseType>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/sameAs>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 1182.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/exercisePlan>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 526.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/exerciseType>",
+            "<schema.org/fromLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 323.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/distance>",
+            "<schema.org/exercisePlan>",
+            "<schema.org/exerciseType>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 295.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 288.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/exerciseType>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 281.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/exerciseType>",
+            "<schema.org/location>",
+            "<schema.org/sameAs>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 262.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/exerciseType>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 209.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/exerciseType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 202.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/exerciseType>",
+            "<schema.org/instrument>",
+            "<schema.org/location>",
+            "<schema.org/participant>",
+            "<schema.org/sameAs>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 97.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/exerciseType>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/ExercisePlan>",
+            "<schema.org/agent>",
+            "<schema.org/distance>",
+            "<schema.org/exerciseType>",
+            "<schema.org/instrument>",
+            "<schema.org/participant>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/distance>",
+            "<schema.org/exerciseType>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/exercisePlan>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/exerciseType>",
+            "<schema.org/location>",
+            "<schema.org/participant>",
+            "<schema.org/sameAs>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/exerciseType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/distance>",
+            "<schema.org/exercisePlan>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/exercisePlan>",
+            "<schema.org/exerciseType>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/exerciseType>",
+            "<schema.org/image>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/distance>",
+            "<schema.org/duration>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/exerciseType>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/email>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/distance>",
+            "<schema.org/duration>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/location>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/exerciseType>",
+            "<schema.org/participant>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/ExerciseAction>"
+        ],
+        "count": 1.0
+    }
+]

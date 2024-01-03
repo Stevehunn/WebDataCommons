@@ -1,0 +1,48 @@
+[
+    {
+        "pset": [
+            "<schema.org/expectedArrivalFrom>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/deliveryAddress>",
+            "<schema.org/description>",
+            "<schema.org/hasDeliveryMethod>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/originAddress>",
+            "<schema.org/url>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ParcelDelivery>"
+        ],
+        "count": 2.0
+    }
+]

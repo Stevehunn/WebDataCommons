@@ -1,0 +1,670 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 447034.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 191305.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 54899.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 31942.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 2054.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1004.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 931.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 864.0
+    },
+    {
+        "pset": [
+            "isa:<data.flachau.com/schema/AmenityFeature>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PropertyValue>",
+            "isa:<schema.org/StructuredValue>"
+        ],
+        "count": 468.0
+    },
+    {
+        "pset": [
+            "isa:<data.flachau.com/schema/Angebot>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 465.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 453.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 265.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 139.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "isa:<data.flachau.com/schema/Angebot>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 139.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 94.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 80.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/minPrice>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.org/minPrice>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "isa:<data.flachau.com/schema/Schedule>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Schedule>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 35.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "isa:<data.flachau.com/schema/Angebot>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/multilingual>",
+            "<schema.org/ratingCount>",
+            "<schema.org/ratingValue>",
+            "isa:<example.org/schema/Durchschnittswertung>",
+            "isa:<schema.org/AggregateRating>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Rating>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "isa:<example.org/schema/Eventserie>",
+            "isa:<schema.org/Event>",
+            "isa:<schema.org/EventSeries>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Series>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/lowPrice>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<data.flachau.com/schema/Pauschalangebot>",
+            "isa:<schema.org/AggregateOffer>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/unitText>",
+            "isa:<data.flachau.com/schema/Preis>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/PriceSpecification>",
+            "isa:<schema.org/StructuredValue>",
+            "isa:<schema.org/UnitPriceSpecification>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<purl.org/dc/terms/modified>",
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/additionalInformation>",
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/isLinkedTo>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/slug>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subjectOf>",
+            "isa:<data.flachau.com/schema/Experiences>",
+            "isa:<data.flachau.com/schema/Service>",
+            "isa:<schema.org/Intangible>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.datacycle.at/classification>",
+            "<schema.datacycle.at/multilingual>",
+            "<schema.datacycle.at/translation>",
+            "<schema.org/itemOffered>",
+            "<schema.org/name>",
+            "isa:<data.flachau.com/schema/Angebot>",
+            "isa:<schema.org/Intangible>",
+            "isa:<schema.org/Offer>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "pset": [
+            "<schema.org/NumberOfBeds>",
+            "<schema.org/TypeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 8470.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 5938.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 3948.0
+    },
+    {
+        "pset": [
+            "<schema.org/numberOfBeds>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 3003.0
+    },
+    {
+        "pset": [
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 162.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/numberOfBeds>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/numberOfBeds>",
+            "<schema.org/typeOfBed>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/numberOfBeds>",
+            "isa:<schema.org/BedDetails>"
+        ],
+        "count": 8.0
+    }
+]

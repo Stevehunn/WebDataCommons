@@ -1,0 +1,35 @@
+[
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "isa:<schema.org/Invoice>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Invoice>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/accountId>",
+            "<schema.org/billingPeriod>",
+            "<schema.org/broker>",
+            "<schema.org/customer>",
+            "<schema.org/description>",
+            "<schema.org/minimumPaymentDue>",
+            "<schema.org/paymentDueDate>",
+            "<schema.org/paymentStatus>",
+            "<schema.org/totalPaymentDue>",
+            "<schema.org/url>",
+            "isa:<schema.org/Invoice>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,1447 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 8864.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3664.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/doseSchedule>",
+            "<schema.org/drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1133.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 880.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 335.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 224.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 174.0
+    },
+    {
+        "pset": [
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 169.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 146.0
+    },
+    {
+        "pset": [
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 71.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 64.0
+    },
+    {
+        "pset": [
+            "<schema.org/drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/code>",
+            "<schema.org/howPerformed>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedAnatomy>",
+            "<schema.org/epidemiology>",
+            "<schema.org/expectedPrognosis>",
+            "<schema.org/name>",
+            "<schema.org/possibleComplication>",
+            "<schema.org/possibleTreatment>",
+            "<schema.org/primaryPrevention>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/secondaryPrevention>",
+            "<schema.org/signOrSymptom>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/contraindication>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/relevantSpecialty>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/code>",
+            "<schema.org/contraindication>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/legalStatus>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/contraindication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/doseSchedule>",
+            "<schema.org/drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/guideline>",
+            "<schema.org/indication>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/guideline>",
+            "<schema.org/indication>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/drug>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/outcome>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/dosageForm>",
+            "<schema.org/doseSchedule>",
+            "<schema.org/drugUnit>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mechanismOfAction>",
+            "<schema.org/name>",
+            "<schema.org/nonProprietaryName>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/indication>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/activeIngredient>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/nonProprietaryName>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/speakable>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/about>",
+            "<schema.org/activeIngredient>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/healthcondition>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/nonProprietaryName>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/study>",
+            "<schema.org/studySubject>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalStudy>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/preparation>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/activeIngredient>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/nonProprietaryName>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/MedicalWebPage>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/guideline>",
+            "<schema.org/indication>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/howperformed>",
+            "<schema.org/outcome>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/contraindication>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/followup>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/howperformed>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableService>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/indication>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Drug>",
+            "<schema.org/contraindication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/dosageForm>",
+            "<schema.org/doseSchedule>",
+            "<schema.org/drugUnit>",
+            "<schema.org/indication>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mechanismOfAction>",
+            "<schema.org/name>",
+            "<schema.org/nonProprietaryName>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/howPerformed>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/preparation>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/contraindication>",
+            "<schema.org/drug>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/preparation>",
+            "<schema.org/procedureType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/name>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/duplicateTherapy>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/guideline>",
+            "<schema.org/indication>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/guideline>",
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Preparation>",
+            "<schema.org/alternatename>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Drug>",
+            "<schema.org/adverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/howperformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/contraindication>",
+            "<schema.org/guideline>",
+            "<schema.org/indication>",
+            "<schema.org/seriousAdverseOutcome>",
+            "<schema.org/study>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Drug>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/doseSchedule>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/Preparation>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/description>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/seriousAdverseOutcome>",
+            "isa:<schema.org/MedicalTherapy>"
+        ],
+        "count": 1.0
+    }
+]

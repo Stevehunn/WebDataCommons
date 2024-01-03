@@ -1,0 +1,350 @@
+[
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 295828210.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 305226.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 48528.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 37087.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 2463.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1385.0
+    },
+    {
+        "pset": [
+            "<schema.org/ExpectsAcceptanceOf>",
+            "<schema.org/Target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1314.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/image>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 666.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 342.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 217.0
+    },
+    {
+        "pset": [
+            "<schema.org/Agent>",
+            "<schema.org/Object>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 148.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 145.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/ReadAction>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 56.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionAccessibilityRequirement>",
+            "isa:<schema.org/ListenAction>",
+            "isa:<schema.org/ReadAction>",
+            "isa:<schema.org/UseAction>",
+            "isa:<schema.org/ViewAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/Name>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 39.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/\\u76EE\\u6807>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/tar\\u5F97\\u5230>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/expectsAcceptanceOf>",
+            "<schema.org/sameAs>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/ActionStatus>",
+            "<schema.org/Agent>",
+            "<schema.org/description>",
+            "<schema.org/instrument>",
+            "<schema.org/name>",
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/position>",
+            "<schema.org/target>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/ListItem>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/participant>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/About>",
+            "<schema.org/ActionStatus>",
+            "<schema.org/Agent>",
+            "<schema.org/accessMode>",
+            "<schema.org/accountablePerson>",
+            "<schema.org/additionalType>",
+            "<schema.org/alternativeHeadline>",
+            "<schema.org/articleBody>",
+            "<schema.org/articleSection>",
+            "<schema.org/author>",
+            "<schema.org/citation>",
+            "<schema.org/copyrightHolder>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/creator>",
+            "<schema.org/dateCreated>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/instrument>",
+            "<schema.org/isBasedOn>",
+            "<schema.org/isFamilyFriendly>",
+            "<schema.org/keywords>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/mentions>",
+            "<schema.org/name>",
+            "<schema.org/pageEnd>",
+            "<schema.org/pageStart>",
+            "<schema.org/publisher>",
+            "<schema.org/result>",
+            "<schema.org/sameAs>",
+            "<schema.org/schemaVersion>",
+            "<schema.org/target>",
+            "<schema.org/thumbnailUrl>",
+            "<schema.org/timeRequired>",
+            "<schema.org/typicalAgeRange>",
+            "<schema.org/url>",
+            "<schema.org/wordCount>",
+            "isa:<schema.org/BlogPosting>",
+            "isa:<schema.org/ReadAction>",
+            "isa:<schema.org/Specialty>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/query-input>",
+            "<schema.org/query>",
+            "<schema.org/target>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/target>",
+            "<schema.org/url>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "isa:<schema.org/ReadAction>"
+        ],
+        "count": 1.0
+    }
+]

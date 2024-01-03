@@ -1,0 +1,65 @@
+[
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1609.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 876.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 124.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/result>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/name>",
+            "isa:<schema.org/WriteAction>"
+        ],
+        "count": 1.0
+    }
+]

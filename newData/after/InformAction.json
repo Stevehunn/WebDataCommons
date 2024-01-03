@@ -1,0 +1,86 @@
+[
+    {
+        "pset": [
+            "<schema.org/event>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 2129.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 288.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/endTime>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 1.0
+    }
+]

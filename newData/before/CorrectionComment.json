@@ -1,0 +1,39 @@
+[
+    {
+        "pset": [
+            "<schema.org/text>",
+            "isa:<schema.org/CorrectionComment>"
+        ],
+        "count": 78384.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/text>",
+            "isa:<schema.org/CorrectionComment>"
+        ],
+        "count": 5545.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "isa:<schema.org/CorrectionComment>"
+        ],
+        "count": 1528.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/name>",
+            "isa:<schema.org/CorrectionComment>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/CorrectionComment>"
+        ],
+        "count": 2.0
+    }
+]

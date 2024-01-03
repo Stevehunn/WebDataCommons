@@ -1,0 +1,289 @@
+[
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 1258.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/category>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 448.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/description>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 184.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableAtOrFrom>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 130.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 82.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/itemOffered>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/validFrom>",
+            "<schema.org/validThrough>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/validFrom>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/seller>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/itemCondition>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/seller>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemOffered>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/includesObject>",
+            "<schema.org/itemCondition>",
+            "<schema.org/offeredBy>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/price>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/itemCondition>",
+            "<schema.org/offeredBy>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "<schema.org/warranty>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/leaseLength>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/serialNumber>",
+            "<schema.org/url>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offeredBy>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/serialNumber>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "<schema.org/includesObject>",
+            "<schema.org/itemCondition>",
+            "<schema.org/offeredBy>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/doorTime>",
+            "<schema.org/endDate>",
+            "<schema.org/eventAttendanceMode>",
+            "<schema.org/eventStatus>",
+            "<schema.org/highPrice>",
+            "<schema.org/image>",
+            "<schema.org/isAccessibleForFree>",
+            "<schema.org/location>",
+            "<schema.org/lowPrice>",
+            "<schema.org/name>",
+            "<schema.org/offerCount>",
+            "<schema.org/offers>",
+            "<schema.org/organizer>",
+            "<schema.org/performer>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "isa:<schema.org/OfferForLease>",
+            "isa:<schema.org/SocialEvent>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/availabilityEnds>",
+            "<schema.org/availabilityStarts>",
+            "<schema.org/category>",
+            "<schema.org/highPrice>",
+            "<schema.org/lowPrice>",
+            "<schema.org/offerCount>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/priceValidUntil>",
+            "<schema.org/url>",
+            "<schema.org/validFrom>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/businessFunction>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availability>",
+            "<schema.org/name>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptedPaymentMethod>",
+            "<schema.org/description>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/OfferForLease>"
+        ],
+        "count": 1.0
+    }
+]

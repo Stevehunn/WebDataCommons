@@ -1,0 +1,43 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BloodTest>",
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTest>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BloodTest>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BloodTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/BloodTest>"
+        ],
+        "count": 1.0
+    }
+]

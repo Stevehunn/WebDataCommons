@@ -1,0 +1,186 @@
+[
+    {
+        "pset": [
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureTime>",
+            "<schema.org/name>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/dateVehicleFirstRegistered>",
+            "<schema.org/description>",
+            "<schema.org/fuelType>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mileageFromOdometer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/vehicleEngine>",
+            "<schema.org/vehicleSeatingCapacity>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/seatingCapacity>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/bodyType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/vehicleEngine>",
+            "<schema.org/vehicleTransmission>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/dateVehicleFirstRegistered>",
+            "<schema.org/description>",
+            "<schema.org/fuelType>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mileageFromOdometer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/vehicleEngine>",
+            "<schema.org/vehicleSeatingCapacity>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/vehicleModelDate>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/MPN>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/dateVehicleFirstRegistered>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mpn>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/productionDate>",
+            "<schema.org/purchaseDate>",
+            "<schema.org/seatingCapacity>",
+            "<schema.org/sku>",
+            "<schema.org/url>",
+            "<schema.org/vehicleConfiguration>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/color>",
+            "<schema.org/dateVehicleFirstRegistered>",
+            "<schema.org/description>",
+            "<schema.org/fuelType>",
+            "<schema.org/image>",
+            "<schema.org/itemCondition>",
+            "<schema.org/manufacturer>",
+            "<schema.org/mileageFromOdometer>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/vehicleEngine>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/model>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BusOrCoach>"
+        ],
+        "count": 1.0
+    }
+]

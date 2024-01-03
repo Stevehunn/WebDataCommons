@@ -1,0 +1,25 @@
+[
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicCoverArt>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/ComicCoverArt>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/creator>",
+            "isa:<schema.org/ComicCoverArt>"
+        ],
+        "count": 7.0
+    }
+]

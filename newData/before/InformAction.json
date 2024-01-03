@@ -1,0 +1,82 @@
+[
+    {
+        "pset": [
+            "<schema.org/event>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 4710.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/endTime>",
+            "<schema.org/recipient>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 3046.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 432.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/target>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 254.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/datePublished>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/InformAction>"
+        ],
+        "count": 1.0
+    }
+]

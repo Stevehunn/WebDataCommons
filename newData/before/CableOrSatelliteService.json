@@ -1,0 +1,174 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 121727.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableChannel>",
+            "<schema.org/name>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 33264.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 99.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceArea>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/availableChannel>",
+            "<schema.org/award>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceArea>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/serviceType>",
+            "isa:<schema.org/CableOrSatelliteService>"
+        ],
+        "count": 1.0
+    }
+]

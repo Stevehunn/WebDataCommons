@@ -1,0 +1,189 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 613.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>",
+            "isa:<schema.org/ResearchProject>"
+        ],
+        "count": 420.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 383.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/dateModified>",
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 290.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 167.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "<schema.org/funder>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 115.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>",
+            "isa:<schema.org/ResearchProject>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 73.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>",
+            "isa:<schema.org/ResearchProject>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/startDate>",
+            "<schema.org/url>",
+            "isa:<schema.org/MonetaryGrant>"
+        ],
+        "count": 1.0
+    }
+]

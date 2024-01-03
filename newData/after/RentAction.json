@@ -1,0 +1,949 @@
+[
+    {
+        "pset": [
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 12942.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 7986.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 7036.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 4559.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 3281.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2720.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2084.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1881.0
+    },
+    {
+        "pset": [
+            "<schema.org/result>",
+            "<schema.org/target>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1629.0
+    },
+    {
+        "pset": [
+            "<schema.org/landlord>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1486.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1156.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 834.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 649.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 599.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/endTime>",
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/startTime>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 575.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 529.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 480.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 379.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 375.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 374.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 310.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 289.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 284.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 263.0
+    },
+    {
+        "pset": [
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 245.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 239.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/landlord>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 237.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 224.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 192.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 190.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/target>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 127.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 109.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 108.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 106.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/offers>",
+            "<schema.org/price>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 98.0
+    },
+    {
+        "pset": [
+            "<schema.org/RealEstateAgent>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 92.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 81.0
+    },
+    {
+        "pset": [
+            "<schema.org/addressCountry>",
+            "<schema.org/addressLocality>",
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/RealEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 75.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 62.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 54.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/landlord>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/agent>",
+            "<schema.org/image>",
+            "<schema.org/landlord>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 50.0
+    },
+    {
+        "pset": [
+            "<schema.org/price>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 46.0
+    },
+    {
+        "pset": [
+            "<schema.org/landlord>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 27.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 22.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BuyAction>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/seller>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/landlord>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/CommunicateAction>",
+            "isa:<schema.org/QuoteAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/item>",
+            "<schema.org/position>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/landlord>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/offers>",
+            "<schema.org/price>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/landlord>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/offers>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/Product>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/RealEstateAgent>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/landlord>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/landlord>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/endTime>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/object>",
+            "<schema.org/price>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/startTime>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/price>",
+            "<schema.org/priceSpecification>",
+            "<schema.org/realEstateAgent>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/target>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/priceCurrency>",
+            "<schema.org/realEstateAgent>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/landlord>",
+            "<schema.org/priceSpecification>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/itemListElement>",
+            "<schema.org/numberOfItems>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "<schema.org/participant>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Landlord>",
+            "<schema.org/Offers>",
+            "<schema.org/location>",
+            "<schema.org/object>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/actionStatus>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RentAction>"
+        ],
+        "count": 1.0
+    }
+]

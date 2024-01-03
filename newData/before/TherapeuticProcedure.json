@@ -1,0 +1,658 @@
+[
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 7629.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableStrength>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 3676.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 2032.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1225.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableStrength>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1006.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 628.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 509.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 240.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 192.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableStrength>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/image>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 136.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 131.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 129.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/image>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/Psychiatric>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 60.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 59.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/dosageForm>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 26.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "<schema.org/drug>",
+            "<schema.org/indication>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableStrength>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/image>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/dosageForm>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableStrength>",
+            "<schema.org/dosageForm>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableService>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/faxNumber>",
+            "<schema.org/founder>",
+            "<schema.org/image>",
+            "<schema.org/legalName>",
+            "<schema.org/member>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/availableStrength>",
+            "<schema.org/dosageForm>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/howPerformed>",
+            "<schema.org/indication>",
+            "<schema.org/name>",
+            "<schema.org/outcome>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/drugClass>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/prescriptionStatus>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableService>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/indication>",
+            "<schema.org/isAcceptingNewPatients>",
+            "<schema.org/knowsAbout>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/PhysicalTherapy>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TherapeuticProcedure>",
+            "isa:<schema.org/medicalSpecialty>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/activeIngredient>",
+            "<schema.org/administrationRoute>",
+            "<schema.org/alternateName>",
+            "<schema.org/dosageForm>",
+            "<schema.org/drugClass>",
+            "<schema.org/image>",
+            "<schema.org/includedInHealthInsurancePlan>",
+            "<schema.org/isAvailableGenerically>",
+            "<schema.org/isProprietary>",
+            "<schema.org/labelDetails>",
+            "<schema.org/manufacturer>",
+            "<schema.org/name>",
+            "<schema.org/prescribingInfo>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/Drug>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/procedureType>",
+            "isa:<schema.org/MedicalProcedure>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/SurgicalProcedure>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/adverseOutcome>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/alternateName>",
+            "<schema.org/bodyLocation>",
+            "<schema.org/code>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/preparation>",
+            "<schema.org/sameas>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/guideline>",
+            "<schema.org/name>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/adverseOutcome>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/drug>",
+            "<schema.org/howPerformed>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TherapeuticProcedure>"
+        ],
+        "count": 1.0
+    }
+]

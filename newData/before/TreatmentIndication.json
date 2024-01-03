@@ -1,0 +1,53 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 2762.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 1790.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 123.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 20.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 20.0
+    }
+]

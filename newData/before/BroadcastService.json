@@ -1,0 +1,537 @@
+[
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/name>",
+            "<schema.org/videoformat>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 33264.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 21279.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcaster>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 14825.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 10694.0
+    },
+    {
+        "pset": [
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 10020.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcaster>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 9213.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 6690.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 5837.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 2646.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcaster>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 1917.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcaster>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 1777.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasBroadcastChannel>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 868.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 765.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 745.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 537.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/description>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 528.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 363.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/broadcaster>",
+            "<schema.org/category>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 356.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 325.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 302.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastDisplayName>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 298.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcaster>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 214.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcaster>",
+            "<schema.org/name>",
+            "<schema.org/parentService>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 214.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/broadcaster>",
+            "<schema.org/category>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 135.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 111.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 70.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 63.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 53.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 44.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/callSign>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/name>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 28.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 21.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastFrequency>",
+            "<schema.org/broadcaster>",
+            "<schema.org/callSign>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>",
+            "isa:<schema.org/RadioBroadcastService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/callsign>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/copyrightYear>",
+            "<schema.org/image>",
+            "<schema.org/inLanguage>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/name>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/BroadcastDisplayName>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastTimezone>",
+            "<schema.org/name>",
+            "<schema.org/videoFormat>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableChannel>",
+            "<schema.org/broadcastAffiliateOf>",
+            "<schema.org/broadcastDisplayName>",
+            "<schema.org/broadcaster>",
+            "<schema.org/category>",
+            "<schema.org/logo>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BroadcastService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BroadcastService>",
+            "isa:<schema.org/Thing>"
+        ],
+        "count": 1.0
+    }
+]

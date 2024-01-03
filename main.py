@@ -16,10 +16,7 @@ from parse import parseMac
 from dataCount import dataWithIntangible
 from dataCount import dataWithoutIntangible
 from comparaisonTableau import content_comparaonTableau
-
-
-
-
+from testplot import content_testplot
 
 # Custom CSS
 custom_css = """
@@ -62,6 +59,7 @@ top_20_target_classes = [
     "Place",
 ]
 
+
 class Node:
     def __init__(self, id, generation, parent=None, value=-1) -> None:
         self._id = id
@@ -83,15 +81,17 @@ def item_generator(json_input, lookup_key, depth=None):
         for k, v in json_input.items():
             if k == lookup_key:
                 yield from item_generator(v, lookup_key, depth + 1)
-        yield (depth, json_input)
+        yield depth, json_input
     elif isinstance(json_input, list):
         for item in json_input:
             yield from item_generator(item, lookup_key, depth)
+
 
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
     nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
     return nouveau_contenu
+
 
 def getCheminForImage(nomfichier):
     regexSelect = extraire_contenu_apres_backslash(nomfichier)
@@ -103,34 +103,35 @@ def getCheminForImage(nomfichier):
     result = f"assets/plots/{parts[1]}_plot.svg"
     return result
 
+
 target_classes = []
 # Parese Data from target classes
 parseWindow(target_classes)
-#parseMac(target_classes)
+# parseMac(target_classes)
 
 # Version Window
-#for file in glob.glob("assets/plots/*.svg"):
-    # Utilisez split pour séparer le chemin du fichier
-    #parts = file.split("/")
-    
-    # Extrait le premier élément après "assets"
-    #fname = parts[1]  # parts[0] est "assets", parts[1] est "plots"
+# for file in glob.glob("assets/plots/*.svg"):
+# Utilisez split pour séparer le chemin du fichier
+# parts = file.split("/")
 
-    #parts2 = fname.split("plots")
-    # Extrait le premier élément après "plots"
-    #newFname =parts2[1]
+# Extrait le premier élément après "assets"
+# fname = parts[1]  # parts[0] est "assets", parts[1] est "plots"
 
-    # Utiliser split pour séparer la chaîne en fonction de "\"
-    #parts = newFname.split("\\")
+# parts2 = fname.split("plots")
+# Extrait le premier élément après "plots"
+# newFname =parts2[1]
 
-    # Concaténer les parties avec "schema:"
-    #newFname ="".join(parts[1:])
+# Utiliser split pour séparer la chaîne en fonction de "\"
+# parts = newFname.split("\\")
 
-    # Supprime l'extension ".svg"
-    #cname = newFname.split("_plot.svg")[0]
-    
-    # Ajoute à la liste avec le préfixe "schema:"
-    #target_classes.append(f"schema:{cname}")
+# Concaténer les parties avec "schema:"
+# newFname ="".join(parts[1:])
+
+# Supprime l'extension ".svg"
+# cname = newFname.split("_plot.svg")[0]
+
+# Ajoute à la liste avec le préfixe "schema:"
+# target_classes.append(f"schema:{cname}")
 
 # Version Mac
 # for file in glob.glob("assets/plots/*.svg"):
@@ -184,7 +185,6 @@ with open("data/count.json", "r") as file:
         data_plotly_sunburst["values"].append(node._value)
         data_plotly_sunburst["parents"].append(node._parent)
 
-
 data_plotly_sunburst = dataWithoutIntangible()
 data_plotly_treemap = dataWithIntangible()
 
@@ -194,6 +194,7 @@ def main():
     content_sidebar()
     return None
 
+
 # Side Content
 def content_sidebar():
     # Display custom CSS
@@ -202,21 +203,25 @@ def content_sidebar():
     st.sidebar.title("Here you can navigate throught the demo")
     with st.sidebar:
         selected_tab = option_menu(
-            menu_title = "Summary",
-            options=["Welcome page","Data from 2022","New Data from 2023","Comparison between the two dataset","New style of chart","Comparaison Table"],
+            menu_title="Summary",
+            options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset",
+                     "New style of chart", "Comparaison Table","test plot"],
         )
-    if selected_tab =="Welcome page":
+    if selected_tab == "Welcome page":
         content_welcome()
-    if selected_tab =="Data from 2022":
-        content_2022(data_plotly_sunburst,data_plotly_treemap,target_classes)
-    if selected_tab =="New Data from 2023":
-        content_2023(data_plotly_sunburst,target_classes)
-    if selected_tab =="Comparison between the two dataset":
+    if selected_tab == "Data from 2022":
+        content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes)
+    if selected_tab == "New Data from 2023":
+        content_2023(data_plotly_sunburst, target_classes)
+    if selected_tab == "Comparison between the two dataset":
         content_comparison(target_classes)
-    if selected_tab =="Comparaison Table":
+    if selected_tab == "Comparaison Table":
         content_comparaonTableau(target_classes)
-    if selected_tab =="New style of chart":
+    if selected_tab == "New style of chart":
         content_new_style()
+    if selected_tab == "test plot":
+        content_testplot()
+
 
 # Run the app
 if __name__ == '__main__':

@@ -1,0 +1,19 @@
+[
+    {
+        "pset": [
+            "<schema.org/appliesToPaymentMethod>",
+            "<schema.org/price>",
+            "isa:<schema.org/PaymentChargeSpecification>"
+        ],
+        "count": 33180.0
+    },
+    {
+        "pset": [
+            "<schema.org/appliesToPaymentMethod>",
+            "<schema.org/eligibleQuantity>",
+            "<schema.org/price>",
+            "isa:<schema.org/PaymentChargeSpecification>"
+        ],
+        "count": 4863.0
+    }
+]

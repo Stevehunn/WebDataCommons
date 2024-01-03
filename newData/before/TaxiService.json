@@ -1,0 +1,875 @@
+[
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1499.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 579.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 416.0
+    },
+    {
+        "pset": [
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 376.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 125.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 110.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/mainEntity>",
+            "<schema.org/name>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/url>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/FAQPage>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 76.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 65.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 49.0
+    },
+    {
+        "pset": [
+            "<schema.org/logo>",
+            "<schema.org/openingHours>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 29.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableChannel>",
+            "<schema.org/provider>",
+            "<schema.org/serviceArea>",
+            "<schema.org/serviceOutput>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/aeraServed>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/email>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/award>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/logo>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/serviceArea>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/serviceArea>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/seeks>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/slogan>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/logo>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/serviceArea>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/acceptsReservations>",
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/priceRange>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/contactPoint>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityofPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/seeks>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/LocalBusiness>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/openingHours>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Award>",
+            "<schema.org/Category>",
+            "<schema.org/Description>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceSMSNumber>",
+            "<schema.org/slogan>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/Taxi>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/itemListElement>",
+            "<schema.org/name>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/url>",
+            "isa:<schema.org/BreadcrumbList>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableChannel>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Award>",
+            "<schema.org/Category>",
+            "<schema.org/Description>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/category>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/slogan>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/providerMobility>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Award>",
+            "<schema.org/Category>",
+            "<schema.org/Description>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaServed>",
+            "<schema.org/category>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/image>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/logo>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/priceRange>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "<schema.org/slogan>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/Service>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/providerMobility>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/availableChannel>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "<schema.org/serviceArea>",
+            "<schema.org/serviceOutput>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/providerMobility>",
+            "<schema.org/url>",
+            "isa:<schema.org/TaxiService>"
+        ],
+        "count": 1.0
+    }
+]

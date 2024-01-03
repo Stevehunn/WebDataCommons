@@ -1,0 +1,32 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/EventReservation>"
+        ],
+        "count": 7123.0
+    },
+    {
+        "pset": [
+            "<schema.org/endDate>",
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/startDate>",
+            "<schema.org/underName>",
+            "<schema.org/url>",
+            "isa:<schema.org/EventReservation>"
+        ],
+        "count": 681.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "<schema.org/reservedTicket>",
+            "<schema.org/underName>",
+            "isa:<schema.org/EventReservation>"
+        ],
+        "count": 1.0
+    }
+]

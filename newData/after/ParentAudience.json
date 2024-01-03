@@ -1,0 +1,93 @@
+[
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/childMaxAge>",
+            "<schema.org/childMinAge>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 1562.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 1181.0
+    },
+    {
+        "pset": [
+            "<schema.org/childminage>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 1157.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/childMaxAge>",
+            "<schema.org/childMinAge>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 1001.0
+    },
+    {
+        "pset": [
+            "<schema.org/childMaxAge>",
+            "<schema.org/childMinAge>",
+            "<schema.org/spatialCoverage>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 522.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 88.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 38.0
+    },
+    {
+        "pset": [
+            "<schema.org/childMaxAge>",
+            "<schema.org/childMinAge>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/childmaxage>",
+            "<schema.org/childminage>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ParentAudience>"
+        ],
+        "count": 2.0
+    }
+]

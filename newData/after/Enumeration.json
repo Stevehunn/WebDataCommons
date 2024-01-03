@@ -1,0 +1,207 @@
+[
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 891.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/supersededBy>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 852.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 332.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaserved>",
+            "<schema.org/availableService>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isacceptingnewpatients>",
+            "<schema.org/medicalspecialty>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/Physician>"
+        ],
+        "count": 224.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaserved>",
+            "<schema.org/availableService>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/healthPlanNetworkId>",
+            "<schema.org/image>",
+            "<schema.org/isacceptingnewpatients>",
+            "<schema.org/logo>",
+            "<schema.org/medicalspecialty>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Dentist>",
+            "isa:<schema.org/Enumeration>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/areaserved>",
+            "<schema.org/availableService>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/image>",
+            "<schema.org/isacceptingnewpatients>",
+            "<schema.org/logo>",
+            "<schema.org/medicalspecialty>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Dentist>",
+            "isa:<schema.org/Enumeration>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/address>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaserved>",
+            "<schema.org/availableService>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/isacceptingnewpatients>",
+            "<schema.org/medicalspecialty>",
+            "<schema.org/name>",
+            "<schema.org/openingHoursSpecification>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Enumeration>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>",
+            "isa:<schema.org/Physician>",
+            "isa:<schema.org/WebPage>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/aggregateRating>",
+            "<schema.org/alternateName>",
+            "<schema.org/areaserved>",
+            "<schema.org/availableService>",
+            "<schema.org/award>",
+            "<schema.org/contactPoint>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/hasMap>",
+            "<schema.org/healthPlanNetworkId>",
+            "<schema.org/image>",
+            "<schema.org/isacceptingnewpatients>",
+            "<schema.org/logo>",
+            "<schema.org/medicalspecialty>",
+            "<schema.org/name>",
+            "<schema.org/openingHours>",
+            "<schema.org/paymentAccepted>",
+            "<schema.org/priceRange>",
+            "<schema.org/review>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/Dentist>",
+            "isa:<schema.org/Enumeration>",
+            "isa:<schema.org/MedicalClinic>",
+            "isa:<schema.org/MedicalOrganization>"
+        ],
+        "count": 1.0
+    }
+]

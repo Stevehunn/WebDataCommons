@@ -1,0 +1,560 @@
+[
+    {
+        "pset": [
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 450.0
+    },
+    {
+        "pset": [
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/interestRate>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 187.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/interestRate>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 114.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 95.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 85.0
+    },
+    {
+        "pset": [
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 72.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/interestRate>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 61.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 52.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 48.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 47.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/slogan>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 32.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 23.0
+    },
+    {
+        "pset": [
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/review>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 12.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/interestRate>",
+            "<schema.org/provider>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/accountOverdraftLimit>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offeredBy>",
+            "<schema.org/offers>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/Provider>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/logo>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/availableChannel>",
+            "<schema.org/hoursAvailable>",
+            "<schema.org/logo>",
+            "<schema.org/offers>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/offeredBy>",
+            "<schema.org/offers>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/accountOverdraftLimit>",
+            "<schema.org/audience>",
+            "<schema.org/interestRate>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/accountMinimumInflow>",
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/isRelatedTo>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/bankAccountType>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Image>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/name>",
+            "<schema.org/offers>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/isSimilarto>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/BankAccount>"
+        ],
+        "count": 1.0
+    }
+]

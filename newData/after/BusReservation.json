@@ -1,0 +1,37 @@
+[
+    {
+        "pset": [
+            "<schema.org/bookingTime>",
+            "<schema.org/broker>",
+            "<schema.org/priceCurrency>",
+            "<schema.org/totalPrice>",
+            "isa:<schema.org/BusReservation>"
+        ],
+        "count": 1393.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BusReservation>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "isa:<schema.org/BusReservation>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/reservationFor>",
+            "<schema.org/reservationId>",
+            "<schema.org/reservationStatus>",
+            "isa:<schema.org/BusReservation>"
+        ],
+        "count": 3.0
+    }
+]

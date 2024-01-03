@@ -1,0 +1,64 @@
+[
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/description>",
+            "<schema.org/funder>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 15850.0
+    },
+    {
+        "pset": [
+            "<schema.org/identifier>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/fundedItem>",
+            "<schema.org/image>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 16.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sponsor>",
+            "<schema.org/url>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/funder>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/description>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/Grant>"
+        ],
+        "count": 1.0
+    }
+]

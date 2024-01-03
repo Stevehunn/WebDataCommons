@@ -1,0 +1,72 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 261.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 129.0
+    },
+    {
+        "pset": [
+            "<schema.org/comprisedof>",
+            "<schema.org/name>",
+            "<schema.org/relatedTherapy>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 36.0
+    },
+    {
+        "pset": [
+            "<schema.org/associatedPathophysiology>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/relatedCondition>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/AnatomicalSystem>"
+        ],
+        "count": 1.0
+    }
+]

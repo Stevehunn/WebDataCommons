@@ -1,0 +1,117 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 219.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/MedicineSystem>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/imagingTechnique>",
+            "<schema.org/serviceType>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTestPanel>",
+            "isa:<schema.org/PathologyTest>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/MedicineSystem>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/imagingTechnique>",
+            "<schema.org/serviceType>",
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/Service>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/imagingTechnique>",
+            "<schema.org/name>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/ImagingTest>"
+        ],
+        "count": 1.0
+    }
+]

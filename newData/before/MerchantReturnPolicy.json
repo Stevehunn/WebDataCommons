@@ -1,0 +1,166 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 4796.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchantReturnLink>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 4370.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 2032.0
+    },
+    {
+        "pset": [
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnLink>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 1609.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/refundType>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 1487.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/refundType>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 1461.0
+    },
+    {
+        "pset": [
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/name>",
+            "<schema.org/refundType>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 1028.0
+    },
+    {
+        "pset": [
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/refundType>",
+            "<schema.org/returnFees>",
+            "<schema.org/returnPolicyCategory>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 758.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/name>",
+            "<schema.org/refundType>",
+            "<schema.org/returnFees>",
+            "<schema.org/returnMethod>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 441.0
+    },
+    {
+        "pset": [
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 385.0
+    },
+    {
+        "pset": [
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/refundType>",
+            "<schema.org/returnLabelSource>",
+            "<schema.org/returnMethod>",
+            "<schema.org/returnPolicyCategory>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 67.0
+    },
+    {
+        "pset": [
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/name>",
+            "<schema.org/refundType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 57.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/refundType>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/inStoreReturnsOffered>",
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/name>",
+            "<schema.org/refundType>",
+            "<schema.org/returnFees>",
+            "<schema.org/returnPolicyCategory>",
+            "<schema.org/url>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 19.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MerchantReturnPolicy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/merchantReturnDays>",
+            "<schema.org/merchantReturnLink>",
+            "<schema.org/productReturnDays>",
+            "<schema.org/productReturnLink>",
+            "isa:<schema.org/MerchantReturnPolicy>",
+            "isa:<schema.org/ProductReturnPolicy>"
+        ],
+        "count": 1.0
+    }
+]

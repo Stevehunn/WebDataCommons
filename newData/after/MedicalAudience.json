@@ -1,0 +1,205 @@
+[
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 4274.0
+    },
+    {
+        "pset": [
+            "<schema.org/requiredMaxAge>",
+            "<schema.org/requiredMinAge>",
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 3926.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1562.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 775.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 418.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/geographicArea>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 159.0
+    },
+    {
+        "pset": [
+            "<schema.org/audiencetype>",
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/healthCondition>",
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/name>",
+            "<schema.org/requiredGender>",
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "isa:<schema.org/EducationalAudience>",
+            "isa:<schema.org/MedicalAudience>",
+            "isa:<schema.org/Patient>",
+            "isa:<schema.org/PeopleAudience>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/audiencetype>",
+            "<schema.org/description>",
+            "<schema.org/healthCondition>",
+            "<schema.org/keywords>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/geographicArea>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/BusinessAudience>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/suggestedGender>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audienceType>",
+            "<schema.org/name>",
+            "<schema.org/suggestedGender>",
+            "<schema.org/suggestedMaxAge>",
+            "<schema.org/suggestedMinAge>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/healthCondition>",
+            "<schema.org/requiredGender>",
+            "<schema.org/requiredMinAge>",
+            "isa:<schema.org/MedicalAudience>"
+        ],
+        "count": 1.0
+    }
+]

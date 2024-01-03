@@ -1,0 +1,29 @@
+[
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/description>",
+            "<schema.org/followup>",
+            "<schema.org/howPerformed>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/RadiationTherapy>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/RadiationTherapy>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/RadiationTherapy>"
+        ],
+        "count": 1.0
+    }
+]

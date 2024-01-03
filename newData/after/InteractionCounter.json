@@ -1,0 +1,169 @@
+[
+    {
+        "pset": [
+            "<schema.org/interactionType>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 20381568.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionService>",
+            "<schema.org/interactionType>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 250869.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionType>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 224177.0
+    },
+    {
+        "pset": [
+            "<schema.org/InteractionType>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 39710.0
+    },
+    {
+        "pset": [
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 15065.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionType>",
+            "<schema.org/name>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 6582.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 4457.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionService>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 3325.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 720.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionCount>",
+            "<schema.org/interactionType>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 126.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionType>",
+            "<schema.org/userlnteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 115.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionCount>",
+            "<schema.org/interactionType>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionType>",
+            "<schema.org/location>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionService>",
+            "<schema.org/interactionType>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/InteractionType>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/interactionStatistic>",
+            "<schema.org/interactionType>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<hmapp:describedInGraph>",
+            "<schema.org/name>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasPart>",
+            "<schema.org/interactionType>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/userInteractionCount>",
+            "isa:<schema.org/InteractionCounter>"
+        ],
+        "count": 1.0
+    }
+]

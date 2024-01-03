@@ -1,0 +1,497 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 52744.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 4687.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 2339.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1133.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 359.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 200.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 121.0
+    },
+    {
+        "pset": [
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 105.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 83.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 78.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 41.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 40.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 37.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BloodTest>",
+            "isa:<schema.org/ImagingTest>",
+            "isa:<schema.org/MedicalTest>",
+            "isa:<schema.org/MedicalTestPanel>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/subjectOf>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 14.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 7.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/Description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/medicineSystem>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/code>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/author>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/affectedBy>",
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/recognizingAuthority>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/usedToDiagnose>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/sameas>",
+            "<schema.org/signDetected>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/code>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/URL>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/signDetected>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/name>",
+            "<schema.org/sameas>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usedtodiagnose>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternatename>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/signDetected>",
+            "<schema.org/url>",
+            "<schema.org/usedToDiagnose>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "<schema.org/usesDevice>",
+            "isa:<schema.org/MedicalTest>"
+        ],
+        "count": 1.0
+    }
+]

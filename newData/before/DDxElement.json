@@ -1,0 +1,88 @@
+[
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/distinguishingSign>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 336.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 119.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/Diagnosis>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/distinguishingSign>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/distinguishingSign>",
+            "<schema.org/name>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/distinguishingSign>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/distinguishingSign>",
+            "<schema.org/medicineSystem>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/possibleTreatment>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/diagnosis>",
+            "<schema.org/distinguishingSign>",
+            "<schema.org/relevantSpecialty>",
+            "<schema.org/riskFactor>",
+            "isa:<schema.org/DDxElement>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 53057.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 5090.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/agent>",
+            "<schema.org/fromLocation>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 45.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/fromLocation>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/potentialAction>",
+            "<schema.org/toLocation>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/fromLocation>",
+            "<schema.org/instrument>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionalType>",
+            "<schema.org/agent>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/url>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/toLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/distance>",
+            "<schema.org/fromLocation>",
+            "isa:<schema.org/ExerciseAction>",
+            "isa:<schema.org/MoveAction>"
+        ],
+        "count": 1.0
+    }
+]

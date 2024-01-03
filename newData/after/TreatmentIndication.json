@@ -1,0 +1,49 @@
+[
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalCondition>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 1794.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 1034.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/TreatmentIndication>"
+        ],
+        "count": 13.0
+    },
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/abstract>",
+            "<schema.org/audience>",
+            "<schema.org/breadcrumb>",
+            "<schema.org/contentURL>",
+            "<schema.org/description>",
+            "<schema.org/drug>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/speakable>",
+            "isa:<schema.org/Brand>",
+            "isa:<schema.org/MedicalWebPage>",
+            "isa:<schema.org/TreatmentIndication>",
+            "isa:<schema.org/VideoObject>",
+            "isa:<schema.org/medicalTherapy>"
+        ],
+        "count": 1.0
+    }
+]

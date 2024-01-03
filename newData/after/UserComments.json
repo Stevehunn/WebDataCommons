@@ -1,0 +1,109 @@
+[
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 21921.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/name>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 2412.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 2030.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "<schema.org/replyToUrl>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 1563.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 567.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/replyToUrl>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 165.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/inLanguage>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 31.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 30.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "<schema.org/replyToUrl>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/discusses>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/commentText>",
+            "<schema.org/commentTime>",
+            "<schema.org/creator>",
+            "<schema.org/url>",
+            "isa:<schema.org/UserComments>"
+        ],
+        "count": 1.0
+    }
+]

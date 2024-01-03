@@ -1,0 +1,129 @@
+[
+    {
+        "pset": [
+            "<schema.org/about>",
+            "<schema.org/audience>",
+            "<schema.org/author>",
+            "<schema.org/datePublished>",
+            "<schema.org/description>",
+            "<schema.org/guidelineSubject>",
+            "<schema.org/name>",
+            "<schema.org/publicationType>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 18.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/guideline>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/additionaltype>",
+            "<schema.org/description>",
+            "<schema.org/guidelineSubject>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 5.0
+    },
+    {
+        "pset": [
+            "<schema.org/potentialAction>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/evidenceOrigin>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/translation>",
+            "<schema.org/url>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/evidenceLevel>",
+            "<schema.org/evidenceOrigin>",
+            "<schema.org/guidelineSubject>",
+            "<schema.org/name>",
+            "<schema.org/recommendationStrength>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "isa:<schema.org/MedicalGuideline>"
+        ],
+        "count": 1.0
+    }
+]

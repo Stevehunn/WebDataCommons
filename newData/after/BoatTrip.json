@@ -1,0 +1,245 @@
+[
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 783.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 238.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 82.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/author>",
+            "<schema.org/busName>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 68.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 66.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/itinerary>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 55.0
+    },
+    {
+        "pset": [
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 33.0
+    },
+    {
+        "pset": [
+            "<schema.org/boatName>",
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 25.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 24.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/author>",
+            "<schema.org/busName>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/author>",
+            "<schema.org/dateModified>",
+            "<schema.org/datePublished>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/headline>",
+            "<schema.org/image>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/publisher>",
+            "<schema.org/url>",
+            "isa:<schema.org/Article>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/eventStatus>",
+            "<schema.org/identifier>",
+            "<schema.org/image>",
+            "<schema.org/location>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/subTrip>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/arrivalTime>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>",
+            "isa:<schema.org/TouristAttraction>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/arrivalBoatTerminal>",
+            "<schema.org/departureBoatTerminal>",
+            "<schema.org/image>",
+            "<schema.org/potentialAction>",
+            "<schema.org/provider>",
+            "isa:<schema.org/BoatTrip>"
+        ],
+        "count": 1.0
+    }
+]

@@ -1,0 +1,517 @@
+[
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/brand>",
+            "<schema.org/loanRepaymentForm>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 3200.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/description>",
+            "<schema.org/interestRate>",
+            "<schema.org/loanRepaymentForm>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1803.0
+    },
+    {
+        "pset": [
+            "<schema.org/LoanTerm>",
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1708.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/interestRate>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1705.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/interestRate>",
+            "<schema.org/loanTerm>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1701.0
+    },
+    {
+        "pset": [
+            "<schema.org/LoanTerm>",
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 740.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/brand>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 531.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 226.0
+    },
+    {
+        "pset": [
+            "<schema.org/interestRate>",
+            "<schema.org/loanTerm>",
+            "<schema.org/loantype>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 112.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/loanTerm>",
+            "<schema.org/logo>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 69.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 51.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/downPayment>",
+            "<schema.org/image>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 42.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 34.0
+    },
+    {
+        "pset": [
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 17.0
+    },
+    {
+        "pset": [
+            "<schema.org/LoanTerm>",
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/description>",
+            "<schema.org/interestRate>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 15.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/interestRate>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 11.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/hasOfferCatalog>",
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 10.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/audience>",
+            "<schema.org/description>",
+            "<schema.org/loanType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 9.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 8.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/mainEntityOfPage>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 6.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/areaServed>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/image>",
+            "<schema.org/isSimilarTo>",
+            "<schema.org/provider>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 4.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/loanTerm>",
+            "<schema.org/loanType>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 3.0
+    },
+    {
+        "pset": [
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/interestRate>",
+            "<schema.org/loanType>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 2.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/loanTerm>",
+            "<schema.org/loanType>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/interestRate>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/loanTerm>",
+            "<schema.org/loanType>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/audience>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/description>",
+            "<schema.org/feesAndCommissionsSpecification>",
+            "<schema.org/requiredCollateral>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/broker>",
+            "<schema.org/currency>",
+            "<schema.org/description>",
+            "<schema.org/loanType>",
+            "<schema.org/name>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/review>",
+            "<schema.org/serviceOutput>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/loanTerm>",
+            "<schema.org/loanType>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/broker>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/serviceType>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/category>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/address>",
+            "<schema.org/geo>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/sameAs>",
+            "<schema.org/telephone>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/Name>",
+            "<schema.org/additionalProperty>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/areaServed>",
+            "<schema.org/brand>",
+            "<schema.org/category>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/termsOfService>",
+            "<schema.org/url>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/amount>",
+            "<schema.org/availableChannel>",
+            "<schema.org/description>",
+            "<schema.org/loanTerm>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/loanType>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/alternateName>",
+            "<schema.org/annualPercentageRate>",
+            "<schema.org/description>",
+            "<schema.org/disambiguatingDescription>",
+            "<schema.org/loanTerm>",
+            "<schema.org/loanType>",
+            "isa:<schema.org/MortgageLoan>"
+        ],
+        "count": 1.0
+    },
+    {
+        "pset": [
+            "<schema.org/aggregateRating>",
+            "<schema.org/brand>",
+            "<schema.org/description>",
+            "<schema.org/image>",
+            "<schema.org/name>",
+            "<schema.org/provider>",
+            "<schema.org/sameAs>",
+            "<schema.org/subjectOf>",
+            "isa:<schema.org/MortgageLoan>",
+            "isa:<schema.org/Product>"
+        ],
+        "count": 1.0
+    }
+]
