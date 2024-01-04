@@ -1,29 +1,9 @@
-import os.path
-
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
-import pandas as pd
 import json
-import glob
-import re
+import os.path
+import pandas as pd
+import streamlit as st
 from matplotlib import pyplot as plt
-from tenacity import before
-from upsetplot import plot, from_memberships, UpSet
-
-def extraire_contenu_apres_backslash(ma_ligne):
-    # Regex pour supprimer tout le contenu avant le dernier caractère '\'
-    nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
-    return nouveau_contenu
-
-def getCheminForImage(nomfichier):
-    regexSelect = extraire_contenu_apres_backslash(nomfichier)
-    # Utiliser split pour séparer la chaîne en fonction de ":"
-    parts = regexSelect.split(":")
-
-    # Concaténer les parties avec le format souhaité
-    result = f"assets/plots/{parts[1]}_plot.svg"
-    return result
+from upsetplot import plot
 
 def content_testplot(target_classes, target_select, before):
     row = ["10", "15", "20", "30", "40", "50", "all"]
@@ -31,13 +11,14 @@ def content_testplot(target_classes, target_select, before):
         namekey = "before"
     else:
         namekey = "after"
-    selectrow = st.selectbox("Select the number of row", row, index=0, key=namekey)
+
+    selectrow = st.selectbox("Select the number of column to display", row, index=0, key=namekey)
     result = target_select.split(":")[1]
     if before is True:
         cheminTarget = './newData/before/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "before.svg"
         cheminImageComplet = './tempSvg/' + result + "beforecomplet.svg"
-        namekey="before"
+        namekey = "before"
     else:
         cheminTarget = './newData/after/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "after.svg"
@@ -84,7 +65,6 @@ def content_testplot(target_classes, target_select, before):
                 #st.write(df_reduce)
 
                 #----------Save and Show n row of the dataframe------------------
-                st.write("Show the number of rows select.")
                 df_up = df_reduce.groupby(list_labels).value_counts()
 
                 for i in range(len(df_up)):
@@ -98,7 +78,6 @@ def content_testplot(target_classes, target_select, before):
 
             else:
                 # ----------Save and Show all the dataframe------------------
-                st.write("Show all rows available.")
                 df_up_all = df.groupby(list_labels).value_counts()
 
                 for i in range(len(df_up_all)):

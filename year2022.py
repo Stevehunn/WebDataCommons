@@ -1,28 +1,9 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
-import pandas as pd
-import numpy as np
-import json
-import glob
-import re
+# Import Content Page
+from dataCount import target_without_intangible
+from parse import getCheminForImage
 from plot import content_testplot
-
-
-def extraire_contenu_apres_backslash(ma_ligne):
-    # Regex pour supprimer tout le contenu avant le dernier caractère '\'
-    nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
-    return nouveau_contenu
-
-
-def getCheminForImage(nomfichier):
-    regexSelect = extraire_contenu_apres_backslash(nomfichier)
-    # Utiliser split pour séparer la chaîne en fonction de ":"
-    parts = regexSelect.split(":")
-
-    # Concaténer les parties avec le format souhaité
-    result = f"assets/plots/{parts[1]}_plot.svg"
-    return result
+from treemap import content_treemap
 
 
 # 2023 Analyse page Content
@@ -48,10 +29,17 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
         """
     )
 
-    select = st.selectbox("", target_classes)
-    result = getCheminForImage(select)
-    col1, col2 = st.columns(2)
+    on_target = st.toggle('IF filter is activate, schema Intangible and his child will be exclude', key="on_target")
 
+    if on_target:
+        st.write('Filter Activate')
+        result = target_without_intangible(False,True)
+        select = st.selectbox("", result)
+        result = getCheminForImage(select)
+    else:
+        select = st.selectbox("", target_classes)
+
+    col1, col2 = st.columns(2)
     with col1:
         content_testplot(target_classes, select, True)
 
@@ -63,132 +51,10 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
             click = st.button("Show global Treemap")
 
         with colo2:
-            on = st.toggle('IF Filter activate, shema:Intangible and his child exclude')
+            on = st.toggle('IF filter is activate, schema Intangible and his child will be exclude')
         filter_intangible = False
         if on:
             st.write('Filter Activate')
             filter_intangible = True
-
-        dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
-        parents_d = 0
-
-        if filter_intangible:
-            df_data_plotly_treemap = pd.DataFrame(data_plotly_sunburst)
-            filtered_data = df_data_plotly_treemap[df_data_plotly_treemap["names"] == select]
-            # Parcourir le DataFrame et collecter les parents
-            for index, row in df_data_plotly_treemap.iterrows():
-                parent_name = row['parents']
-                name = row['names']
-                val = row['values']
-                qual = row['quality']
-                ids = row['ids']
-                if parent_name == select:
-                    print("entree")
-                    parents_d = 1
-                    dd_data_plotly_sunburst["parents"].append(parent_name)
-                    dd_data_plotly_sunburst["names"].append(name)
-                    dd_data_plotly_sunburst["values"].append(val)
-                    dd_data_plotly_sunburst["quality"].append(qual)
-                    dd_data_plotly_sunburst["ids"].append(ids)
-
-            if click:
-                fig_all_data = px.treemap(
-                    data_plotly_sunburst,
-                    ids="ids",
-                    names="names",
-                    parents="parents",
-                    values="values",
-                    color="quality",
-                    color_continuous_scale='RdBu',
-                    color_continuous_midpoint=np.average(filtered_data['quality'])
-                )
-            else:
-               
-                if parents_d == 0:
-                    fig_all_data = px.treemap(
-                        filtered_data,
-                        ids="ids",
-                        names="names",
-                        parents="parents",
-                        values="values",
-                        color="quality",
-                        color_continuous_scale='RdBu',
-                        color_continuous_midpoint=np.average(filtered_data['quality']))
-                else:
-                    print(dd_data_plotly_sunburst)
-                    fig_all_data = px.treemap(
-                        dd_data_plotly_sunburst,
-                        ids="ids",
-                        names="names",
-                        parents="parents",
-                        values="values",
-                         color="quality",
-                        color_continuous_scale='RdBu',
-                        color_continuous_midpoint=np.average(filtered_data['quality'])
-                    )
-        if not filter_intangible:
-            df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
-            filtered_data = df_data_plotly_treemap[df_data_plotly_treemap["names"] == select]
-            # Parcourir le DataFrame et collecter les parents
-            for index, row in df_data_plotly_treemap.iterrows():
-                parent_name = row['parents']
-                name = row['names']
-                val = row['values']
-                qual = row['quality']
-                ids = row['ids']
-                if parent_name == select:
-                    print("entree")
-                    parents_d = 1
-                    dd_data_plotly_sunburst["parents"].append(parent_name)
-                    dd_data_plotly_sunburst["names"].append(name)
-                    dd_data_plotly_sunburst["values"].append(val)
-                    dd_data_plotly_sunburst["quality"].append(qual)
-                    dd_data_plotly_sunburst["ids"].append(ids)
-
-            if click:
-                fig_all_data = px.treemap(
-                    data_plotly_treemap,
-                    ids="ids",
-                    names="names",
-                    parents="parents",
-                    values="values",
-                    color="quality",
-                    color_continuous_scale='RdBu',
-                    color_continuous_midpoint=np.average(filtered_data['quality'])
-                )
-            else:
-                
-                if parents_d == 0:
-                    fig_all_data = px.treemap(
-                        filtered_data,
-                        ids="ids",
-                        names="names",
-                        parents="parents",
-                        values="values",
-                        color="quality",
-                        color_continuous_scale='RdBu',
-                        color_continuous_midpoint=np.average(filtered_data['quality']))
-                else:
-                    print(dd_data_plotly_sunburst)
-                    fig_all_data = px.treemap(
-                        dd_data_plotly_sunburst,
-                        ids="ids",
-                        names="names",
-                        parents="parents",
-                        values="values",
-                        color="quality",
-                        color_continuous_scale='RdBu',
-                        color_continuous_midpoint=np.average(filtered_data['quality'])
-                    )
-
-        fig_all_data.update_layout(
-            font=dict(size=20),  # Modifiez la taille de la police ici
-            margin=dict(t=0, l=0, r=0, b=0),
-        )
-        style = {
-            "padding": 10,
-            "width": "100%",
-            "display": "inline-block",
-            "vertical-align": "right",
-        },
-        st.plotly_chart(fig_all_data, use_container_width=True, style=style, color="streamlit")
+        # Generates a treemap and display it
+        content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst, select, click)

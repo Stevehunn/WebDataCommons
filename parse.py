@@ -1,10 +1,5 @@
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
-import json
 import glob
 import re
-
 
 # Version Window
 def parseWindow(target_classes):
@@ -129,3 +124,17 @@ def parseBeforeJsonAvailableMac(target_classes_available):
         cname = newFname.split("_plot")[0]
         if cname != "Intangible":
             target_classes_available.append(f"schema:{cname}")
+
+def extraire_contenu_apres_backslash(ma_ligne):
+    # Regex pour supprimer tout le contenu avant le dernier caractère '\'
+    nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
+    return nouveau_contenu
+
+def getCheminForImage(nomfichier):
+    regexSelect = extraire_contenu_apres_backslash(nomfichier)
+    # Utiliser split pour séparer la chaîne en fonction de ":"
+    parts = regexSelect.split(":")
+
+    # Concaténer les parties avec le format souhaité
+    result = f"assets/plots/{parts[1]}_plot.svg"
+    return result

@@ -1,27 +1,13 @@
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
 import json
-import glob
-import re
-import plotly.graph_objects as go
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import streamlit as st
+
+# Import Content Page
+from parse import getCheminForImage
 from plot import content_testplot
 
-
-def extraire_contenu_apres_backslash(ma_ligne):
-    # Regex pour supprimer tout le contenu avant le dernier caractère '\'
-    nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
-    return nouveau_contenu
-
-def getCheminForImage(nomfichier):
-    regexSelect = extraire_contenu_apres_backslash(nomfichier)
-    # Utiliser split pour séparer la chaîne en fonction de ":"
-    parts = regexSelect.split(":")
-
-    # Concaténer les parties avec le format souhaité
-    result = f"assets/plots/{parts[1]}_plot.svg"
-    return result
 
 #-------------------Chart-----------------
 # Count
@@ -115,19 +101,12 @@ def content_comparaonTableau(target_classes):
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        #st.image(result)
-        #content_testplot_before(target_classes, select)
         content_testplot(target_classes,select,True)
 
-
     with coll2:
-        #st.image(result)
-        #content_testplot_after(target_classes, select)
         content_testplot(target_classes, select,False)
 
-
     # Selectbox
-    #select = st.selectbox("", target_classes)
     result = select.split(":")[1]
     type_recherche = result
     resultats = data_for_type(type_recherche)
@@ -210,12 +189,6 @@ def content_comparaonTableau(target_classes):
         "vertical-align": "right",
     },
     st.plotly_chart(fig, use_container_width=True, style=style)
-
-    # Afficher les résultats
-    #for key, value in resultats.items():
-    #    st.write(f"{key}: {value}")
-
-
 
 def data_for_type(type_to_find):
     # Charger le fichier JSON

@@ -1,10 +1,4 @@
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
 import json
-import glob
-import re
-
 
 class Node:
     def __init__(self, id_node, generation, value, quality, parent=None) -> None:
@@ -102,3 +96,12 @@ def dataCount(withintangible, before):
             data_plotly_sunburst["quality"].append(node.quality)
             data_plotly_sunburst["parents"].append(node.parent)
     return data_plotly_sunburst
+
+def target_without_intangible(withintangible, before):
+    result =dataCount(withintangible, before)
+    #st.write(result)
+    for i in range(0,len(result["parents"])):
+        if result["parents"] !="schema:Intagible":
+            target =result["names"]
+    #st.write(target)
+    return target

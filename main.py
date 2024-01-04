@@ -1,19 +1,14 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
-import plotly.express as px
-import json
-import glob
-import re
 
 # Import Content Page
-from welcome import content_welcome
-from year2023 import content_2023
-from year2022 import content_2022
-from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
-from dataCount import dataCount
 from comparaisonTableau import content_comparaonTableau
-from plot import content_testplot
-
+from dataCount import dataCount
+from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow, \
+    parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
+from welcome import content_welcome
+from year2022 import content_2022
+from year2023 import content_2023
 
 # Custom CSS
 custom_css = """
@@ -33,7 +28,6 @@ custom_css = """
 """
 
 # Init data
-
 target_classes = []
 target_classes_available_after =[]
 target_classes_available_before =[]
@@ -41,32 +35,36 @@ target_classes_available_before =[]
 # Parse Data from target classes
 
 #parseWindow(target_classes)
-parseMac(target_classes)
+#parseMac(target_classes)
 
 #Parse Json Data from target classes
 
 #parseAfterJsonAvailableWindow(target_classes_available_after)
-parseAfterJsonAvailableMac(target_classes_available_after)
+#parseAfterJsonAvailableMac(target_classes_available_after)
 
 #parseBeforeJsonAvailableWindow(target_classes_available_before)
-parseBeforeJsonAvailableMac(target_classes_available_before)
+#parseBeforeJsonAvailableMac(target_classes_available_before)
 
 
-# Data sunburst before
+version_mac = True
+if version_mac:
+    parseMac(target_classes)
+    parseAfterJsonAvailableMac(target_classes_available_after)
+    parseBeforeJsonAvailableMac(target_classes_available_before)
+else:
+    parseWindow(target_classes)
+    parseAfterJsonAvailableWindow(target_classes_available_after)
+    parseBeforeJsonAvailableWindow(target_classes_available_before)
+
+# Data before
 
 data_plotly_sunburst_before = dataCount(False,True)
-#data_plotly_sunburst_before = dataBeforeWithoutIntangible()
-
 data_plotly_treemap_before = dataCount(True,True)
-#data_plotly_treemap_before = data_before_with_intangible()
 
-# Data sunburst after
+# Data after
 
 data_plotly_sunburst_after = dataCount(False,False)
-#data_plotly_sunburst_after = dataAfterWithoutIntangible()
-
 data_plotly_treemap_after = dataCount(True,False)
-#data_plotly_treemap_after = dataAfterWithIntangible()
 
 # Define content show, sidebar
 def main():
