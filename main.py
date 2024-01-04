@@ -40,16 +40,16 @@ target_classes_available_before =[]
 
 # Parse Data from target classes
 
-parseWindow(target_classes)
-# parseMac(target_classes)
+#parseWindow(target_classes)
+parseMac(target_classes)
 
 #Parse Json Data from target classes
 
-parseAfterJsonAvailableWindow(target_classes_available_after)
-#parseAfterJsonAvailableMac(target_classes_available_after)
+#parseAfterJsonAvailableWindow(target_classes_available_after)
+parseAfterJsonAvailableMac(target_classes_available_after)
 
-parseBeforeJsonAvailableWindow(target_classes_available_before)
-#parseBeforeJsonAvailableMac(target_classes_available_before)
+#parseBeforeJsonAvailableWindow(target_classes_available_before)
+parseBeforeJsonAvailableMac(target_classes_available_before)
 
 
 # Data sunburst before

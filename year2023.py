@@ -64,10 +64,20 @@ def content_2023_with(data_plotly_sunburst, data_plotly_treemap, target_classes)
         # Parcourir le DataFrame et collecter les parents
         for index, row in df_data_plotly_treemap.iterrows():
             parent_name = row['parents']
+            print(parent_name)
             name = row['names']
             val = row['values']
             qual = row['quality']
             ids = row['ids']
+            # if parent_name == select:
+            #     print("entree")
+            #     parents_d = 1
+            #     dd_data_plotly_sunburst["parents"].append(parent_name)
+            #     dd_data_plotly_sunburst["names"].append(name)
+            #     dd_data_plotly_sunburst["values"].append(val)
+            #     dd_data_plotly_sunburst["quality"].append(qual)
+            #     dd_data_plotly_sunburst["ids"].append(ids)
+            # print(dd_data_plotly_sunburst)
 
         if click:
             fig_all_data = px.treemap(
@@ -81,14 +91,7 @@ def content_2023_with(data_plotly_sunburst, data_plotly_treemap, target_classes)
                 color_continuous_midpoint=np.average(filtred_data['quality'])
             )
         else:
-            if parent_name == select:
-                print("entree")
-                parents_d = 1
-                dd_data_plotly_sunburst["parents"].append(parent_name)
-                dd_data_plotly_sunburst["names"].append(name)
-                dd_data_plotly_sunburst["values"].append(val)
-                dd_data_plotly_sunburst["quality"].append(qual)
-                dd_data_plotly_sunburst["ids"].append(ids)
+            
             if parents_d == 0:
                 fig_all_data = px.treemap(
                     filtred_data,
@@ -100,7 +103,7 @@ def content_2023_with(data_plotly_sunburst, data_plotly_treemap, target_classes)
                     color_continuous_scale='RdBu',
                     color_continuous_midpoint=np.average(filtred_data['quality']))
             else:
-                print(dd_data_plotly_sunburst)
+               
                 fig_all_data = px.treemap(
                     dd_data_plotly_sunburst,
                     ids="ids",
@@ -172,10 +175,19 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
             # Parcourir le DataFrame et collecter les parents
             for index, row in df_data_plotly_treemap.iterrows():
                 parent_name = row['parents']
+                print(parent_name)
                 name = row['names']
                 val = row['values']
                 qual = row['quality']
                 ids = row['ids']
+                if parent_name == select:
+                    print("entree")
+                    parents_d = 1
+                    dd_data_plotly_sunburst["parents"].append(parent_name)
+                    dd_data_plotly_sunburst["names"].append(name)
+                    dd_data_plotly_sunburst["values"].append(val)
+                    dd_data_plotly_sunburst["quality"].append(qual)
+                    dd_data_plotly_sunburst["ids"].append(ids)
 
             if click:
                 fig_all_data = px.treemap(
@@ -189,14 +201,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                     color_continuous_midpoint=np.average(filtered_data['quality'])
                 )
             else:
-                if parent_name == select:
-                    print("entree")
-                    parents_d = 1
-                    dd_data_plotly_sunburst["parents"].append(parent_name)
-                    dd_data_plotly_sunburst["names"].append(name)
-                    dd_data_plotly_sunburst["values"].append(val)
-                    dd_data_plotly_sunburst["quality"].append(qual)
-                    dd_data_plotly_sunburst["ids"].append(ids)
+                
                 if parents_d == 0:
                     fig_all_data = px.treemap(
                         filtered_data,
@@ -215,7 +220,9 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                         names="names",
                         parents="parents",
                         values="values",
-                        color="values",
+                         color="quality",
+                        color_continuous_scale='RdBu',
+                        color_continuous_midpoint=np.average(filtered_data['quality'])
                     )
         if not filter_intangible:
             df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
@@ -223,10 +230,19 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
             # Parcourir le DataFrame et collecter les parents
             for index, row in df_data_plotly_treemap.iterrows():
                 parent_name = row['parents']
+                print(parent_name)
                 name = row['names']
                 val = row['values']
                 qual = row['quality']
                 ids = row['ids']
+                if parent_name == select:
+                    print("entree")
+                    parents_d = 1
+                    dd_data_plotly_sunburst["parents"].append(parent_name)
+                    dd_data_plotly_sunburst["names"].append(name)
+                    dd_data_plotly_sunburst["values"].append(val)
+                    dd_data_plotly_sunburst["quality"].append(qual)
+                    dd_data_plotly_sunburst["ids"].append(ids)
 
             if click:
                 fig_all_data = px.treemap(
@@ -240,14 +256,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                     color_continuous_midpoint=np.average(filtered_data['quality'])
                 )
             else:
-                if parent_name == select:
-                    print("entree")
-                    parents_d = 1
-                    dd_data_plotly_sunburst["parents"].append(parent_name)
-                    dd_data_plotly_sunburst["names"].append(name)
-                    dd_data_plotly_sunburst["values"].append(val)
-                    dd_data_plotly_sunburst["quality"].append(qual)
-                    dd_data_plotly_sunburst["ids"].append(ids)
+               
                 if parents_d == 0:
                     fig_all_data = px.treemap(
                         filtered_data,
@@ -259,14 +268,16 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                         color_continuous_scale='RdBu',
                         color_continuous_midpoint=np.average(filtered_data['quality']))
                 else:
-                    print(dd_data_plotly_sunburst)
+                    # print(dd_data_plotly_sunburst)
                     fig_all_data = px.treemap(
-                        data_plotly_treemap,
+                        dd_data_plotly_sunburst,
                         ids="ids",
                         names="names",
                         parents="parents",
                         values="values",
-                        color="values",
+                         color="quality",
+                        color_continuous_scale='RdBu',
+                        color_continuous_midpoint=np.average(filtered_data['quality'])
                     )
 
         fig_all_data.update_layout(
