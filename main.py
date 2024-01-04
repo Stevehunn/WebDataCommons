@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # Import Content Page
-from comparaisonTableau import content_comparaonTableau
+from comparison import content_comparison
 from dataCount import dataCount
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow, \
     parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
@@ -89,7 +89,7 @@ def content_sidebar():
     if selected_tab == "New Data from 2023":
         content_2023(data_plotly_sunburst_after, data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
-        content_comparaonTableau(target_classes)
+        content_comparison(target_classes)
 
 # Run the app
 if __name__ == '__main__':
