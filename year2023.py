@@ -172,5 +172,8 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                     color="values",
                 )
         st.write("## Treemap")
-        fig_all_data.update_layout(margin=dict(t=50, l=25, r=25, b=25))
+        fig_all_data.update_layout(
+            font=dict(size=20),  # Modifiez la taille de la police ici
+            margin=dict(t=0, l=0, r=0, b=0),
+        )
         st.plotly_chart(fig_all_data, use_container_width=True, style=style, color="streamlit")

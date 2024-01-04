@@ -7,10 +7,8 @@ import re
 
 # Import Content Page
 from welcome import content_welcome
-from comparison import content_comparison
 from year2023 import content_2023
 from year2022 import content_2022
-from newStyle import content_new_style
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
 from dataCount import dataCount
 from comparaisonTableau import content_comparaonTableau
