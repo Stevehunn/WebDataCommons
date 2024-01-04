@@ -6,7 +6,7 @@ import glob
 import re
 import plotly.graph_objects as go
 import pandas as pd
-from testplot import content_testplot_after,content_testplot_before
+from plot import content_testplot_after,content_testplot_before
 
 
 def extraire_contenu_apres_backslash(ma_ligne):

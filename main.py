@@ -14,7 +14,7 @@ from newStyle import content_new_style
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
 from dataCount import dataWithIntangible, dataWithoutIntangible
 from comparaisonTableau import content_comparaonTableau
-from testplot import content_testplot_after, content_testplot_before
+from plot import content_testplot_after, content_testplot_before
 
 
 # Custom CSS

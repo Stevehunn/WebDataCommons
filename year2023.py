@@ -4,7 +4,7 @@ import plotly.express as px
 import json
 import glob
 import re
-from testplot import content_testplot_after
+from plot import content_testplot_after
 
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
