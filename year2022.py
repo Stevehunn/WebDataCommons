@@ -6,7 +6,7 @@ import numpy as np
 import json
 import glob
 import re
-from plot import content_testplot_before
+from plot import content_testplot
 
 
 def extraire_contenu_apres_backslash(ma_ligne):
@@ -53,7 +53,8 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
     col1, col2 = st.columns(2)
 
     with col1:
-        content_testplot_before(target_classes, select)
+        content_testplot(target_classes, select, True)
+
 
     with col2:
         st.write("## Treemap")

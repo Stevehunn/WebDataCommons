@@ -6,7 +6,7 @@ import glob
 import re
 import plotly.graph_objects as go
 import pandas as pd
-from plot import content_testplot_after,content_testplot_before
+from plot import content_testplot
 
 
 def extraire_contenu_apres_backslash(ma_ligne):
@@ -116,12 +116,14 @@ def content_comparaonTableau(target_classes):
     coll1, coll2 = st.columns(2)
     with coll1:
         #st.image(result)
-        content_testplot_before(target_classes, select)
+        #content_testplot_before(target_classes, select)
+        content_testplot(target_classes,select,True)
 
 
     with coll2:
         #st.image(result)
-        content_testplot_after(target_classes, select)
+        #content_testplot_after(target_classes, select)
+        content_testplot(target_classes, select,False)
 
 
     # Selectbox

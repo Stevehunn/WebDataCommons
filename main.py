@@ -12,7 +12,7 @@ from year2022 import content_2022
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
 from dataCount import dataCount
 from comparaisonTableau import content_comparaonTableau
-from plot import content_testplot_after, content_testplot_before
+from plot import content_testplot
 
 
 # Custom CSS
