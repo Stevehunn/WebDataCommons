@@ -12,7 +12,7 @@ from year2023 import content_2023
 from year2022 import content_2022
 from newStyle import content_new_style
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
-from dataCount import data_before_with_intangible, dataBeforeWithoutIntangible,dataAfterWithIntangible,dataAfterWithoutIntangible, dataCount
+from dataCount import dataCount
 from comparaisonTableau import content_comparaonTableau
 from plot import content_testplot_after, content_testplot_before
 
@@ -33,74 +33,6 @@ custom_css = """
     }
 </style>
 """
-
-# List of Schema available
-top_20_target_classes = [
-    "ListItem",
-    "ImageObject",
-    "BreadcrumbList",
-    "Organization",
-    "WebPage",
-    "SearchAction",
-    "Offer",
-    "Person",
-    "ReadAction",
-    "Product",
-    "EntryPoint",
-    "PostalAddress",
-    "Article",
-    "WebSite",
-    "CollectionPage",
-    "NewsArticle",
-    "SiteNavigationElement",
-    "ContactPoint",
-    "Rating",
-    "Place",
-]
-
-
-class Node:
-    def __init__(self, id, generation, parent=None, value=-1) -> None:
-        self._id = id
-        self._generation = generation
-        self._parent = parent
-        self._value = value
-
-    def __eq__(self, __value: object) -> bool:
-        return self._id == __value._id
-
-    def __repr__(self) -> str:
-        return self._id
-
-
-def item_generator(json_input, lookup_key, depth=None):
-    if depth is None:
-        depth = 0
-    if isinstance(json_input, dict):
-        for k, v in json_input.items():
-            if k == lookup_key:
-                yield from item_generator(v, lookup_key, depth + 1)
-        yield depth, json_input
-    elif isinstance(json_input, list):
-        for item in json_input:
-            yield from item_generator(item, lookup_key, depth)
-
-
-def extraire_contenu_apres_backslash(ma_ligne):
-    # Regex pour supprimer tout le contenu avant le dernier caractère '\'
-    nouveau_contenu = re.sub(r'^.*\\', '', ma_ligne)
-    return nouveau_contenu
-
-
-def getCheminForImage(nomfichier):
-    regexSelect = extraire_contenu_apres_backslash(nomfichier)
-    # Utiliser sp
-    # lit pour séparer la chaîne en fonction de ":"
-    parts = regexSelect.split(":")
-
-    # Concaténer les parties avec le format souhaité
-    result = f"assets/plots/{parts[1]}_plot.svg"
-    return result
 
 # Init data
 
@@ -143,13 +75,12 @@ def main():
     content_sidebar()
     return None
 
-
 # Side Content
 def content_sidebar():
     # Display custom CSS
     st.markdown(custom_css, unsafe_allow_html=True)
 
-    st.sidebar.title("Here you can navigate throught the demo")
+    st.sidebar.title("Here you can navigate through the demo")
     with st.sidebar:
         selected_tab = option_menu(
             menu_title="Summary",
@@ -160,13 +91,9 @@ def content_sidebar():
     if selected_tab == "Data from 2022":
         content_2022(data_plotly_sunburst_before, data_plotly_treemap_before, target_classes_available_before)
     if selected_tab == "New Data from 2023":
-        content_2023(data_plotly_sunburst_after,data_plotly_treemap_after, target_classes_available_after)
+        content_2023(data_plotly_sunburst_after, data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
         content_comparaonTableau(target_classes)
-
-
-
-
 
 # Run the app
 if __name__ == '__main__':

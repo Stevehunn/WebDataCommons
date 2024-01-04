@@ -11,8 +11,8 @@ class Node:
         self.id = id_node
         self.generation = generation
         self.parent = parent
-        self.value = value
-        self.quality = quality
+        self.value: float = float(value)
+        self.quality: float = float(quality)
 
     def __eq__(self, value) -> bool:
         if isinstance(value, Node):
@@ -21,7 +21,6 @@ class Node:
 
     def __repr__(self) -> str:
         return self.id
-
 
 def item_generator(json_input, lookup_key, depth=None):
     if depth is None:
@@ -35,15 +34,14 @@ def item_generator(json_input, lookup_key, depth=None):
         for item in json_input:
             yield from item_generator(item, lookup_key, depth)
 
-
 def dataCount(withintangible, before):
     if before is True:
-        chemin = "dataCount/ClassCountBefore.json"
+        path = "dataCount/ClassCountBefore.json"
     else:
-        chemin = "dataCount/ClassCountAfter.json"
+        path = "dataCount/ClassCountAfter.json"
 
     data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
-    with open(chemin, "r") as file:
+    with open(path, "r") as file:
         parsed_json = json.load(file)
 
         item_list = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
@@ -102,167 +100,5 @@ def dataCount(withintangible, before):
             data_plotly_sunburst["names"].append(node.id)
             data_plotly_sunburst["values"].append(node.value)
             data_plotly_sunburst["quality"].append(node.quality)
-            data_plotly_sunburst["parents"].append(node.parent)
-    return data_plotly_sunburst
-
-def data_before_with_intangible():
-    data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "qualities": []}
-    with open("dataCount/ClassCountBefore.json", "r") as file:
-        parsed_json = json.load(file)
-
-        itemlist = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
-
-        nodelist = []
-        for generation, parent in itemlist:
-            if parent.get("value") is None:
-                parent["value"] = 0
-            # if parent.get("quality") is None:
-            #    parent["quality"] = 0
-
-            # parent_node = Node(parent["@id"], generation, value=parent["value"], quality=parent["quality"])
-            parent_node = Node(parent["@id"], generation, parent["value"], parent["quality"])
-            if parent_node not in nodelist:
-                nodelist.append(parent_node)
-
-            if "children" in parent.keys():
-                for child in parent.get("children"):
-                    if child.get("value") is None:
-                        child["value"] = 0
-                    # if child.get("quality") is None:
-                    #    child["quality"] = 0
-
-                    child_node = Node(
-                        # child["@id"], generation, parent=parent["@id"], value=child["value"], quality=child["quality"]
-                        child["@id"], generation, child["value"], child["quality"], parent["@id"])
-                    nodelist.append(child_node)
-
-        for node in nodelist:
-            id_node = node.id
-            if id_node in data_plotly_sunburst["ids"]:
-                id_node = f"{node.id} {node.parent} {node.generation}"
-            data_plotly_sunburst["ids"].append(id_node)
-            data_plotly_sunburst["names"].append(node.id)
-            data_plotly_sunburst["values"].append(node.value)
-            # data_plotly_sunburst["quality"].append(node._quality)
-            data_plotly_sunburst["parents"].append(node.parent)
-    return data_plotly_sunburst
-
-
-def dataBeforeWithoutIntangible():
-    data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
-    with open("dataCount/ClassCountBefore.json", "r") as file:
-        parsed_json = json.load(file)
-
-        item_list = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
-
-        nodelist = []
-        print(nodelist)
-        for generation, parent in item_list:
-            if "schema:Intangible" in json.dumps(parent):
-                continue
-            if parent.get("value") is None:
-                parent["value"] = 0
-            if child.get("quality") is None:
-                child["quality"] = 0
-
-            parent_node = Node(parent["@id"], generation, parent["value"], parent["quality"])
-            if parent_node not in nodelist:
-                # print(f"Adding {parent_node} to {nodelist}")
-                nodelist.append(parent_node)
-
-            if "children" in parent.keys():
-                for child in parent.get("children"):
-                    if child.get("value") is None:
-                        child["value"] = 0
-                    child_node = Node(
-                        child["@id"], generation, child["value"], child["quality"], parent["@id"]
-                    )
-                    nodelist.append(child_node)
-
-        for node in nodelist:
-            id_node = node.id
-            if id_node in data_plotly_sunburst["ids"]:
-                id_node = f"{node.id} {node.parent} {node.generation}"
-            data_plotly_sunburst["ids"].append(id_node)
-            data_plotly_sunburst["names"].append(node.id)
-            data_plotly_sunburst["values"].append(node.value)
-            data_plotly_sunburst["quality"].append(node.quality)
-            data_plotly_sunburst["parents"].append(node.parent)
-    return data_plotly_sunburst
-
-
-def dataAfterWithIntangible():
-    data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
-    with open("dataCount/ClassCountAfter.json", "r") as file:
-        parsed_json = json.load(file)
-
-        itemlist = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
-
-        nodelist = []
-        for generation, parent in itemlist:
-            if parent.get("value") is None:
-                parent["value"] = 0
-
-            parent_node = Node(parent["@id"], generation, value=parent["value"])
-            if parent_node not in nodelist:
-                # print(f"Adding {parent_node} to {nodelist}")
-                nodelist.append(parent_node)
-
-            if "children" in parent.keys():
-                for child in parent.get("children"):
-                    if child.get("value") is None:
-                        child["value"] = 0
-                    child_node = Node(
-                        child["@id"], generation, parent=parent["@id"], value=child["value"]
-                    )
-                    nodelist.append(child_node)
-
-        for node in nodelist:
-            id = node.id
-            if id in data_plotly_sunburst["ids"]:
-                id = f"{node.id} {node.parent} {node.generation}"
-            data_plotly_sunburst["ids"].append(id)
-            data_plotly_sunburst["names"].append(node.id)
-            data_plotly_sunburst["values"].append(node.value)
-            data_plotly_sunburst["parents"].append(node.parent)
-    return data_plotly_sunburst
-
-
-def dataAfterWithoutIntangible():
-    data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
-    with open("dataCount/ClassCountAfter.json", "r") as file:
-        parsed_json = json.load(file)
-
-        itemlist = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
-
-        nodelist = []
-        print(nodelist)
-        for generation, parent in itemlist:
-            if "schema:Intangible" in json.dumps(parent):
-                continue
-            if parent.get("value") is None:
-                parent["value"] = 0
-
-            parent_node = Node(parent["@id"], generation, value=parent["value"])
-            if parent_node not in nodelist:
-                # print(f"Adding {parent_node} to {nodelist}")
-                nodelist.append(parent_node)
-
-            if "children" in parent.keys():
-                for child in parent.get("children"):
-                    if child.get("value") is None:
-                        child["value"] = 0
-                    child_node = Node(
-                        child["@id"], generation, parent=parent["@id"], value=child["value"]
-                    )
-                    nodelist.append(child_node)
-
-        for node in nodelist:
-            id = node.id
-            if id in data_plotly_sunburst["ids"]:
-                id = f"{node.id} {node.parent} {node.generation}"
-            data_plotly_sunburst["ids"].append(id)
-            data_plotly_sunburst["names"].append(node.id)
-            data_plotly_sunburst["values"].append(node.value)
             data_plotly_sunburst["parents"].append(node.parent)
     return data_plotly_sunburst

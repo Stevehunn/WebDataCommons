@@ -26,19 +26,9 @@ def getCheminForImage(nomfichier):
 
 
 # 2023 Analyse page Content
-def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
+def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
     st.title("""Schema.org annotations observatory in 2022""")
     st.write("### Deep dive into WebDataCommons JSON-LD markup")
-    #st.markdown("---")
-
-    #st.markdown(
-    #    """
-    #    In the following sunburst plot, the count of typed entities is displayed through the 'value' attribute.
-    #    """
-    #)
-
-
-    #print("Names in Treemap:")
 
     style = {
         "padding": 10,
@@ -46,13 +36,6 @@ def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
         "display": "inline-block",
         "vertical-align": "right",
     },
-
-    # Display the Sunburst figure using st.plotly_chart
-    # st.write("## Sunburst")
-    # st.plotly_chart(figureSunburst, use_container_width=True, style=style)
-    # st.markdown("---")
-    # Display the Treemap figure using st.plotly_chart
-
 
     st.markdown("---")
     st.write("## Upset Plot")
@@ -64,99 +47,71 @@ def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
 
         """
     )
-    # nomFichierAOuvrir = "assets/plots/3DModel_plot.svg"
-    # st.image(nomFichierAOuvrir)
-    # st.write('chemin complet nomFichierAOuvir:',nomFichierAOuvrir)
-    # regexTargetClasse = extraire_contenu_apres_backslash(target_classes)
-    # regexTargetClasse
+
     select = st.selectbox("", target_classes)
     result = getCheminForImage(select)
     col1, col2 = st.columns(2)
 
     with col1:
-
-        #st.image(result)
         content_testplot_before(target_classes, select)
 
-
-    with col2 :
-        dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality":[]}
+    with col2:
+        dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
         parents_d = 0
 
         df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
 
-        filtred_data = df_data_plotly_treemap[df_data_plotly_treemap["names"]== select]
-        click= st.button("Show global Treemap")
-
-
+        filtred_data = df_data_plotly_treemap[df_data_plotly_treemap["names"] == select]
+        click = st.button("Show global Treemap")
 
         # Parcourir le DataFrame et collecter les parents
         for index, row in df_data_plotly_treemap.iterrows():
             parent_name = row['parents']
             name = row['names']
-            val= row['values']
+            val = row['values']
             qual = row['quality']
             ids = row['ids']
 
-        if click :
+        if click:
             fig_all_data = px.treemap(
-            data_plotly_treemap,
-            ids= "ids",
-            names= "names",
-            parents= "parents",
-            values="values",
-            color="values",
-            )
-        else :
-            if  (parent_name == select):
-              print("entree")
-              parents_d=1
-              dd_data_plotly_sunburst["parents"].append(parent_name)
-              dd_data_plotly_sunburst["names"].append(name)
-              dd_data_plotly_sunburst["values"].append(val)
-              dd_data_plotly_sunburst["quality"].append(qual)
-              dd_data_plotly_sunburst["ids"].append(ids)
-
-
-            if parents_d == 0 :
-                fig_all_data = px.treemap(
-                filtred_data,
-                ids= "ids",
-                names= "names",
-                parents= "parents",
+                data_plotly_treemap,
+                ids="ids",
+                names="names",
+                parents="parents",
                 values="values",
-                color="values",
-                )
-                #st.write(qual)
-
+                color="quality",
+                color_continuous_scale='RdBu',
+                color_continuous_midpoint=np.average(filtred_data['quality'])
+            )
+        else:
+            if parent_name == select:
+                print("entree")
+                parents_d = 1
+                dd_data_plotly_sunburst["parents"].append(parent_name)
+                dd_data_plotly_sunburst["names"].append(name)
+                dd_data_plotly_sunburst["values"].append(val)
+                dd_data_plotly_sunburst["quality"].append(qual)
+                dd_data_plotly_sunburst["ids"].append(ids)
+            if parents_d == 0:
+                fig_all_data = px.treemap(
+                    filtred_data,
+                    ids="ids",
+                    names="names",
+                    parents="parents",
+                    values="values",
+                    color="quality",
+                    color_continuous_scale='RdBu',
+                    color_continuous_midpoint=np.average(filtred_data['quality']))
             else:
                 print(dd_data_plotly_sunburst)
                 fig_all_data = px.treemap(
                     dd_data_plotly_sunburst,
-                    ids= "ids",
-                    names= "names",
-                    parents= "parents",
+                    ids="ids",
+                    names="names",
+                    parents="parents",
                     values="values",
-                    color= "values",
+                    color="values",
                 )
-                #st.write(qual)
         st.write("## Treemap")
         fig_all_data.update_layout(margin=dict(t=50, l=25, r=25, b=25))
-        st.plotly_chart(fig_all_data, use_container_width=True, style=style, color= "streamlit")
-
-# ---------------------------Example treemap------------------------------
-style = {
-        "padding": 10,
-        "width": "100%",
-        "display": "inline-block",
-        "vertical-align": "right",
-    }
-
-df = px.data.gapminder().query("year == 2007")
-fig = px.treemap(df, path=[px.Constant("world"), 'continent', 'country'], values='pop',
-                  color='lifeExp', hover_data=['iso_alpha'],
-                  color_continuous_scale='RdBu',
-                  color_continuous_midpoint=np.average(df['lifeExp'], weights=df['pop']))
-fig.update_layout(margin = dict(t=50, l=25, r=25, b=25))
-#st.plotly_chart(fig, use_container_width=True, style=style, color= "streamlit")
-
+        st.plotly_chart(fig_all_data, use_container_width=True, style=style, color="streamlit")

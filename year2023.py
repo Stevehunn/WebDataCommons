@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import glob
 import re
+import numpy as np
 from plot import content_testplot_after
 
 def extraire_contenu_apres_backslash(ma_ligne):
@@ -114,7 +115,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
         content_testplot_after(target_classes, select)
 
     with col2:
-        dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
+        dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
         parents_d = 0
 
         df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
@@ -127,6 +128,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
             parent_name = row['parents']
             name = row['names']
             val = row['values']
+            qual = row['quality']
             ids = row['ids']
 
         if click:
@@ -136,17 +138,19 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                 names="names",
                 parents="parents",
                 values="values",
-                color="values"
+                color="quality",
+                color_continuous_scale='RdBu',
+                color_continuous_midpoint=np.average(filtred_data['quality'])
             )
         else:
-            if (parent_name == select):
+            if parent_name == select:
                 print("entree")
                 parents_d = 1
                 dd_data_plotly_sunburst["parents"].append(parent_name)
                 dd_data_plotly_sunburst["names"].append(name)
                 dd_data_plotly_sunburst["values"].append(val)
+                dd_data_plotly_sunburst["quality"].append(qual)
                 dd_data_plotly_sunburst["ids"].append(ids)
-
             if parents_d == 0:
                 fig_all_data = px.treemap(
                     filtred_data,
@@ -154,10 +158,10 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                     names="names",
                     parents="parents",
                     values="values",
-                    color="values"
-                )
+                    color="quality",
+                    color_continuous_scale='RdBu',
+                    color_continuous_midpoint=np.average(filtred_data['quality']))
             else:
-
                 print(dd_data_plotly_sunburst)
                 fig_all_data = px.treemap(
                     dd_data_plotly_sunburst,
@@ -165,10 +169,8 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
                     names="names",
                     parents="parents",
                     values="values",
-                    color="values"
+                    color="values",
                 )
         st.write("## Treemap")
+        fig_all_data.update_layout(margin=dict(t=50, l=25, r=25, b=25))
         st.plotly_chart(fig_all_data, use_container_width=True, style=style, color="streamlit")
-
-
-
