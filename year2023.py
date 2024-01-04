@@ -4,6 +4,7 @@ import plotly.express as px
 import json
 import glob
 import re
+from testplot import content_testplot_after
 
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
@@ -56,5 +57,6 @@ def content_2023(data_plotly_sunburst, target_classes):
         )
         select =st.selectbox("" ,target_classes)
         result =getCheminForImage(select)
-        st.image(result)
+        #st.image(result)
+        content_testplot_after(target_classes, select)
         st.markdown("---")

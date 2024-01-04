@@ -23,14 +23,13 @@ def getCheminForImage(nomfichier):
     return result
 
 
-def content_testplot(target_classes):
-    st.write("genere plot")
-    target_select = st.selectbox("", target_classes)
+def content_testplot_after(target_classes, target_select):
+    #target_select = st.selectbox("", target_classes)
     result = target_select.split(":")[1]
     cheminTarget = './newData/after/'+result+'.json'
     #st.write(cheminTarget)
     row = ["10", "15", "20", "30", "40", "50", "all"]
-    select = st.selectbox("Select the number of row", row, index=0)
+    select = st.selectbox("Select the number of row", row, index=0, key="after")
     with open(cheminTarget, 'r') as f:
     #with open('./newData/after/Action.json', 'r') as f:
         data_dict = json.load(f)
@@ -75,8 +74,8 @@ def content_testplot(target_classes):
         #st.write(df_up)
 
         plot(df_up, orientation='horizontal')
-        plt.savefig("lama.svg")
-        st.image("lama.svg")
+        plt.savefig("after.svg")
+        st.image("after.svg")
 
     if select == "all":
         # ----------Save and Show all the dataframe------------------
@@ -89,8 +88,78 @@ def content_testplot(target_classes):
         #st.write(df_up_all)
 
         plot(df_up_all, orientation='horizontal')
-        plt.savefig("lamacomplet.svg")
-        st.image("lamacomplet.svg")
-        st.write("finished.")
+        plt.savefig("aftercomplet.svg")
+        st.image("aftercomplet.svg")
+        #st.write("finished.")
+
+def content_testplot_before(target_classes, target_select):
+    #target_select = st.selectbox("", target_classes)
+    result = target_select.split(":")[1]
+    cheminTarget = './newData/before/'+result+'.json'
+    #st.write(cheminTarget)
+    row = ["10", "15", "20", "30", "40", "50", "all"]
+    select = st.selectbox("Select the number of row", row, index=0,key="before")
+    with open(cheminTarget, 'r') as f:
+    #with open('./newData/after/Action.json', 'r') as f:
+        data_dict = json.load(f)
+        # st.write(data_dict)
+    #data_frame = pd.DataFrame(data_dict)
+    #st.write(data_frame)
+    # récuperer tous les labels
+    labels = set()
+    for item in data_dict:
+        labels.update(item["pset"])
+    # creer bitmap a partir des labels et des counts
+    list_labels = list(labels)
+    #st.write(list_labels)
+    #st.write([[e in item["pset"] for item in data_dict] for e in list_labels])
+    #df = pd.DataFrame([[e in item["pset"] for e in list_labels] for item in data_dict], columns=list_labels)
+    df = pd.DataFrame([[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict], columns=list_labels+["count"])
+    count_column = df.pop("count")
+    #st.write(df)
+    if select !="all":
+        select = int(select)
+        df_reduce = df.head(select)
+        column_to_remove = list()
+        for column in df_reduce.columns:
+            canary = False
+            for item in df_reduce[column]:
+                canary |= item
+            if not canary:
+                column_to_remove.append(column)
+        #print(column_to_remove)
+        for column in column_to_remove:
+            df_reduce.pop(column)
+            list_labels.remove(column)
+        #st.write(df_reduce)
+
+        #----------Save and Show n row of the dataframe------------------
+        st.write("Show the number of rows select.")
+        df_up = df_reduce.groupby(list_labels).value_counts()
+
+        for i in range(len(df_up)):
+            df_up[i] = count_column[i]
+
+        #st.write(df_up)
+
+        plot(df_up, orientation='horizontal')
+        plt.savefig("before.svg")
+        st.image("before.svg")
+
+    if select == "all":
+        # ----------Save and Show all the dataframe------------------
+        st.write("Show all rows available.")
+        df_up_all = df.groupby(list_labels).value_counts()
+
+        for i in range(len(df_up_all)):
+            df_up_all[i] = count_column[i]
+
+        #st.write(df_up_all)
+
+        plot(df_up_all, orientation='horizontal')
+        plt.savefig("beforecomplet.svg")
+        st.image("beforecomplet.svg")
+        #st.write("finished.")
+
 
 

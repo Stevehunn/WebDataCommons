@@ -14,7 +14,7 @@ from newStyle import content_new_style
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
 from dataCount import dataWithIntangible, dataWithoutIntangible
 from comparaisonTableau import content_comparaonTableau
-from testplot import content_testplot
+from testplot import content_testplot_after, content_testplot_before
 
 
 # Custom CSS
@@ -108,10 +108,13 @@ target_classes = []
 parseWindow(target_classes)
 # parseMac(target_classes)
 
-target_classes_available =[]
+target_classes_available_after =[]
+target_classes_available_before =[]
 #Parse Json Data from target classes
-parseAfterJsonAvailableWindow(target_classes_available)
-#parseAfterJsonAvailableMac(target_classes_available)
+parseAfterJsonAvailableWindow(target_classes_available_after)
+#parseAfterJsonAvailableMac(target_classes_available_after)
+parseBeforeJsonAvailableWindow(target_classes_available_before)
+#parseBeforeJsonAvailableMac(target_classes_available_before)
 
 # Version Window
 # for file in glob.glob("assets/plots/*.svg"):
@@ -208,23 +211,19 @@ def content_sidebar():
     with st.sidebar:
         selected_tab = option_menu(
             menu_title="Summary",
-            options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset",
-                     "New style of chart", "Comparaison Table","test plot"],
+            options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset"],
         )
     if selected_tab == "Welcome page":
         content_welcome()
     if selected_tab == "Data from 2022":
-        content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes)
+        content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes_available_before)
     if selected_tab == "New Data from 2023":
-        content_2023(data_plotly_sunburst, target_classes)
+        content_2023(data_plotly_sunburst, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
-        content_comparison(target_classes)
-    if selected_tab == "Comparaison Table":
         content_comparaonTableau(target_classes)
-    if selected_tab == "New style of chart":
-        content_new_style()
-    if selected_tab == "test plot":
-        content_testplot(target_classes_available)
+
+
+
 
 
 # Run the app

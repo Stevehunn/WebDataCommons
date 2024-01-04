@@ -6,6 +6,8 @@ import glob
 import re
 import plotly.graph_objects as go
 import pandas as pd
+from testplot import content_testplot_after,content_testplot_before
+
 
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
@@ -113,10 +115,14 @@ def content_comparaonTableau(target_classes):
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        st.image(result)
+        #st.image(result)
+        content_testplot_before(target_classes, select)
+
 
     with coll2:
-        st.image(result)
+        #st.image(result)
+        content_testplot_after(target_classes, select)
+
 
     # Selectbox
     #select = st.selectbox("", target_classes)

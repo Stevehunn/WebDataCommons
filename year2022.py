@@ -5,7 +5,7 @@ import pandas as pd
 import json
 import glob
 import re
-
+from testplot import content_testplot_before
 
 
 def extraire_contenu_apres_backslash(ma_ligne):
@@ -74,7 +74,9 @@ def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
     
     with col1:
       
-      st.image(result)
+        #st.image(result)
+        content_testplot_before(target_classes, select)
+
     
     with col2 :
      dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
@@ -83,7 +85,7 @@ def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
      df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
      
      filtred_data = df_data_plotly_treemap[df_data_plotly_treemap["names"]== select]
-     click= st.button("Afficher tous le treemap")
+     click= st.button("Show global Treemap")
      
 
 
