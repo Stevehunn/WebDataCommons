@@ -28,16 +28,16 @@ def getCheminForImage(nomfichier):
 def content_2022(data_plotly_sunburst,data_plotly_treemap, target_classes):
     st.title("""Schema.org annotations observatory in 2022""")
     st.write("### Deep dive into WebDataCommons JSON-LD markup")
-    st.markdown("---")
+    #st.markdown("---")
 
-    st.markdown(
-        """
-        In the following sunburst plot, the count of typed entities is displayed through the 'value' attribute.
-        """
-    )
+    #st.markdown(
+    #    """
+    #    In the following sunburst plot, the count of typed entities is displayed through the 'value' attribute.
+    #    """
+    #)
 
 
-    print("Names in Treemap:")
+    #print("Names in Treemap:")
    
     style = {
         "padding": 10,

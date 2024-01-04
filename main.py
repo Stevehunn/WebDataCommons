@@ -104,59 +104,26 @@ def getCheminForImage(nomfichier):
 
 
 target_classes = []
+target_classes_available_after =[]
+target_classes_available_before =[]
+
 # Parese Data from target classes
 parseWindow(target_classes)
 # parseMac(target_classes)
 
-target_classes_available_after =[]
-target_classes_available_before =[]
 #Parse Json Data from target classes
 parseAfterJsonAvailableWindow(target_classes_available_after)
 #parseAfterJsonAvailableMac(target_classes_available_after)
+
 parseBeforeJsonAvailableWindow(target_classes_available_before)
 #parseBeforeJsonAvailableMac(target_classes_available_before)
 
-# Version Window
-# for file in glob.glob("assets/plots/*.svg"):
-# Utilisez split pour séparer le chemin du fichier
-# parts = file.split("/")
 
-# Extrait le premier élément après "assets"
-# fname = parts[1]  # parts[0] est "assets", parts[1] est "plots"
+# sunburst before
+data_plotly_sunburst_before = {"ids": [], "names": [], "parents": [], "values": []}
+#with open("data/count.json", "r") as file:
 
-# parts2 = fname.split("plots")
-# Extrait le premier élément après "plots"
-# newFname =parts2[1]
-
-# Utiliser split pour séparer la chaîne en fonction de "\"
-# parts = newFname.split("\\")
-
-# Concaténer les parties avec "schema:"
-# newFname ="".join(parts[1:])
-
-# Supprime l'extension ".svg"
-# cname = newFname.split("_plot.svg")[0]
-
-# Ajoute à la liste avec le préfixe "schema:"
-# target_classes.append(f"schema:{cname}")
-
-# Version Mac
-# for file in glob.glob("assets/plots/*.svg"):
-# #Utilisez split pour séparer le chemin du fichier
-#   parts = file.split("/")
-
-# fname = parts[2]
-# parts2 = fname.split(".")
-# #Extrait le premier élément après "plots"
-# newFname =parts2[0]
-
-# cname = newFname.split("_plot")[0]
-# if cname != "Intangible":
-#  target_classes.append(f"schema:{cname}")
-
-# sunburst
-data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": []}
-with open("data/count.json", "r") as file:
+with open("dataCount/ClassCountBefore.json", "r") as file:
     parsed_json = json.load(file)
 
     itemlist = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
@@ -185,15 +152,59 @@ with open("data/count.json", "r") as file:
 
     for node in nodelist:
         id = node._id
-        if id in data_plotly_sunburst["ids"]:
+        if id in data_plotly_sunburst_before["ids"]:
             id = f"{node._id} {node._parent} {node._generation}"
-        data_plotly_sunburst["ids"].append(id)
-        data_plotly_sunburst["names"].append(node._id)
-        data_plotly_sunburst["values"].append(node._value)
-        data_plotly_sunburst["parents"].append(node._parent)
+        data_plotly_sunburst_before["ids"].append(id)
+        data_plotly_sunburst_before["names"].append(node._id)
+        data_plotly_sunburst_before["values"].append(node._value)
+        data_plotly_sunburst_before["parents"].append(node._parent)
 
-data_plotly_sunburst = dataWithoutIntangible()
-data_plotly_treemap = dataWithIntangible()
+data_plotly_sunburst_before = dataWithoutIntangible()
+data_plotly_treemap_before = dataWithIntangible()
+
+# sunburst after
+data_plotly_sunburst_after = {"ids": [], "names": [], "parents": [], "values": []}
+#with open("data/count.json", "r") as file:
+
+with open("dataCount/ClassCountAfter.json", "r") as file:
+    parsed_json = json.load(file)
+
+    itemlist = sorted(item_generator(parsed_json, "children"), key=lambda x: x[0])
+
+    nodelist = []
+    print(nodelist)
+    for generation, parent in itemlist:
+        if "schema:Intangible" in json.dumps(parent):
+            continue
+        if parent.get("value") is None:
+            parent["value"] = 0
+
+        parent_node = Node(parent["@id"], generation, value=parent["value"])
+        if parent_node not in nodelist:
+            # print(f"Adding {parent_node} to {nodelist}")
+            nodelist.append(parent_node)
+
+        if "children" in parent.keys():
+            for child in parent.get("children"):
+                if child.get("value") is None:
+                    child["value"] = 0
+                child_node = Node(
+                    child["@id"], generation, parent=parent["@id"], value=child["value"]
+                )
+                nodelist.append(child_node)
+
+    for node in nodelist:
+        id = node._id
+        if id in data_plotly_sunburst_before["ids"]:
+            id = f"{node._id} {node._parent} {node._generation}"
+        data_plotly_sunburst_after["ids"].append(id)
+        data_plotly_sunburst_after["names"].append(node._id)
+        data_plotly_sunburst_after["values"].append(node._value)
+        data_plotly_sunburst_after["parents"].append(node._parent)
+
+data_plotly_sunburst_after = dataWithoutIntangible()
+data_plotly_treemap_after = dataWithIntangible()
+
 
 
 # Define content show, sidebar
@@ -216,9 +227,9 @@ def content_sidebar():
     if selected_tab == "Welcome page":
         content_welcome()
     if selected_tab == "Data from 2022":
-        content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes_available_before)
+        content_2022(data_plotly_sunburst_before, data_plotly_treemap_before, target_classes_available_before)
     if selected_tab == "New Data from 2023":
-        content_2023(data_plotly_sunburst, target_classes_available_after)
+        content_2023(data_plotly_sunburst_after,data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
         content_comparaonTableau(target_classes)
 
