@@ -4,6 +4,7 @@ from dataCount import target_without_intangible
 from parse import getCheminForImage
 from plot import content_testplot
 from treemap import content_treemap
+from footer import content_footer
 
 
 # 2023 Analyse page Content
@@ -58,3 +59,5 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
             filter_intangible = True
         # Generates a treemap and display it
         content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst, select, click)
+
+    content_footer()
