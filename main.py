@@ -12,7 +12,7 @@ from year2023 import content_2023
 from year2022 import content_2022
 from newStyle import content_new_style
 from parse import parseWindow, parseMac, parseAfterJsonAvailableMac, parseAfterJsonAvailableWindow , parseBeforeJsonAvailableMac, parseBeforeJsonAvailableWindow
-from dataCount import dataBeforeWithIntangible, dataBeforeWithoutIntangible,dataAfterWithIntangible,dataAfterWithoutIntangible
+from dataCount import data_before_with_intangible, dataBeforeWithoutIntangible,dataAfterWithIntangible,dataAfterWithoutIntangible, dataCount
 from comparaisonTableau import content_comparaonTableau
 from plot import content_testplot_after, content_testplot_before
 
@@ -124,13 +124,19 @@ parseBeforeJsonAvailableWindow(target_classes_available_before)
 
 # Data sunburst before
 
-data_plotly_sunburst_before = dataBeforeWithoutIntangible()
-data_plotly_treemap_before = dataBeforeWithIntangible()
+data_plotly_sunburst_before = dataCount(False,True)
+#data_plotly_sunburst_before = dataBeforeWithoutIntangible()
+
+data_plotly_treemap_before = dataCount(True,True)
+#data_plotly_treemap_before = data_before_with_intangible()
 
 # Data sunburst after
 
-data_plotly_sunburst_after = dataAfterWithoutIntangible()
-data_plotly_treemap_after = dataAfterWithIntangible()
+data_plotly_sunburst_after = dataCount(False,False)
+#data_plotly_sunburst_after = dataAfterWithoutIntangible()
+
+data_plotly_treemap_after = dataCount(True,False)
+#data_plotly_treemap_after = dataAfterWithIntangible()
 
 # Define content show, sidebar
 def main():
