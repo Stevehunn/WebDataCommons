@@ -1,8 +1,7 @@
-import json
 import pandas as pd
 import plotly.express as px
-import plotly.graph_objects as go
 import streamlit as st
+
 
 # -------------------Chart-----------------
 # Count
@@ -17,7 +16,8 @@ def count(resultats, result):
     df = pd.DataFrame(data, index=['count_before', 'count_after'])
 
     # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Total number of this type', text='Total number of this type', title='Chart of the evolution: Count')
+    fig = px.bar(df, x=df.index, y='Total number of this type', text='Total number of this type',
+                 title='Chart of the evolution: Count')
 
     # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
     fig.update_layout(yaxis=dict(tickformat=".2f"))
@@ -39,7 +39,8 @@ def average(resultats, result):
     df = pd.DataFrame(data, index=['average_before', 'average_after'])
 
     # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Average properties count', text='Average properties count', title='Chart of the evolution: Average')
+    fig = px.bar(df, x=df.index, y='Average properties count', text='Average properties count',
+                 title='Chart of the evolution: Average')
 
     # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
     fig.update_layout(yaxis=dict(tickformat=".2f"))
@@ -61,7 +62,8 @@ def coverage(resultats, result):
     df = pd.DataFrame(data, index=['coverage_before', 'coverage_after'])
 
     # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Filling rate between 0 and 1', text='Filling rate between 0 and 1', title='Chart of the evolution: Coverage')
+    fig = px.bar(df, x=df.index, y='Filling rate between 0 and 1', text='Filling rate between 0 and 1',
+                 title='Chart of the evolution: Coverage')
 
     # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
     fig.update_layout(yaxis=dict(tickformat=".2f"))
@@ -78,7 +80,7 @@ def percentage(resultats, result):
                  ],
         'Metric': ['percentage_count_evolution', 'percentage_average_evolution', 'percentage_coverage_evolution'],
         'Evolution in %': [resultats['percentage_count_evolution'], resultats['percentage_average_evolution'],
-                  resultats['percentage_coverage_evolution']]
+                           resultats['percentage_coverage_evolution']]
     }
 
     # Créer un DataFrame à partir des données avec un index explicite

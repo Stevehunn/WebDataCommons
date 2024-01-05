@@ -1,12 +1,10 @@
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
-import pandas as pd
 import numpy as np
-import json
-import glob
-import re
-def content_treemap(filter_intangible,data_plotly_treemap,data_plotly_sunburst, select, click):
+import pandas as pd
+import plotly.express as px
+import streamlit as st
+
+
+def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst, select, click):
     dd_data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
     parents_d = 0
     if filter_intangible:

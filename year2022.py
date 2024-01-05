@@ -1,10 +1,11 @@
 import streamlit as st
+
 # Import Content Page
 from dataCount import target_without_intangible
+from footer import content_footer
 from parse import getCheminForImage
 from plot import content_testplot
 from treemap import content_treemap
-from footer import content_footer
 
 
 # 2023 Analyse page Content
@@ -34,7 +35,7 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
 
     if on_target:
         st.write('Filter Activate')
-        result = target_without_intangible(False,True)
+        result = target_without_intangible(False, True)
         select = st.selectbox("", result)
         result = getCheminForImage(select)
     else:

@@ -29,21 +29,21 @@ custom_css = """
 
 # Init data
 target_classes = []
-target_classes_available_after =[]
-target_classes_available_before =[]
+target_classes_available_after = []
+target_classes_available_before = []
 
 # Parse Data from target classes
 
-#parseWindow(target_classes)
-#parseMac(target_classes)
+# parseWindow(target_classes)
+# parseMac(target_classes)
 
-#Parse Json Data from target classes
+# Parse Json Data from target classes
 
-#parseAfterJsonAvailableWindow(target_classes_available_after)
-#parseAfterJsonAvailableMac(target_classes_available_after)
+# parseAfterJsonAvailableWindow(target_classes_available_after)
+# parseAfterJsonAvailableMac(target_classes_available_after)
 
-#parseBeforeJsonAvailableWindow(target_classes_available_before)
-#parseBeforeJsonAvailableMac(target_classes_available_before)
+# parseBeforeJsonAvailableWindow(target_classes_available_before)
+# parseBeforeJsonAvailableMac(target_classes_available_before)
 
 
 version_mac = False
@@ -58,18 +58,20 @@ else:
 
 # Data before
 
-data_plotly_sunburst_before = dataCount(False,True)
-data_plotly_treemap_before = dataCount(True,True)
+data_plotly_sunburst_before = dataCount(False, True)
+data_plotly_treemap_before = dataCount(True, True)
 
 # Data after
 
-data_plotly_sunburst_after = dataCount(False,False)
-data_plotly_treemap_after = dataCount(True,False)
+data_plotly_sunburst_after = dataCount(False, False)
+data_plotly_treemap_after = dataCount(True, False)
+
 
 # Define content show, sidebar
 def main():
     content_sidebar()
     return None
+
 
 # Side Content
 def content_sidebar():
@@ -90,6 +92,7 @@ def content_sidebar():
         content_2023(data_plotly_sunburst_after, data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
         content_comparison(target_classes)
+
 
 # Run the app
 if __name__ == '__main__':

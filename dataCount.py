@@ -1,5 +1,6 @@
 import json
 
+
 class Node:
     def __init__(self, id_node, generation, value, quality, parent=None) -> None:
         self.id = id_node
@@ -16,6 +17,7 @@ class Node:
     def __repr__(self) -> str:
         return self.id
 
+
 def item_generator(json_input, lookup_key, depth=None):
     if depth is None:
         depth = 0
@@ -27,6 +29,7 @@ def item_generator(json_input, lookup_key, depth=None):
     elif isinstance(json_input, list):
         for item in json_input:
             yield from item_generator(item, lookup_key, depth)
+
 
 def dataCount(withintangible, before):
     if before is True:
@@ -97,11 +100,12 @@ def dataCount(withintangible, before):
             data_plotly_sunburst["parents"].append(node.parent)
     return data_plotly_sunburst
 
+
 def target_without_intangible(withintangible, before):
-    result =dataCount(withintangible, before)
-    #st.write(result)
-    for i in range(0,len(result["parents"])):
-        if result["parents"] !="schema:Intagible":
-            target =result["names"]
-    #st.write(target)
+    result = dataCount(withintangible, before)
+    # st.write(result)
+    for i in range(0, len(result["parents"])):
+        if result["parents"] != "schema:Intagible":
+            target = result["names"]
+    # st.write(target)
     return target
