@@ -8,98 +8,7 @@ from dataCount import target_without_intangible
 # Import Content Page
 from parse import getCheminForImage
 from plot import content_testplot
-
-
-# -------------------Chart-----------------
-# Count
-def count(resultats, result):
-    data = {
-        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'],
-        'Metric': ['count_before', 'count_after'],
-        'Value': [resultats['count_before'], resultats['count_after']]
-    }
-
-    # Créer un DataFrame à partir des données avec un index explicite
-    df = pd.DataFrame(data, index=['count_before', 'count_after'])
-
-    # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Value', text='Value', title='Chart of the evolution: Count')
-
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
-    fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
-    st.plotly_chart(fig, use_container_width=True)
-    pass
-
-
-# -------------------------------
-# Average
-def average(resultats, result):
-    data = {
-        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'],
-        'Metric': ['average_before', 'average_after'],
-        'Value': [resultats['average_before'], resultats['average_after']]
-    }
-
-    # Créer un DataFrame à partir des données avec un index explicite
-    df = pd.DataFrame(data, index=['average_before', 'average_after'])
-
-    # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Value', text='Value', title='Chart of the evolution: Average')
-
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
-    fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
-    st.plotly_chart(fig, use_container_width=True)
-    pass
-
-
-# -------------------------------
-# Coverage
-def coverage(resultats, result):
-    data = {
-        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'],
-        'Metric': ['coverage_before', 'coverage_after'],
-        'Value': [resultats['coverage_before'], resultats['coverage_after']]
-    }
-
-    # Créer un DataFrame à partir des données avec un index explicite
-    df = pd.DataFrame(data, index=['coverage_before', 'coverage_after'])
-
-    # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Value', text='Value', title='Chart of the evolution: Coverage')
-
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
-    fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
-    st.plotly_chart(fig, use_container_width=True)
-    pass
-
-
-# -------------------------------
-# Percentage
-def percentage(resultats, result):
-    data = {
-        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'
-                 ],
-        'Metric': ['percentage_count_evolution', 'percentage_average_evolution', 'percentage_coverage_evolution'],
-        'Value': [resultats['percentage_count_evolution'], resultats['percentage_average_evolution'],
-                  resultats['percentage_coverage_evolution']]
-    }
-
-    # Créer un DataFrame à partir des données avec un index explicite
-    df = pd.DataFrame(data, index=['percentage_count_evolution', 'percentage_average_evolution',
-                                   'percentage_coverage_evolution'])
-
-    # Créer un graphique à barres
-    fig = px.bar(df, x=df.index, y='Value', text='Value', title='Chart of the evolution: Percentage')
-
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
-    fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
-    st.plotly_chart(fig, use_container_width=True)
-    pass
-
+from chart import count,coverage,average,percentage
 
 def content_comparison(target_classes):
     # Content
@@ -183,7 +92,7 @@ def content_comparison(target_classes):
         columnorder=[1, 2, 3, 4],
         columnwidth=[20, 80, 80, 80],
         header=dict(
-            values=[[], ['<b>Data from 2022</b>'], ['<b>Percentage Evolution</b>'],
+            values=[[], ['<b>Data from 2022</b>'], ['<b>Percentage of Evolution</b>'],
                     ['<b>Data from 2023</b>']],
             line_color='darkslategray',
             fill_color='royalblue',
