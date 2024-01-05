@@ -46,7 +46,7 @@ target_classes_available_before =[]
 #parseBeforeJsonAvailableMac(target_classes_available_before)
 
 
-version_mac = False
+version_mac = True
 if version_mac:
     parseMac(target_classes)
     parseAfterJsonAvailableMac(target_classes_available_after)

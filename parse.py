@@ -121,9 +121,9 @@ def parseBeforeJsonAvailableMac(target_classes_available):
         # Extrait le premier élément après "plots"
         newFname = parts2[0]
 
-        cname = newFname.split("_plot")[0]
-        if cname != "Intangible":
-            target_classes_available.append(f"schema:{cname}")
+        
+        if newFname != "Intangible":
+            target_classes_available.append(f"schema:{newFname}")
 
 def extraire_contenu_apres_backslash(ma_ligne):
     # Regex pour supprimer tout le contenu avant le dernier caractère '\'
