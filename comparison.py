@@ -4,12 +4,13 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
+from dataCount import target_without_intangible
 # Import Content Page
 from parse import getCheminForImage
 from plot import content_testplot
 
 
-#-------------------Chart-----------------
+# -------------------Chart-----------------
 # Count
 def count(resultats, result):
     data = {
@@ -29,11 +30,13 @@ def count(resultats, result):
     # Afficher le graphique
     st.plotly_chart(fig, use_container_width=True)
     pass
+
+
 # -------------------------------
 # Average
 def average(resultats, result):
     data = {
-        'Type': ['isa:<schema.org/'+result+'>', 'isa:<schema.org/'+result+'>'],
+        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'],
         'Metric': ['average_before', 'average_after'],
         'Value': [resultats['average_before'], resultats['average_after']]
     }
@@ -49,6 +52,8 @@ def average(resultats, result):
     # Afficher le graphique
     st.plotly_chart(fig, use_container_width=True)
     pass
+
+
 # -------------------------------
 # Coverage
 def coverage(resultats, result):
@@ -69,11 +74,13 @@ def coverage(resultats, result):
     # Afficher le graphique
     st.plotly_chart(fig, use_container_width=True)
     pass
+
+
 # -------------------------------
 # Percentage
 def percentage(resultats, result):
     data = {
-        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>','isa:<schema.org/' + result + '>'
+        'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'
                  ],
         'Metric': ['percentage_count_evolution', 'percentage_average_evolution', 'percentage_coverage_evolution'],
         'Value': [resultats['percentage_count_evolution'], resultats['percentage_average_evolution'],
@@ -92,19 +99,31 @@ def percentage(resultats, result):
     # Afficher le graphique
     st.plotly_chart(fig, use_container_width=True)
     pass
-def content_comparaonTableau(target_classes):
+
+
+def content_comparison(target_classes):
     # Content
     st.title("""In this page we compare the two Dataset from 2022 and 2023""")
 
-    select = st.selectbox("", target_classes)
-    result = getCheminForImage(select)
+    #select = st.selectbox("", target_classes)
+    #result = getCheminForImage(select)
+
+    on_target = st.toggle('IF filter is activate, schema Intangible and his child will be exclude', key="on_target")
+
+    if on_target:
+        st.write('Filter Activate')
+        result = target_without_intangible(False, True)
+        select = st.selectbox("", result)
+        result = getCheminForImage(select)
+    else:
+        select = st.selectbox("", target_classes)
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        content_testplot(target_classes,select,True)
+        content_testplot(target_classes, select, True)
 
     with coll2:
-        content_testplot(target_classes, select,False)
+        content_testplot(target_classes, select, False)
 
     # Selectbox
     result = select.split(":")[1]
@@ -127,11 +146,11 @@ def content_comparaonTableau(target_classes):
             if key != 'type':
                 print(f"{key}: {value}")
 
-    #Afficher Graph
+    # Afficher Graph
 
     # Selectbox Graph
-    graphDispo= ["Global evolution", "Count","Average","Coverage"]
-    select = st.selectbox("", graphDispo )
+    graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
+    select = st.selectbox("", graphDispo)
     if select == "Count":
         count(resultats, result)
     if select == "Average":
@@ -190,13 +209,14 @@ def content_comparaonTableau(target_classes):
     },
     st.plotly_chart(fig, use_container_width=True, style=style)
 
+
 def data_for_type(type_to_find):
     # Charger le fichier JSON
     with open('dataEvolution/evolutionDataPerTypeFixed.json', 'r') as file:
         dataFile = json.load(file)
 
     # Type que vous recherchez
-    type_recherche = "isa:<schema.org/"+type_to_find+">"
+    type_recherche = "isa:<schema.org/" + type_to_find + ">"
 
     # Dictionnaire pour stocker les valeurs des métriques
     result = {}
@@ -214,6 +234,3 @@ def data_for_type(type_to_find):
                     result[key] = value
 
     return result
-
-
-
