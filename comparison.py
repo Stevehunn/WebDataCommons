@@ -29,10 +29,10 @@ def content_comparison(target_classes):
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        content_testplot(target_classes, select, True)
+        content_testplot(select, True)
 
     with coll2:
-        content_testplot(target_classes, select, False)
+        content_testplot(select, False)
 
     # Selectbox
     result = select.split(":")[1]

@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 from upsetplot import plot
 
 
-def content_testplot(target_classes, target_select, before):
+def content_testplot(target_select, before):
     row = ["10", "15", "20", "30", "40", "50", "all"]
     if before is True:
         namekey = "before"
@@ -19,12 +19,12 @@ def content_testplot(target_classes, target_select, before):
     if before is True:
         cheminTarget = './newData/before/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "before.svg"
-        cheminImageComplet = './tempSvg/' + result + "beforecomplet.svg"
+        cheminImageComplet = './svgComplet/' + result + "beforecomplet.svg"
         namekey = "before"
     else:
         cheminTarget = './newData/after/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "after.svg"
-        cheminImageComplet = './tempSvg/' + result + "aftercomplet.svg"
+        cheminImageComplet = './svgComplet/' + result + "aftercomplet.svg"
         namekey = "after"
 
     with open(cheminTarget, 'r') as f:
@@ -77,8 +77,8 @@ def content_testplot(target_classes, target_select, before):
 
                 plot(df_up, orientation='horizontal')
                 plt.savefig(cheminImage)
+                plt.close()
                 st.image(cheminImage)
-
             else:
                 # ----------Save and Show all the dataframe------------------
                 df_up_all = df.groupby(list_labels).value_counts()
@@ -90,7 +90,7 @@ def content_testplot(target_classes, target_select, before):
 
                 plot(df_up_all, orientation='horizontal')
                 plt.savefig(cheminImageComplet)
+                plt.close()
                 st.image(cheminImageComplet)
-                # st.write("finished.")
     else:
         st.write("The file you selected is not available")

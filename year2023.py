@@ -11,22 +11,19 @@ from treemap import content_treemap
 # 2023 Analyse page Content
 def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
     st.title("""Schema.org annotations observatory in 2022""")
-    st.write("### Deep dive into WebDataCommons JSON-LD markup")
-
-    # Display the Sunburst figure using st.plotly_chart
-    # st.write("## Sunburst")
-    # st.plotly_chart(figureSunburst, use_container_width=True, style=style)
-    # st.markdown("---")
-    # Display the Treemap figure using st.plotly_chart
-
     st.markdown("---")
-    st.write("## Upset Plot")
     st.markdown(
         """
-        Per-class top-10 property combinations.
-        In the following upset plots, you can select a Schema.org class and display the most used property combinations (top-10).
-        All these 776 plots have been rendered based on the Schema.org characteristic sets we pre-computed and made available at [https://zenodo.org/records/8167689](https://zenodo.org/records/8167689)
+        In the following upset plots, you can select a Schema.org class and display the most used property combinations.
+        You can select top 10, 15,20,30,40,50 or All property combinations. 
+        All these 805 plots have been rendered based on the Schema.org characteristic sets we generate dynamically and made available [here](https://zenodo.org/records/8167689)
 
+        In the Treemap, you display the select schema class and display and schema class below.
+        You can show the entire Treemap with just a click.
+
+        If need, you can filter the schema or treemap schema to exclude the property combinations "Intangible".
+
+        PS: Generate upserplot can take some time (min) and more specifically when you generate all property combinations.
         """
     )
 
@@ -43,8 +40,8 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
     col1, col2 = st.columns(2)
 
     with col1:
-        # st.image(result)
-        content_testplot(target_classes, select, False)
+        st.write("## Upset Plot")
+        content_testplot(select, False)
 
     with col2:
         st.write("## Treemap")

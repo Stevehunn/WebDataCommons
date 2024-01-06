@@ -25,7 +25,7 @@ Discover groundbreaking research findings derived from the analysis of Common Cr
     st.write("## How to Navigate")
     st.write("""Temporal Selection: Choose the years you wish to explore using the interactive timeline.
 Category Insights: Delve into specific content categories to uncover niche trends.
-Data Filters: Tailor your exploration by applying filters based on keywords, domains, or geographical regions.""")
+Data Filters: Tailor your exploration by applying filters based on keywords.""")
     st.write("## Join Us on this Journey")
     st.write(
         """Embark on a captivating exploration of the internet's history. Whether you are a researcher, data enthusiast, or simply curious about the evolution of the digital landscape, our Web Data Time Travel Demo promises a unique and enlightening experience.""")
