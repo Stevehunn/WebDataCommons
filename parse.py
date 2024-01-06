@@ -28,3 +28,10 @@ def getCheminForImage(nomfichier: str) -> str:
     filename = nomfichier.split(":")[1]
     # Concaténer les parties avec le format souhaité
     return f"assets/plots/{filename}_plot.svg"
+
+def setLink(namekey,selectcol,filename: str) -> str:
+    filename = filename.replace("complet", "")
+    filename = filename.replace(selectcol, "")
+    filename = filename.replace("before.svg", "")
+    filename = filename.replace("after.svg", "")
+    return 'https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/newData/' + namekey + '/' + filename + '.json'

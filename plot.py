@@ -7,6 +7,8 @@ import streamlit as st
 from matplotlib import pyplot as plt
 from upsetplot import plot
 
+from parse import setLink
+
 
 def content_testplot(target_select, before):
     row = ["10", "15", "20", "30", "40", "50", "all"]
@@ -37,36 +39,47 @@ def content_testplot(target_select, before):
                 with open(cheminImage, "rb") as f:
                     contenu = f.read()
                 f.close()
+                st.markdown(
+                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                    unsafe_allow_html=True, )
+
+            with col2:
+                filename2 = cheminImage.replace('./tempSvg/', '')
+                with open(cheminImage, "rb") as f:
+                    contenu = f.read()
+                f.close()
+                link = setLink(namekey,selectrow,filename2)
+                st.markdown(
+                    "[Show raw json file](%s)" %link,
+                    unsafe_allow_html=True, )
+            st.image(cheminImage)
+            return
+        if os.path.exists(cheminImageComplet):
+            #filename = cheminImageComplet.replace('./tempSvg/', '')
+            #with open(cheminImageComplet, "rb") as f:
+            #    contenu = f.read()
+            #st.markdown(
+            #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+            #    unsafe_allow_html=True, )
+            col1, col2 = st.columns(2)
+            with col1:
+                filename1 = cheminImageComplet.replace('./tempSvg/', '')
+                with open(cheminImageComplet, "rb") as f:
+                    contenu = f.read()
                 f.close()
                 st.markdown(
                     f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
                     unsafe_allow_html=True, )
 
-
             with col2:
-
-                filename2 = cheminImage.replace('./tempSvg/', '')
-                with open(cheminImage, "rb") as f:
+                filename2 = cheminImageComplet.replace('./tempSvg/', '')
+                with open(cheminImageComplet, "rb") as f:
                     contenu = f.read()
                 f.close()
-                filename2 = filename2.replace(namekey+'.svg',"")
-                filename2 = filename2.replace("complet","")
-                filename2 = filename2.replace(selectrow,"")
-                filenameraw ='https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/newData/'+ namekey+'/'+ filename2+'.json'
+                link = setLink(namekey, selectrow, filename2)
                 st.markdown(
-                    "[Show raw json file](%s)" %filenameraw,
+                    "[Show raw json file](%s)" % link,
                     unsafe_allow_html=True, )
-                #st.write(filename)
-
-            st.image(cheminImage)
-            return
-        if os.path.exists(cheminImageComplet):
-            filename = cheminImageComplet.replace('./tempSvg/', '')
-            with open(cheminImageComplet, "rb") as f:
-                contenu = f.read()
-            st.markdown(
-                f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
-                unsafe_allow_html=True, )
             st.image(cheminImageComplet)
             return
         else:
@@ -110,13 +123,26 @@ def content_testplot(target_select, before):
                 plot(df_up, orientation='horizontal')
                 plt.savefig(cheminImage)
                 plt.close()
-                filename = cheminImage.replace('./tempSvg/', '')
-                with open(cheminImage, "rb") as f:
-                    contenu = f.read()
-                f.close()
-                st.markdown(
-                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
-                    unsafe_allow_html=True, )
+
+                col1, col2 = st.columns(2)
+                with col1:
+                    filename1 = cheminImage.replace('./tempSvg/', '')
+                    with open(cheminImage, "rb") as f:
+                        contenu = f.read()
+                    f.close()
+                    st.markdown(
+                        f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                        unsafe_allow_html=True, )
+
+                with col2:
+                    filename2 = cheminImage.replace('./tempSvg/', '')
+                    with open(cheminImage, "rb") as f:
+                        contenu = f.read()
+                    f.close()
+                    link = setLink(namekey, selectrow, filename2)
+                    st.markdown(
+                        "[Show raw json file](%s)" % link,
+                        unsafe_allow_html=True, )
                 st.image(cheminImage)
             else:
                 # ----------Save and Show all the dataframe------------------
@@ -125,18 +151,29 @@ def content_testplot(target_select, before):
                 for i in range(len(df_up_all)):
                     df_up_all[i] = count_column[i]
 
-                # st.write(df_up_all)
-
                 plot(df_up_all, orientation='horizontal')
                 plt.savefig(cheminImageComplet)
                 plt.close()
-                filename = cheminImageComplet.replace('./tempSvg/', '')
-                with open(cheminImageComplet, "rb") as f:
-                    contenu = f.read()
-                f.close()
-                st.markdown(
-                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
-                    unsafe_allow_html=True, )
+
+                col1, col2 = st.columns(2)
+                with col1:
+                    filename1 = cheminImageComplet.replace('./tempSvg/', '')
+                    with open(cheminImageComplet, "rb") as f:
+                        contenu = f.read()
+                    f.close()
+                    st.markdown(
+                        f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                        unsafe_allow_html=True, )
+
+                with col2:
+                    filename2 = cheminImageComplet.replace('./tempSvg/', '')
+                    with open(cheminImageComplet, "rb") as f:
+                        contenu = f.read()
+                    f.close()
+                    link = setLink(namekey, selectrow, filename2)
+                    st.markdown(
+                        "[Show raw json file](%s)" % link,
+                        unsafe_allow_html=True, )
                 st.image(cheminImageComplet)
     else:
         st.write("The file you selected is not available")
