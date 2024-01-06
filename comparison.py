@@ -1,21 +1,21 @@
 import json
-import pandas as pd
-import plotly.express as px
+
 import plotly.graph_objects as go
 import streamlit as st
 
+from chart import count, coverage, average, percentage
 from dataCount import target_without_intangible
 # Import Content Page
 from parse import getCheminForImage
 from plot import content_testplot
-from chart import count,coverage,average,percentage
+
 
 def content_comparison(target_classes):
     # Content
     st.title("""In this page we compare the two Dataset from 2022 and 2023""")
 
-    #select = st.selectbox("", target_classes)
-    #result = getCheminForImage(select)
+    # select = st.selectbox("", target_classes)
+    # result = getCheminForImage(select)
 
     on_target = st.toggle('IF filter is activate, schema Intangible and his child will be exclude', key="on_target")
 
@@ -29,10 +29,10 @@ def content_comparison(target_classes):
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        content_testplot(target_classes, select, True)
+        content_testplot(select, True)
 
     with coll2:
-        content_testplot(target_classes, select, False)
+        content_testplot(select, False)
 
     # Selectbox
     result = select.split(":")[1]

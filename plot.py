@@ -1,11 +1,14 @@
+import base64
 import json
 import os.path
+
 import pandas as pd
 import streamlit as st
 from matplotlib import pyplot as plt
 from upsetplot import plot
 
-def content_testplot(target_classes, target_select, before):
+
+def content_testplot(target_select, before):
     row = ["10", "15", "20", "30", "40", "50", "all"]
     if before is True:
         namekey = "before"
@@ -28,11 +31,23 @@ def content_testplot(target_classes, target_select, before):
     with open(cheminTarget, 'r') as f:
         data_dict = json.load(f)
         # st.write(data_dict)
-    if len(data_dict)!= 0:
+    if len(data_dict) != 0:
         if os.path.exists(cheminImage):
+            filename = cheminImage.replace('./tempSvg/', '')
+            with open(cheminImage, "rb") as f:
+                contenu = f.read()
+            st.markdown(
+                f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                unsafe_allow_html=True, )
             st.image(cheminImage)
             return
         if os.path.exists(cheminImageComplet):
+            filename = cheminImageComplet.replace('./tempSvg/', '')
+            with open(cheminImageComplet, "rb") as f:
+                contenu = f.read()
+            st.markdown(
+                f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                unsafe_allow_html=True, )
             st.image(cheminImageComplet)
             return
         else:
@@ -42,13 +57,14 @@ def content_testplot(target_classes, target_select, before):
                 labels.update(item["pset"])
             # creer bitmap a partir des labels et des counts
             list_labels = list(labels)
-            #st.write(list_labels)
-            #st.write([[e in item["pset"] for item in data_dict] for e in list_labels])
-            #df = pd.DataFrame([[e in item["pset"] for e in list_labels] for item in data_dict], columns=list_labels)
-            df = pd.DataFrame([[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict], columns=list_labels+["count"])
+            # st.write(list_labels)
+            # st.write([[e in item["pset"] for item in data_dict] for e in list_labels])
+            # df = pd.DataFrame([[e in item["pset"] for e in list_labels] for item in data_dict], columns=list_labels)
+            df = pd.DataFrame([[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict],
+                              columns=list_labels + ["count"])
             count_column = df.pop("count")
-            #st.write(df)
-            if selectrow !="all":
+            # st.write(df)
+            if selectrow != "all":
                 select = int(selectrow)
                 df_reduce = df.head(select)
                 column_to_remove = list()
@@ -58,24 +74,30 @@ def content_testplot(target_classes, target_select, before):
                         canary |= item
                     if not canary:
                         column_to_remove.append(column)
-                #print(column_to_remove)
+                # print(column_to_remove)
                 for column in column_to_remove:
                     df_reduce.pop(column)
                     list_labels.remove(column)
-                #st.write(df_reduce)
+                # st.write(df_reduce)
 
-                #----------Save and Show n row of the dataframe------------------
+                # ----------Save and Show n row of the dataframe------------------
                 df_up = df_reduce.groupby(list_labels).value_counts()
 
                 for i in range(len(df_up)):
                     df_up[i] = count_column[i]
 
-                #st.write(df_up)
+                # st.write(df_up)
 
                 plot(df_up, orientation='horizontal')
                 plt.savefig(cheminImage)
+                plt.close()
+                filename = cheminImage.replace('./tempSvg/', '')
+                with open(cheminImage, "rb") as f:
+                    contenu = f.read()
+                st.markdown(
+                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                    unsafe_allow_html=True, )
                 st.image(cheminImage)
-
             else:
                 # ----------Save and Show all the dataframe------------------
                 df_up_all = df.groupby(list_labels).value_counts()
@@ -83,11 +105,17 @@ def content_testplot(target_classes, target_select, before):
                 for i in range(len(df_up_all)):
                     df_up_all[i] = count_column[i]
 
-                #st.write(df_up_all)
+                # st.write(df_up_all)
 
                 plot(df_up_all, orientation='horizontal')
                 plt.savefig(cheminImageComplet)
+                plt.close()
+                filename = cheminImageComplet.replace('./tempSvg/', '')
+                with open(cheminImageComplet, "rb") as f:
+                    contenu = f.read()
+                st.markdown(
+                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                    unsafe_allow_html=True, )
                 st.image(cheminImageComplet)
-                #st.write("finished.")
     else:
         st.write("The file you selected is not available")
