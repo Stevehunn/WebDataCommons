@@ -1,3 +1,4 @@
+import base64
 import json
 import os.path
 
@@ -19,12 +20,12 @@ def content_testplot(target_select, before):
     if before is True:
         cheminTarget = './newData/before/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "before.svg"
-        cheminImageComplet = './svgComplet/' + result + "beforecomplet.svg"
+        cheminImageComplet = './tempSvg/' + result + "beforecomplet.svg"
         namekey = "before"
     else:
         cheminTarget = './newData/after/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "after.svg"
-        cheminImageComplet = './svgComplet/' + result + "aftercomplet.svg"
+        cheminImageComplet = './tempSvg/' + result + "aftercomplet.svg"
         namekey = "after"
 
     with open(cheminTarget, 'r') as f:
@@ -32,9 +33,21 @@ def content_testplot(target_select, before):
         # st.write(data_dict)
     if len(data_dict) != 0:
         if os.path.exists(cheminImage):
+            filename = cheminImage.replace('./tempSvg/', '')
+            with open(cheminImage, "rb") as f:
+                contenu = f.read()
+            st.markdown(
+                f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                unsafe_allow_html=True, )
             st.image(cheminImage)
             return
         if os.path.exists(cheminImageComplet):
+            filename = cheminImageComplet.replace('./tempSvg/', '')
+            with open(cheminImageComplet, "rb") as f:
+                contenu = f.read()
+            st.markdown(
+                f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                unsafe_allow_html=True, )
             st.image(cheminImageComplet)
             return
         else:
@@ -78,6 +91,12 @@ def content_testplot(target_select, before):
                 plot(df_up, orientation='horizontal')
                 plt.savefig(cheminImage)
                 plt.close()
+                filename = cheminImage.replace('./tempSvg/', '')
+                with open(cheminImage, "rb") as f:
+                    contenu = f.read()
+                st.markdown(
+                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                    unsafe_allow_html=True, )
                 st.image(cheminImage)
             else:
                 # ----------Save and Show all the dataframe------------------
@@ -91,6 +110,12 @@ def content_testplot(target_select, before):
                 plot(df_up_all, orientation='horizontal')
                 plt.savefig(cheminImageComplet)
                 plt.close()
+                filename = cheminImageComplet.replace('./tempSvg/', '')
+                with open(cheminImageComplet, "rb") as f:
+                    contenu = f.read()
+                st.markdown(
+                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
+                    unsafe_allow_html=True, )
                 st.image(cheminImageComplet)
     else:
         st.write("The file you selected is not available")
