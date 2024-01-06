@@ -6,7 +6,6 @@ import streamlit as st
 from chart import count, coverage, average, percentage
 from dataCount import target_without_intangible
 # Import Content Page
-from parse import getCheminForImage
 from plot import content_testplot
 
 

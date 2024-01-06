@@ -30,7 +30,7 @@ def content_testplot(target_select, before):
     with open(cheminTarget, 'r') as f:
         data_dict = json.load(f)
     if len(data_dict) != 0:
-        if os.path.exists(cheminImage) and selectrow !="all":
+        if os.path.exists(cheminImage) and selectrow != "all":
             col1, col2 = st.columns(2)
             with col1:
                 filename1 = cheminImage.replace('./tempSvg/', '')
@@ -46,13 +46,13 @@ def content_testplot(target_select, before):
                 with open(cheminImage, "rb") as f:
                     contenu = f.read()
                 f.close()
-                link = setLink(namekey,selectrow,filename2)
+                link = setLink(namekey, selectrow, filename2)
                 st.markdown(
-                    "[Show raw json file](%s)" %link,
+                    "[Show raw json file](%s)" % link,
                     unsafe_allow_html=True, )
             st.image(cheminImage)
             return
-        if os.path.exists(cheminImageComplet) and selectrow =="all":
+        if os.path.exists(cheminImageComplet) and selectrow == "all":
             col1, col2 = st.columns(2)
             with col1:
                 filename1 = cheminImageComplet.replace('./tempSvg/', '')

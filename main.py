@@ -63,6 +63,7 @@ def main():
     if selected_tab == "Comparison between the two dataset":
         content_comparison(target_classes_available_before)
 
+
 # Run the app
 if __name__ == '__main__':
     main()

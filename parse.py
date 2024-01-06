@@ -22,7 +22,8 @@ def getCheminForImage(nomfichier: str) -> str:
     filename = nomfichier.split(":")[1]
     return f"assets/plots/{filename}_plot.svg"
 
-def setLink(namekey,selectcol,filename: str) -> str:
+
+def setLink(namekey, selectcol, filename: str) -> str:
     filename = filename.replace("complet", "")
     filename = filename.replace(selectcol, "")
     filename = filename.replace("before.svg", "")
