@@ -16,7 +16,6 @@ def content_testplot(target_select, before):
         namekey = "before"
     else:
         namekey = "after"
-
     selectrow = st.selectbox("Select the number of column to display", row, index=0, key=namekey)
     result = target_select.split(":")[1]
     if before is True:
@@ -30,9 +29,8 @@ def content_testplot(target_select, before):
 
     with open(cheminTarget, 'r') as f:
         data_dict = json.load(f)
-        # st.write(data_dict)
     if len(data_dict) != 0:
-        if os.path.exists(cheminImage):
+        if os.path.exists(cheminImage) and selectrow !="all":
             col1, col2 = st.columns(2)
             with col1:
                 filename1 = cheminImage.replace('./tempSvg/', '')
@@ -54,13 +52,7 @@ def content_testplot(target_select, before):
                     unsafe_allow_html=True, )
             st.image(cheminImage)
             return
-        if os.path.exists(cheminImageComplet):
-            #filename = cheminImageComplet.replace('./tempSvg/', '')
-            #with open(cheminImageComplet, "rb") as f:
-            #    contenu = f.read()
-            #st.markdown(
-            #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
-            #    unsafe_allow_html=True, )
+        if os.path.exists(cheminImageComplet) and selectrow =="all":
             col1, col2 = st.columns(2)
             with col1:
                 filename1 = cheminImageComplet.replace('./tempSvg/', '')
@@ -83,19 +75,15 @@ def content_testplot(target_select, before):
             st.image(cheminImageComplet)
             return
         else:
-            # récuperer tous les labels
+            # get all labels
             labels = set()
             for item in data_dict:
                 labels.update(item["pset"])
-            # creer bitmap a partir des labels et des counts
+            # create bitmap from labels and counts
             list_labels = list(labels)
-            # st.write(list_labels)
-            # st.write([[e in item["pset"] for item in data_dict] for e in list_labels])
-            # df = pd.DataFrame([[e in item["pset"] for e in list_labels] for item in data_dict], columns=list_labels)
             df = pd.DataFrame([[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict],
                               columns=list_labels + ["count"])
             count_column = df.pop("count")
-            # st.write(df)
             if selectrow != "all":
                 select = int(selectrow)
                 df_reduce = df.head(select)
@@ -106,19 +94,15 @@ def content_testplot(target_select, before):
                         canary |= item
                     if not canary:
                         column_to_remove.append(column)
-                # print(column_to_remove)
                 for column in column_to_remove:
                     df_reduce.pop(column)
                     list_labels.remove(column)
-                # st.write(df_reduce)
 
                 # ----------Save and Show n row of the dataframe------------------
                 df_up = df_reduce.groupby(list_labels).value_counts()
 
                 for i in range(len(df_up)):
                     df_up[i] = count_column[i]
-
-                # st.write(df_up)
 
                 plot(df_up, orientation='horizontal')
                 plt.savefig(cheminImage)

@@ -12,16 +12,16 @@ def count(resultats, result):
         'Total number of this type': [resultats['count_before'], resultats['count_after']]
     }
 
-    # Créer un DataFrame à partir des données avec un index explicite
+    # Create DataFrame from data with explicit index
     df = pd.DataFrame(data, index=['count_before', 'count_after'])
 
-    # Créer un graphique à barres
+    # Bar Chart
     fig = px.bar(df, x=df.index, y='Total number of this type', text='Total number of this type',
                  title='Chart of the evolution: Count')
 
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
+    # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
+    # show chart
     st.plotly_chart(fig, use_container_width=True)
     pass
 

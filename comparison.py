@@ -14,16 +14,12 @@ def content_comparison(target_classes):
     # Content
     st.title("""In this page we compare the two Dataset from 2022 and 2023""")
 
-    # select = st.selectbox("", target_classes)
-    # result = getCheminForImage(select)
-
     on_target = st.toggle('IF filter is activate, schema Intangible and his child will be exclude', key="on_target")
 
     if on_target:
         st.write('Filter Activate')
         result = target_without_intangible(False, True)
         select = st.selectbox("", result)
-        result = getCheminForImage(select)
     else:
         select = st.selectbox("", target_classes)
 
@@ -39,23 +35,21 @@ def content_comparison(target_classes):
     type_recherche = result
     resultats = data_for_type(type_recherche)
 
-    # Charger le fichier JSON
+    # Load JSON file
     with open('dataEvolution/evolutionDataPerTypeFixed.json', 'r') as file:
         data = json.load(file)
 
-    # Parcourir chaque objet dans le fichier JSON
+    # Loop through each object in JSON file
     for metric in data:
-        # Afficher le type de métrique
+        # Show metric type
         print(f"\nType: {metric['type']}")
         isa = {metric['type']}
 
-        # Afficher les autres métriques et leurs valeurs
+        # View other metrics and their values
         for key, value in metric.items():
             # Exclure le type, car nous l'avons déjà affiché
             if key != 'type':
                 print(f"{key}: {value}")
-
-    # Afficher Graph
 
     # Selectbox Graph
     graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
@@ -69,7 +63,7 @@ def content_comparison(target_classes):
     if select == "Global evolution":
         percentage(resultats, result)
 
-    # Affiche Tableau de donnee
+    # Data Table Poster
     values = [['<b>Count</b>', '<b>Average</b>', '<b>Coverage</b>'],  # 1st col
               # 2nd col
               [
@@ -120,25 +114,25 @@ def content_comparison(target_classes):
 
 
 def data_for_type(type_to_find):
-    # Charger le fichier JSON
+    # Load JSON file
     with open('dataEvolution/evolutionDataPerTypeFixed.json', 'r') as file:
         dataFile = json.load(file)
 
-    # Type que vous recherchez
+    # Type you are looking for
     type_recherche = "isa:<schema.org/" + type_to_find + ">"
 
-    # Dictionnaire pour stocker les valeurs des métriques
+    # Dictionary to store metric values
     result = {}
 
-    # Rechercher le type spécifique dans les données
+    # Find the specific type in the data
     for metric in dataFile:
         if metric['type'] == type_recherche:
-            # Afficher le type de métrique
+            # Show metric type
             result["Type"] = metric['type']
 
-            # Stocker les autres métriques et leurs valeurs dans le dictionnaire
+            # Store other metrics and their values ​​in the dictionary
             for key, value in metric.items():
-                # Exclure le type, car nous l'avons déjà stocké
+                # Exclude the type, because we already stored it
                 if key != 'type':
                     result[key] = value
 

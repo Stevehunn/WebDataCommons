@@ -61,8 +61,7 @@ def main():
     if selected_tab == "New Data from 2023":
         content_2023(data_plotly_sunburst_after, data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
-        content_comparison(target_classes)
-
+        content_comparison(target_classes_available_before)
 
 # Run the app
 if __name__ == '__main__':

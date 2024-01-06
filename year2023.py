@@ -28,7 +28,6 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
         st.write('Filter Activate')
         result = target_without_intangible(False, False)
         select = st.selectbox("", result)
-        result = getCheminForImage(select)
     else:
         select = st.selectbox("", target_classes)
 

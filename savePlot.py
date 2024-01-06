@@ -17,30 +17,22 @@ def save_all_plot():
                 if os.path.exists(cheminImageComplet):
                     pass
                 else:
-                    # récuperer tous les labels
+                    # get all labels
                     labels = set()
                     for item in data_dict:
                         labels.update(item["pset"])
-                    # creer bitmap a partir des labels et des counts
+                    # create bitmap from labels and counts
                     list_labels = list(labels)
-                    # st.write(list_labels)
-                    # st.write([[e in item["pset"] for item in data_dict] for e in list_labels])
-                    # df = pd.DataFrame([[e in item["pset"] for e in list_labels] for item in data_dict], columns=list_labels)
                     df = pd.DataFrame(
                         [[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict],
                         columns=list_labels + ["count"])
                     count_column = df.pop("count")
-                    # st.write(df)
                     df_up_all = df.groupby(list_labels).value_counts()
 
                     for i in range(len(df_up_all)):
                         df_up_all[i] = count_column[i]
 
-                    try:
-                        plot(df_up_all, orientation='horizontal')
-                    except Exception as err:
-                        print(err)
-                        print(file)
+                    plot(df_up_all, orientation='horizontal')
                     plt.savefig(cheminImageComplet)
                     plt.close()
             else:

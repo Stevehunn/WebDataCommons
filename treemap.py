@@ -10,7 +10,7 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
     if filter_intangible:
         df_data_plotly_treemap = pd.DataFrame(data_plotly_sunburst)
         filtered_data = df_data_plotly_treemap[df_data_plotly_treemap["names"] == select]
-        # Parcourir le DataFrame et collecter les parents
+        # Iterate over the DataFrame and collect parents
         for index, row in df_data_plotly_treemap.iterrows():
             parent_name = row['parents']
             name = row['names']
@@ -64,7 +64,7 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
     if not filter_intangible:
         df_data_plotly_treemap = pd.DataFrame(data_plotly_treemap)
         filtered_data = df_data_plotly_treemap[df_data_plotly_treemap["names"] == select]
-        # Parcourir le DataFrame et collecter les parents
+        # Iterate over the DataFrame and collect parents
         for index, row in df_data_plotly_treemap.iterrows():
             parent_name = row['parents']
             name = row['names']
@@ -115,7 +115,7 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
                     color_continuous_midpoint=np.average(data_plotly_treemap['quality'])
                 )
     fig_all_data.update_layout(
-        font=dict(size=20),  # Modifiez la taille de la police ici
+        font=dict(size=20),  # Change the font size here
         margin=dict(t=0, l=0, r=0, b=0),
     )
     style = {
