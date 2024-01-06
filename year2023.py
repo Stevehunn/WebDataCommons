@@ -10,7 +10,7 @@ from treemap import content_treemap
 
 # 2023 Analyse page Content
 def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
-    st.title("""Schema.org annotations observatory in 2022""")
+    st.title("""Schema.org annotations observatory in 2023""")
     st.markdown("---")
     st.markdown(
         """
