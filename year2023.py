@@ -3,7 +3,6 @@ import streamlit as st
 # Import Content Page
 from dataCount import target_without_intangible
 from footer import content_footer
-from parse import getCheminForImage
 from plot import content_testplot
 from treemap import content_treemap
 
