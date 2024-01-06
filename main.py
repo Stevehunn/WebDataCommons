@@ -4,6 +4,7 @@ from streamlit_option_menu import option_menu
 # Import Content Page
 from comparison import content_comparison
 from dataCount import dataCount
+from evolutionData import content_evolutionData
 from parse import get_plot_name, get_name_from_json
 from welcome import content_welcome
 from year2022 import content_2022
@@ -52,7 +53,8 @@ def main():
     with st.sidebar:
         selected_tab = option_menu(
             menu_title="Summary",
-            options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset"],
+            options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset",
+                     "Evolution of data per Type"],
         )
     if selected_tab == "Welcome page":
         content_welcome()
@@ -62,6 +64,8 @@ def main():
         content_2023(data_plotly_sunburst_after, data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
         content_comparison(target_classes_available_before)
+    if selected_tab == "Evolution of data per Type":
+        content_evolutionData()
 
 
 # Run the app

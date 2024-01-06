@@ -14,7 +14,6 @@ def count(resultats, result):
 
     # Create DataFrame from data with explicit index
     df = pd.DataFrame(data, index=['count_before', 'count_after'])
-
     # Bar Chart
     fig = px.bar(df, x=df.index, y='Total number of this type', text='Total number of this type',
                  title='Chart of the evolution: Count')

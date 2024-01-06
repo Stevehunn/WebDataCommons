@@ -29,26 +29,10 @@ def content_comparison(target_classes):
     with coll2:
         content_testplot(select, False)
 
-    # Selectbox
+    # Get Data from dataEvolution
     result = select.split(":")[1]
     type_recherche = result
     resultats = data_for_type(type_recherche)
-
-    # Load JSON file
-    with open('dataEvolution/evolutionDataPerTypeFixed.json', 'r') as file:
-        data = json.load(file)
-
-    # Loop through each object in JSON file
-    for metric in data:
-        # Show metric type
-        print(f"\nType: {metric['type']}")
-        isa = {metric['type']}
-
-        # View other metrics and their values
-        for key, value in metric.items():
-            # Exclure le type, car nous l'avons déjà affiché
-            if key != 'type':
-                print(f"{key}: {value}")
 
     # Selectbox Graph
     graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
@@ -61,6 +45,10 @@ def content_comparison(target_classes):
         coverage(resultats, result)
     if select == "Global evolution":
         percentage(resultats, result)
+
+    # Button to show raw json file of the evolutionDataPerType
+    st.link_button("Show raw json file",
+                   'https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/dataEvolution/evolutionDataPerTypeFixed.json')
 
     # Data Table Poster
     values = [['<b>Count</b>', '<b>Average</b>', '<b>Coverage</b>'],  # 1st col

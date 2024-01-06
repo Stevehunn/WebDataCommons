@@ -1,9 +1,8 @@
 [theme]
-primaryColor="#3346FF"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
+base="light"
+primaryColor="#3346ff"
+secondaryBackgroundColor="#aec5f1"
 textColor="#262730"
-font="sans serif"
 
 [server]
 maxMessageSize =1000

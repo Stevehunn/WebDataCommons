@@ -36,7 +36,7 @@ def content_testplot(target_select, before):
                 filename1 = cheminImage.replace('./tempSvg/', '')
                 with open(cheminImage, "rb") as f:
                     contenu = f.read()
-                f.close()
+                # f.close()
                 st.markdown(
                     f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
                     unsafe_allow_html=True, )
@@ -45,11 +45,9 @@ def content_testplot(target_select, before):
                 filename2 = cheminImage.replace('./tempSvg/', '')
                 with open(cheminImage, "rb") as f:
                     contenu = f.read()
-                f.close()
+                # f.close()
                 link = setLink(namekey, selectrow, filename2)
-                st.markdown(
-                    "[Show raw json file](%s)" % link,
-                    unsafe_allow_html=True, )
+                st.link_button("Show raw json file", link)
             st.image(cheminImage)
             return
         if os.path.exists(cheminImageComplet) and selectrow == "all":
@@ -58,7 +56,7 @@ def content_testplot(target_select, before):
                 filename1 = cheminImageComplet.replace('./tempSvg/', '')
                 with open(cheminImageComplet, "rb") as f:
                     contenu = f.read()
-                f.close()
+                # f.close()
                 st.markdown(
                     f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
                     unsafe_allow_html=True, )
@@ -67,11 +65,9 @@ def content_testplot(target_select, before):
                 filename2 = cheminImageComplet.replace('./tempSvg/', '')
                 with open(cheminImageComplet, "rb") as f:
                     contenu = f.read()
-                f.close()
+                # f.close()
                 link = setLink(namekey, selectrow, filename2)
-                st.markdown(
-                    "[Show raw json file](%s)" % link,
-                    unsafe_allow_html=True, )
+                st.link_button("Show raw json file", link)
             st.image(cheminImageComplet)
             return
         else:
@@ -124,9 +120,7 @@ def content_testplot(target_select, before):
                         contenu = f.read()
                     f.close()
                     link = setLink(namekey, selectrow, filename2)
-                    st.markdown(
-                        "[Show raw json file](%s)" % link,
-                        unsafe_allow_html=True, )
+                    st.link_button("Show raw json file", link)
                 st.image(cheminImage)
             else:
                 # ----------Save and Show all the dataframe------------------
@@ -155,9 +149,7 @@ def content_testplot(target_select, before):
                         contenu = f.read()
                     f.close()
                     link = setLink(namekey, selectrow, filename2)
-                    st.markdown(
-                        "[Show raw json file](%s)" % link,
-                        unsafe_allow_html=True, )
+                    st.link_button("Show raw json file", link)
                 st.image(cheminImageComplet)
     else:
         st.write("The file you selected is not available")
