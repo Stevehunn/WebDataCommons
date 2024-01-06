@@ -26,11 +26,18 @@ def content_evolutionData():
     st.write("## Comparison dataframe between the years 2022 and 2023")
     df_rows = []
     for resultats in data:
+        if resultats.get('percentage_count_evolution') == "new":
+            resultats['percentage_count_evolution'] = 'Inf'
+        if resultats.get('percentage_average_evolution') == "new":
+            resultats['percentage_average_evolution'] = 'Inf'
+        if resultats.get('percentage_coverage_evolution') == "new":
+            resultats['percentage_coverage_evolution'] = 'Inf'
         df_rows.append({
             "Name": resultats.get('type'),
             "Count 2022": resultats.get('count_before'),
             "Count 2023": resultats.get('count_after'),
-            "Percentage count evolution": resultats.get('percentage_count_evolution'),
+            "Percentage count evolution": resultats['percentage_count_evolution'],
+
             "Average 2022": resultats.get('average_before'),
             "Average 2023": resultats.get('average_after'),
             "Percentage average evolution": resultats.get('percentage_average_evolution'),
