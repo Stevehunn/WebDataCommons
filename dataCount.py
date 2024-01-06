@@ -98,6 +98,7 @@ def dataCount(withintangible, before):
             data_plotly_sunburst["values"].append(node.value)
             data_plotly_sunburst["quality"].append(node.quality)
             data_plotly_sunburst["parents"].append(node.parent)
+    file.close()
     return data_plotly_sunburst
 
 

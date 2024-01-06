@@ -21,24 +21,43 @@ def content_testplot(target_select, before):
         cheminTarget = './newData/before/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "before.svg"
         cheminImageComplet = './tempSvg/' + result + "beforecomplet.svg"
-        namekey = "before"
     else:
         cheminTarget = './newData/after/' + result + '.json'
         cheminImage = './tempSvg/' + selectrow + result + "after.svg"
         cheminImageComplet = './tempSvg/' + result + "aftercomplet.svg"
-        namekey = "after"
 
     with open(cheminTarget, 'r') as f:
         data_dict = json.load(f)
         # st.write(data_dict)
     if len(data_dict) != 0:
         if os.path.exists(cheminImage):
-            filename = cheminImage.replace('./tempSvg/', '')
-            with open(cheminImage, "rb") as f:
-                contenu = f.read()
-            st.markdown(
-                f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
-                unsafe_allow_html=True, )
+            col1, col2 = st.columns(2)
+            with col1:
+                filename1 = cheminImage.replace('./tempSvg/', '')
+                with open(cheminImage, "rb") as f:
+                    contenu = f.read()
+                f.close()
+                f.close()
+                st.markdown(
+                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                    unsafe_allow_html=True, )
+
+
+            with col2:
+
+                filename2 = cheminImage.replace('./tempSvg/', '')
+                with open(cheminImage, "rb") as f:
+                    contenu = f.read()
+                f.close()
+                filename2 = filename2.replace(namekey+'.svg',"")
+                filename2 = filename2.replace("complet","")
+                filename2 = filename2.replace(selectrow,"")
+                filenameraw ='https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/newData/'+ namekey+'/'+ filename2+'.json'
+                st.markdown(
+                    "[Show raw json file](%s)" %filenameraw,
+                    unsafe_allow_html=True, )
+                #st.write(filename)
+
             st.image(cheminImage)
             return
         if os.path.exists(cheminImageComplet):
@@ -94,6 +113,7 @@ def content_testplot(target_select, before):
                 filename = cheminImage.replace('./tempSvg/', '')
                 with open(cheminImage, "rb") as f:
                     contenu = f.read()
+                f.close()
                 st.markdown(
                     f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
                     unsafe_allow_html=True, )
@@ -113,6 +133,7 @@ def content_testplot(target_select, before):
                 filename = cheminImageComplet.replace('./tempSvg/', '')
                 with open(cheminImageComplet, "rb") as f:
                     contenu = f.read()
+                f.close()
                 st.markdown(
                     f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename}">Download plot</a>',
                     unsafe_allow_html=True, )

@@ -14,16 +14,11 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
     st.markdown("---")
     st.markdown(
         """
-        In the following upset plots, you can select a Schema.org class and display the most used property combinations.
-        You can select top 10, 15,20,30,40,50 or All property combinations. 
-        All these 805 plots have been rendered based on the Schema.org characteristic sets we generate dynamically and made available [here](https://zenodo.org/records/8167689)
+        You can select any type described by Schema.org here and generate an Upsetplot of it. You can also select the number of characteristic sets show in this plot.
 
-        In the Treemap, you display the select schema class and display and schema class below.
-        You can show the entire Treemap with just a click.
+        PS: Generating upserplots can take some time (minutes) and more specifically when you generate all property combinations.
 
-        If need, you can filter the schema or treemap schema to exclude the property combinations "Intangible".
-
-        PS: Generate upserplot can take some time (min) and more specifically when you generate all property combinations.
+        Trigger this button to filter out Intangibles from the list.
         """
     )
 
