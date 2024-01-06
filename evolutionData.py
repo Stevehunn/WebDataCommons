@@ -4,6 +4,13 @@ import pandas as pd
 import streamlit as st
 
 
+# Convert "new" to empty
+def convert_to_numeric(value):
+    try:
+        return float(value)
+    except ValueError:
+        return float("inf")
+
 def content_evolutionData():
     # Load JSON file
     with open('dataEvolution/evolutionDataPerTypeFixed.json', 'r') as file:
@@ -26,24 +33,17 @@ def content_evolutionData():
     st.write("## Comparison dataframe between the years 2022 and 2023")
     df_rows = []
     for resultats in data:
-        if resultats.get('percentage_count_evolution') == "new":
-            resultats['percentage_count_evolution'] = 'Inf'
-        if resultats.get('percentage_average_evolution') == "new":
-            resultats['percentage_average_evolution'] = 'Inf'
-        if resultats.get('percentage_coverage_evolution') == "new":
-            resultats['percentage_coverage_evolution'] = 'Inf'
         df_rows.append({
             "Name": resultats.get('type'),
             "Count 2022": resultats.get('count_before'),
             "Count 2023": resultats.get('count_after'),
-            "Percentage count evolution": resultats['percentage_count_evolution'],
-
+            "Percentage count evolution": convert_to_numeric(resultats['percentage_count_evolution']),
             "Average 2022": resultats.get('average_before'),
             "Average 2023": resultats.get('average_after'),
-            "Percentage average evolution": resultats.get('percentage_average_evolution'),
+            "Percentage average evolution":convert_to_numeric(resultats['percentage_average_evolution']),
             "Coverage 2022": resultats.get('coverage_before'),
             "Coverage 2023": resultats.get('coverage_after'),
-            "Percentage coverage evolution": resultats.get('percentage_coverage_evolution')
+            "Percentage coverage evolution": convert_to_numeric(resultats['percentage_coverage_evolution'])
         })
 
     # Create the DataFrame from the constructed list
