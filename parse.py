@@ -29,3 +29,11 @@ def setLink(namekey, selectcol, filename: str) -> str:
     filename = filename.replace("before.svg", "")
     filename = filename.replace("after.svg", "")
     return 'https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/newData/' + namekey + '/' + filename + '.json'
+
+
+def setLinkSchema(selectcol, filename: str) -> str:
+    filename = filename.replace("complet", "")
+    filename = filename.replace(selectcol, "")
+    filename = filename.replace("before.svg", "")
+    filename = filename.replace("after.svg", "")
+    return "https://Schema.org/" + filename

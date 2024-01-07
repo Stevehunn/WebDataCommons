@@ -37,6 +37,12 @@ def content_comparison(target_classes):
     # Selectbox Graph
     graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
     select = st.selectbox("", graphDispo)
+
+    # Button to show raw json file of the evolutionDataPerType
+    st.link_button("Show raw json file",
+                   'https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/dataEvolution/evolutionDataPerTypeFixed.json')
+
+    # Display Graph
     if select == "Count":
         count(resultats, result)
     if select == "Average":
@@ -45,10 +51,6 @@ def content_comparison(target_classes):
         coverage(resultats, result)
     if select == "Global evolution":
         percentage(resultats, result)
-
-    # Button to show raw json file of the evolutionDataPerType
-    st.link_button("Show raw json file",
-                   'https://raw.githubusercontent.com/Stevehunn/WebDataCommonsStreamlit/main/dataEvolution/evolutionDataPerTypeFixed.json')
 
     # Data Table Poster
     values = [['<b>Count</b>', '<b>Average</b>', '<b>Coverage</b>'],  # 1st col
