@@ -41,7 +41,7 @@ def item_generator(json_input, lookup_key, depth=None):
             yield from item_generator(item, lookup_key, depth)
 
 
-def data_count(withintangible, subdir: str):
+def data_count(with_intangible, subdir: str):
     path = "dataCount/ClassCount" + subdir + ".json"
 
     data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
@@ -53,7 +53,7 @@ def data_count(withintangible, subdir: str):
         nodelist = []
         print(nodelist)
         for generation, parent in item_list:
-            if withintangible is False:
+            if with_intangible is False:
                 if "schema:Intangible" in json.dumps(parent):
                     continue
                 if parent.get("value") is None:
