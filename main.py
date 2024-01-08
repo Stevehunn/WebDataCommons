@@ -3,13 +3,13 @@ from streamlit_option_menu import option_menu
 
 # Import Content Page
 from comparison import content_comparison
-from dataCount import dataCount
+from dataCount import data_count
+from delete import content_delete_svg
 from evolutionData import content_evolutionData
 from parse import get_plot_name, get_name_from_json
 from welcome import content_welcome
 from year2022 import content_2022
 from year2023 import content_2023
-from delete import content_delete_svg
 
 
 def main():
@@ -40,12 +40,12 @@ def main():
     get_name_from_json(target_classes_available_before, "before")
 
     # Data before
-    data_plotly_sunburst_before = dataCount(False, True)
-    data_plotly_treemap_before = dataCount(True, True)
+    data_plotly_sunburst_before = data_count(False, "Before")
+    data_plotly_treemap_before = data_count(True, "Before")
 
     # Data after
-    data_plotly_sunburst_after = dataCount(False, False)
-    data_plotly_treemap_after = dataCount(True, False)
+    data_plotly_sunburst_after = data_count(False, "After")
+    data_plotly_treemap_after = data_count(True, "After")
 
     # Display custom CSS
     st.markdown(custom_css, unsafe_allow_html=True)

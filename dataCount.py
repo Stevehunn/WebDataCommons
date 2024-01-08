@@ -8,11 +8,21 @@ class Node:
         self.parent = parent
         self.value: float = float(value)
         self.quality: float = float(quality)
+        self.children = []
 
     def __eq__(self, value) -> bool:
         if isinstance(value, Node):
             return self.id == value.id
         return False
+
+    def add_child(self, child):
+        self.children.append(child)
+
+    def get_total_value(self):
+        total_value = self.value
+        for child in self.children:
+            total_value += child.get_total_value()
+        return total_value
 
     def __repr__(self) -> str:
         return self.id
@@ -31,11 +41,8 @@ def item_generator(json_input, lookup_key, depth=None):
             yield from item_generator(item, lookup_key, depth)
 
 
-def dataCount(withintangible, before):
-    if before is True:
-        path = "dataCount/ClassCountBefore.json"
-    else:
-        path = "dataCount/ClassCountAfter.json"
+def data_count(withintangible, subdir: str):
+    path = "dataCount/ClassCount" + subdir + ".json"
 
     data_plotly_sunburst = {"ids": [], "names": [], "parents": [], "values": [], "quality": []}
     with open(path, "r") as file:
@@ -102,11 +109,9 @@ def dataCount(withintangible, before):
     return data_plotly_sunburst
 
 
-def target_without_intangible(withintangible, before):
-    result = dataCount(withintangible, before)
-    # st.write(result)
+def target_without_intangible(withintangible, subdir: str):
+    result = data_count(withintangible, subdir)
     for i in range(0, len(result["parents"])):
         if result["parents"] != "schema:Intagible":
             target = result["names"]
-    # st.write(target)
     return target

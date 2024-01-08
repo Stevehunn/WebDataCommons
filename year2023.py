@@ -25,7 +25,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
 
     if on_target:
         st.write('Filter Activate')
-        result = target_without_intangible(False, False)
+        result = target_without_intangible(False, "After")
         select = st.selectbox("", result)
     else:
         select = st.selectbox("", target_classes)
@@ -34,7 +34,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
 
     with col1:
         st.write("## Upset Plot")
-        content_testplot(select, False,"after")
+        content_testplot(select, False, "after")
 
     with col2:
         st.write("## Treemap")

@@ -17,17 +17,17 @@ def content_comparison(target_classes):
 
     if on_target:
         st.write('Filter Activate')
-        result = target_without_intangible(False, True)
+        result = target_without_intangible(False, "Before")
         select = st.selectbox("", result)
     else:
         select = st.selectbox("", target_classes)
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        content_testplot(select, True,"before")
+        content_testplot(select, True, "before")
 
     with coll2:
-        content_testplot(select, False,"after")
+        content_testplot(select, False, "after")
 
     # Get Data from dataEvolution
     result = select.split(":")[1]

@@ -24,7 +24,7 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
     on_target = st.toggle('IF filter is activate, schema Intangible and his child will be exclude', key="on_target")
     if on_target:
         st.write('Filter Activate')
-        result = target_without_intangible(False, True)
+        result = target_without_intangible(False, "Before")
         select = st.selectbox("", result)
     else:
         select = st.selectbox("", target_classes)
@@ -32,7 +32,7 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
     col1, col2 = st.columns(2)
     with col1:
         st.write("## Upset Plot")
-        content_testplot(select, True,"before")
+        content_testplot(select, True, "before")
 
     with col2:
         st.write("## Treemap")
