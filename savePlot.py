@@ -10,11 +10,11 @@ from upsetplot import plot
 def save_all_plot():
     for subdir in ("before", "after"):
         for file in glob.glob(f"newData/{subdir}/*.json"):
-            cheminImageComplet = f'./svgComplet/{file.replace("\\", "/").split("/")[-1].replace(".json", "")}{subdir}complet.svg'
+            chemin_image_complet = f'./svgComplet/{file.replace("\\", "/").split("/")[-1].replace(".json", "")}{subdir}complet.svg'
             with open(file, 'r') as f:
                 data_dict = json.load(f)
             if len(data_dict) != 0:
-                if os.path.exists(cheminImageComplet):
+                if os.path.exists(chemin_image_complet):
                     pass
                 else:
                     # get all labels
@@ -33,7 +33,7 @@ def save_all_plot():
                         df_up_all[i] = count_column[i]
 
                     plot(df_up_all, orientation='horizontal')
-                    plt.savefig(cheminImageComplet)
+                    plt.savefig(chemin_image_complet)
                     plt.close()
             else:
                 pass

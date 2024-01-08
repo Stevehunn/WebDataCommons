@@ -32,7 +32,7 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
     col1, col2 = st.columns(2)
     with col1:
         st.write("## Upset Plot")
-        content_testplot(select, True)
+        content_testplot(select, True,"before")
 
     with col2:
         st.write("## Treemap")

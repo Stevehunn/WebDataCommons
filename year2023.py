@@ -34,7 +34,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
 
     with col1:
         st.write("## Upset Plot")
-        content_testplot(select, False)
+        content_testplot(select, False,"after")
 
     with col2:
         st.write("## Treemap")

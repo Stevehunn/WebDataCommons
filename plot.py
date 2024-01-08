@@ -10,31 +10,27 @@ from upsetplot import plot
 from parse import setLink, setLinkSchema
 
 
-def content_testplot(target_select, before):
+def content_testplot(target_select, before, subdir: str):
     row = ["10", "15", "20", "30", "40", "50", "all"]
-    if before is True:
-        namekey = "before"
-    else:
-        namekey = "after"
-    selectrow = st.selectbox("Select the number of column to display", row, index=0, key=namekey)
+    select_column = st.selectbox("Select the number of column to display", row, index=0, key=subdir)
     result = target_select.split(":")[1]
     if before is True:
-        cheminTarget = './newData/before/' + result + '.json'
-        cheminImage = './tempSvg/' + selectrow + result + "before.svg"
-        cheminImageComplet = './tempSvg/' + result + "beforecomplet.svg"
+        chemin_target = './newData/before/' + result + '.json'
+        chemin_image = './tempSvg/' + select_column + result + "before.svg"
+        chemin_image_complet = './tempSvg/' + result + "beforecomplet.svg"
     else:
-        cheminTarget = './newData/after/' + result + '.json'
-        cheminImage = './tempSvg/' + selectrow + result + "after.svg"
-        cheminImageComplet = './tempSvg/' + result + "aftercomplet.svg"
+        chemin_target = './newData/after/' + result + '.json'
+        chemin_image = './tempSvg/' + select_column + result + "after.svg"
+        chemin_image_complet = './tempSvg/' + result + "aftercomplet.svg"
 
-    with open(cheminTarget, 'r') as f:
+    with open(chemin_target, 'r') as f:
         data_dict = json.load(f)
     if len(data_dict) != 0:
-        if os.path.exists(cheminImage) and selectrow != "all":
+        if os.path.exists(chemin_image) and select_column != "all":
             col1, col2, col3 = st.columns(3)
             with col1:
-                filename1 = cheminImage.replace('./tempSvg/', '')
-                with open(cheminImage, "rb") as f:
+                filename1 = chemin_image.replace('./tempSvg/', '')
+                with open(chemin_image, "rb") as f:
                     contenu = f.read()
                 f.close()
                 st.markdown(
@@ -42,26 +38,26 @@ def content_testplot(target_select, before):
                     unsafe_allow_html=True, )
 
             with col2:
-                filename2 = cheminImage.replace('./tempSvg/', '')
-                with open(cheminImage, "rb") as f:
+                filename2 = chemin_image.replace('./tempSvg/', '')
+                with open(chemin_image, "rb") as f:
                     contenu = f.read()
                 f.close()
-                link = setLink(namekey, selectrow, filename2)
+                link = setLink(subdir, select_column, filename2)
                 st.link_button("Show raw json file of this plot", link)
 
             with col3:
-                filename2 = cheminImage.replace('./tempSvg/', '')
-                link = setLinkSchema(selectrow, filename2)
+                filename2 = chemin_image.replace('./tempSvg/', '')
+                link = setLinkSchema(select_column, filename2)
                 st.link_button("Access to Schema.org for this Type", link)
 
-            st.image(cheminImage)
+            st.image(chemin_image)
             return
 
-        if os.path.exists(cheminImageComplet) and selectrow == "all":
+        if os.path.exists(chemin_image_complet) and select_column == "all":
             col1, col2, col3 = st.columns(3)
             with col1:
-                filename1 = cheminImageComplet.replace('./tempSvg/', '')
-                with open(cheminImageComplet, "rb") as f:
+                filename1 = chemin_image_complet.replace('./tempSvg/', '')
+                with open(chemin_image_complet, "rb") as f:
                     contenu = f.read()
                 f.close()
                 st.markdown(
@@ -69,18 +65,18 @@ def content_testplot(target_select, before):
                     unsafe_allow_html=True, )
 
             with col2:
-                filename2 = cheminImageComplet.replace('./tempSvg/', '')
-                with open(cheminImageComplet, "rb") as f:
+                filename2 = chemin_image_complet.replace('./tempSvg/', '')
+                with open(chemin_image_complet, "rb") as f:
                     contenu = f.read()
                 # f.close()
-                link = setLink(namekey, selectrow, filename2)
+                link = setLink(subdir, select_column, filename2)
                 st.link_button("Show raw json file of this plot", link)
             with col3:
-                filename2 = cheminImage.replace('./tempSvg/', '')
-                link = setLinkSchema(selectrow, filename2)
+                filename2 = chemin_image.replace('./tempSvg/', '')
+                link = setLinkSchema(select_column, filename2)
                 st.link_button("Access to Schema.org for this Type", link)
 
-            st.image(cheminImageComplet)
+            st.image(chemin_image_complet)
             return
 
         else:
@@ -93,8 +89,8 @@ def content_testplot(target_select, before):
             df = pd.DataFrame([[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict],
                               columns=list_labels + ["count"])
             count_column = df.pop("count")
-            if selectrow != "all":
-                select = int(selectrow)
+            if select_column != "all":
+                select = int(select_column)
                 df_reduce = df.head(select)
                 column_to_remove = list()
                 for column in df_reduce.columns:
@@ -114,13 +110,13 @@ def content_testplot(target_select, before):
                     df_up[i] = count_column[i]
 
                 plot(df_up, orientation='horizontal')
-                plt.savefig(cheminImage)
+                plt.savefig(chemin_image)
                 plt.close()
 
                 col1, col2, col3 = st.columns(3)
                 with col1:
-                    filename1 = cheminImage.replace('./tempSvg/', '')
-                    with open(cheminImage, "rb") as f:
+                    filename1 = chemin_image.replace('./tempSvg/', '')
+                    with open(chemin_image, "rb") as f:
                         contenu = f.read()
                     f.close()
                     st.markdown(
@@ -128,18 +124,18 @@ def content_testplot(target_select, before):
                         unsafe_allow_html=True, )
 
                 with col2:
-                    filename2 = cheminImage.replace('./tempSvg/', '')
-                    with open(cheminImage, "rb") as f:
+                    filename2 = chemin_image.replace('./tempSvg/', '')
+                    with open(chemin_image, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    link = setLink(namekey, selectrow, filename2)
+                    link = setLink(subdir, select_column, filename2)
                     st.link_button("Show raw json file of this plot", link)
                 with col3:
-                    filename2 = cheminImage.replace('./tempSvg/', '')
-                    link = setLinkSchema(selectrow, filename2)
+                    filename2 = chemin_image.replace('./tempSvg/', '')
+                    link = setLinkSchema(select_column, filename2)
                     st.link_button("Access to Schema.org for this Type", link)
 
-                st.image(cheminImage)
+                st.image(chemin_image)
 
             else:
                 # ----------Save and Show all the dataframe------------------
@@ -149,13 +145,13 @@ def content_testplot(target_select, before):
                     df_up_all[i] = count_column[i]
 
                 plot(df_up_all, orientation='horizontal')
-                plt.savefig(cheminImageComplet)
+                plt.savefig(chemin_image_complet)
                 plt.close()
 
                 col1, col2, col3 = st.columns(3)
                 with col1:
-                    filename1 = cheminImageComplet.replace('./tempSvg/', '')
-                    with open(cheminImageComplet, "rb") as f:
+                    filename1 = chemin_image_complet.replace('./tempSvg/', '')
+                    with open(chemin_image_complet, "rb") as f:
                         contenu = f.read()
                     f.close()
                     st.markdown(
@@ -163,16 +159,16 @@ def content_testplot(target_select, before):
                         unsafe_allow_html=True, )
 
                 with col2:
-                    filename2 = cheminImageComplet.replace('./tempSvg/', '')
-                    with open(cheminImageComplet, "rb") as f:
+                    filename2 = chemin_image_complet.replace('./tempSvg/', '')
+                    with open(chemin_image_complet, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    link = setLink(namekey, selectrow, filename2)
+                    link = setLink(namekey, select_column, filename2)
                     st.link_button("Show raw json file of this plot", link)
                 with col3:
-                    filename2 = cheminImage.replace('./tempSvg/', '')
-                    link = setLinkSchema(selectrow, filename2)
+                    filename2 = chemin_image.replace('./tempSvg/', '')
+                    link = setLinkSchema(select_column, filename2)
                     st.link_button("Access to Schema.org for this Type", link)
-                st.image(cheminImageComplet)
+                st.image(chemin_image_complet)
     else:
         st.write("The file you selected is not available")

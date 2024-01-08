@@ -24,10 +24,10 @@ def content_comparison(target_classes):
 
     coll1, coll2 = st.columns(2)
     with coll1:
-        content_testplot(select, True)
+        content_testplot(select, True,"before")
 
     with coll2:
-        content_testplot(select, False)
+        content_testplot(select, False,"after")
 
     # Get Data from dataEvolution
     result = select.split(":")[1]
@@ -56,19 +56,19 @@ def content_comparison(target_classes):
     values = [['<b>Count</b>', '<b>Average</b>', '<b>Coverage</b>'],  # 1st col
               # 2nd col
               [
-                  resultats.get('count_before'),
-                  resultats.get('average_before'),
-                  resultats.get('coverage_before')],
+                  resultats['count_before'],
+                  resultats['average_before'],
+                  resultats['coverage_before']],
               # 3rd col
               [
-                  resultats.get('percentage_count_evolution'),
-                  resultats.get('percentage_average_evolution'),
-                  resultats.get('percentage_coverage_evolution')],
+                  resultats['percentage_count_evolution'],
+                  resultats['percentage_average_evolution'],
+                  resultats['percentage_coverage_evolution']],
               # 4th col
               [
-                  resultats.get('count_after'),
-                  resultats.get('average_after'),
-                  resultats.get('coverage_after')]
+                  resultats['count_after'],
+                  resultats['average_after'],
+                  resultats['coverage_after']]
               ]
 
     fig = go.Figure(data=[go.Table(
@@ -105,7 +105,7 @@ def content_comparison(target_classes):
 def data_for_type(type_to_find):
     # Load JSON file
     with open('dataEvolution/evolutionDataPerTypeFixed.json', 'r') as file:
-        dataFile = json.load(file)
+        data_file = json.load(file)
 
     # Type you are looking for
     type_recherche = "isa:<schema.org/" + type_to_find + ">"
@@ -114,7 +114,7 @@ def data_for_type(type_to_find):
     result = {}
 
     # Find the specific type in the data
-    for metric in dataFile:
+    for metric in data_file:
         if metric['type'] == type_recherche:
             # Show metric type
             result["Type"] = metric['type']
