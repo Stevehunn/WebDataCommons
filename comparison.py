@@ -83,8 +83,7 @@ def content_comparison(target_classes):
             line_color='darkslategray',
             fill_color='royalblue',
             align=['left', 'center'],
-            font=dict(color='white', size=12),
-            height=40
+            font=dict(color='white', size=12)
         ),
         cells=dict(
             values=values,

@@ -17,12 +17,10 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
         You can select any type described by Schema.org here and generate an Upsetplot of it. You can also select the number of characteristic sets show in this plot.
 
         PS: Generating upserplots can take some time (minutes) and more specifically when you generate all property combinations.
-
-        Trigger this button to filter out Intangibles from the list.
         """
     )
 
-    on_target = st.toggle('IF filter is activate, schema Intangible and his child will be exclude', key="on_target")
+    on_target = st.toggle('Trigger this button to filter out Intangibles from the list.', key="on_target")
 
     if on_target:
         st.write('Filter Activate')
@@ -45,7 +43,7 @@ def content_2023(data_plotly_sunburst, data_plotly_treemap, target_classes):
             click = st.button("Show global Treemap")
 
         with colo2:
-            on = st.toggle('IF filter is activate, schema Intangible and his child will be exclude')
+            on = st.toggle('Trigger this button to filter out Intangibles from the Treemap.')
         filter_intangible = False
         if on:
             st.write('Filter Activate')
