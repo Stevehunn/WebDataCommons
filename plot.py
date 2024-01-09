@@ -10,6 +10,15 @@ from upsetplot import plot
 from parse import setLink, setLinkSchema
 
 
+# Fonction pour générer le téléchargement
+def download_button(chemin_image, filename1):
+    with open(chemin_image, "rb") as f:
+        contenu = f.read()
+    base64_content = base64.b64encode(contenu).decode()
+    href = f'data:application/octet-stream;base64,{base64_content}'
+    return href, filename1
+
+
 def content_testplot(target_select, before, subdir: str):
     row = ["10", "15", "20", "30", "40", "50", "all"]
     select_column = st.selectbox("Select the number of column to display", row, index=0, key=subdir)
@@ -33,9 +42,15 @@ def content_testplot(target_select, before, subdir: str):
                 with open(chemin_image, "rb") as f:
                     contenu = f.read()
                 f.close()
-                st.markdown(
-                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                    unsafe_allow_html=True, )
+                # st.markdown(
+                #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                #    unsafe_allow_html=True, )
+
+                # Create a button with a callback for download
+                if st.button("Download the plot"):
+                    href, download_filename = download_button(chemin_image, filename1)
+                    st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
+                                unsafe_allow_html=True)
 
             with col2:
                 filename2 = chemin_image.replace('./tempSvg/', '')
@@ -60,9 +75,15 @@ def content_testplot(target_select, before, subdir: str):
                 with open(chemin_image_complet, "rb") as f:
                     contenu = f.read()
                 f.close()
-                st.markdown(
-                    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                    unsafe_allow_html=True, )
+                # st.markdown(
+                #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                #    unsafe_allow_html=True, )
+
+                # Create a button with a callback for download
+                if st.button("Download the plot"):
+                    href, download_filename = download_button(chemin_image_complet, filename1)
+                    st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
+                                unsafe_allow_html=True)
 
             with col2:
                 filename2 = chemin_image_complet.replace('./tempSvg/', '')
@@ -119,9 +140,15 @@ def content_testplot(target_select, before, subdir: str):
                     with open(chemin_image, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    st.markdown(
-                        f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                        unsafe_allow_html=True, )
+                    # st.markdown(
+                    #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                    #    unsafe_allow_html=True, )
+
+                    # Create a button with a callback for download
+                    if st.button("Download the plot"):
+                        href, download_filename = download_button(chemin_image, filename1)
+                        st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
+                                    unsafe_allow_html=True)
 
                 with col2:
                     filename2 = chemin_image.replace('./tempSvg/', '')
@@ -154,16 +181,21 @@ def content_testplot(target_select, before, subdir: str):
                     with open(chemin_image_complet, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    st.markdown(
-                        f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                        unsafe_allow_html=True, )
+                    # st.markdown(
+                    #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
+                    #    unsafe_allow_html=True, )
+                    # Create a button with a callback for download
+                    if st.button("Download the plot"):
+                        href, download_filename = download_button(chemin_image_complet, filename1)
+                        st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
+                                    unsafe_allow_html=True)
 
                 with col2:
                     filename2 = chemin_image_complet.replace('./tempSvg/', '')
                     with open(chemin_image_complet, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    link = setLink(namekey, select_column, filename2)
+                    link = setLink(subdir, select_column, filename2)
                     st.link_button("Show raw json file of this plot", link)
                 with col3:
                     filename2 = chemin_image.replace('./tempSvg/', '')
