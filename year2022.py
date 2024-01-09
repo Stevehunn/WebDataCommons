@@ -2,6 +2,7 @@ import streamlit as st
 
 # Import Content Page
 from dataCount import target_without_intangible
+from dataEvolution import content_data_evolution
 from footer import content_footer
 from plot import content_testplot
 from treemap import content_treemap
@@ -49,5 +50,8 @@ def content_2022(data_plotly_sunburst, data_plotly_treemap, target_classes):
             filter_intangible = True
         # Generates a treemap and display it
         content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst, select, click)
+
+    # Display table for the year 2022
+    content_data_evolution(select, "before")
 
     content_footer()

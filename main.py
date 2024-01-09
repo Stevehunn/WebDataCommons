@@ -1,11 +1,11 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
+from allDataDisplay import content_all_data_display
 # Import Content Page
 from comparison import content_comparison
 from dataCount import data_count
 from delete import content_delete_svg
-from evolutionData import content_evolutionData
 from parse import get_plot_name, get_name_from_json
 from welcome import content_welcome
 from year2022 import content_2022
@@ -69,7 +69,7 @@ def main():
     if selected_tab == "Comparison between the two dataset":
         content_comparison(target_classes_available_before)
     if selected_tab == "Evolution of data per Type":
-        content_evolutionData()
+        content_all_data_display()
 
 
 # Run the app

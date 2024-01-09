@@ -24,15 +24,18 @@ def content_comparison(target_classes):
 
     coll1, coll2 = st.columns(2)
     with coll1:
+        st.header("Data 2022")
         content_testplot(select, True, "before")
 
     with coll2:
+        st.header("Data 2023")
         content_testplot(select, False, "after")
 
     # Get Data from dataEvolution
     result = select.split(":")[1]
     type_recherche = result
     resultats = data_for_type(type_recherche)
+    st.subheader("Comparison between the different metric")
 
     # Selectbox Graph
     graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
