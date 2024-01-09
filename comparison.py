@@ -35,7 +35,7 @@ def content_comparison(target_classes):
     result = select.split(":")[1]
     type_recherche = result
     resultats = data_for_type(type_recherche)
-    st.subheader("Comparison between the different metric")
+    st.subheader("Comparison between the different metrics")
 
     # Selectbox Graph
     graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
