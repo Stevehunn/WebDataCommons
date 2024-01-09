@@ -42,12 +42,8 @@ def content_testplot(target_select, before, subdir: str):
                 with open(chemin_image, "rb") as f:
                     contenu = f.read()
                 f.close()
-                # st.markdown(
-                #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                #    unsafe_allow_html=True, )
-
                 # Create a button with a callback for download
-                if st.button("Download the plot"):
+                if st.button("Download the plot", key="download"+subdir):
                     href, download_filename = download_button(chemin_image, filename1)
                     st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
                                 unsafe_allow_html=True)
@@ -75,12 +71,8 @@ def content_testplot(target_select, before, subdir: str):
                 with open(chemin_image_complet, "rb") as f:
                     contenu = f.read()
                 f.close()
-                # st.markdown(
-                #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                #    unsafe_allow_html=True, )
-
                 # Create a button with a callback for download
-                if st.button("Download the plot"):
+                if st.button("Download the plot", key="download"+subdir):
                     href, download_filename = download_button(chemin_image_complet, filename1)
                     st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
                                 unsafe_allow_html=True)
@@ -140,12 +132,8 @@ def content_testplot(target_select, before, subdir: str):
                     with open(chemin_image, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    # st.markdown(
-                    #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                    #    unsafe_allow_html=True, )
-
                     # Create a button with a callback for download
-                    if st.button("Download the plot"):
+                    if st.button("Download the plot", key="download" + subdir):
                         href, download_filename = download_button(chemin_image, filename1)
                         st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
                                     unsafe_allow_html=True)
@@ -181,11 +169,8 @@ def content_testplot(target_select, before, subdir: str):
                     with open(chemin_image_complet, "rb") as f:
                         contenu = f.read()
                     f.close()
-                    # st.markdown(
-                    #    f'<a href="data:application/octet-stream;base64,{base64.b64encode(contenu).decode()}" download="{filename1}">Download plot</a>',
-                    #    unsafe_allow_html=True, )
                     # Create a button with a callback for download
-                    if st.button("Download the plot"):
+                    if st.button("Download the plot", key="download" + subdir):
                         href, download_filename = download_button(chemin_image_complet, filename1)
                         st.markdown(f'<a href="{href}" download="{download_filename}">Click here to download</a>',
                                     unsafe_allow_html=True)
