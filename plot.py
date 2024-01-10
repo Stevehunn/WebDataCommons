@@ -1,12 +1,12 @@
 import base64
 import json
 import os.path
-
 import pandas as pd
 import streamlit as st
 from matplotlib import pyplot as plt
 from upsetplot import plot
 
+# Import Content Page
 from parse import setLink, setLinkSchema
 
 

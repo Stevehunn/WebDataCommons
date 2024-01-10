@@ -1,9 +1,10 @@
 import glob
 import json
 import os
-
 import pandas as pd
 from matplotlib import pyplot as plt
+
+# Import Content Page
 from upsetplot import plot
 
 

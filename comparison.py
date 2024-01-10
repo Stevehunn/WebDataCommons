@@ -3,9 +3,9 @@ import json
 import plotly.graph_objects as go
 import streamlit as st
 
+# Import Content Page
 from chart import count, coverage, average, percentage
 from dataCount import target_without_intangible
-# Import Content Page
 from plot import content_testplot
 
 

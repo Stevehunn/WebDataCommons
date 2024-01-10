@@ -18,7 +18,7 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
             qual = row['quality']
             ids = row['ids']
             if parent_name == select:
-                print("entree")
+                #print("entree")
                 parents_d = 1
                 dd_data_plotly_sunburst["parents"].append(parent_name)
                 dd_data_plotly_sunburst["names"].append(name)
@@ -50,7 +50,7 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
                     color_continuous_midpoint=np.average(dd_data_plotly_sunburst['quality'])
                 )
             else:
-                print(dd_data_plotly_sunburst)
+                #print(dd_data_plotly_sunburst)
                 fig_all_data = px.treemap(
                     dd_data_plotly_sunburst,
                     ids="ids",
@@ -72,7 +72,6 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
             qual = row['quality']
             ids = row['ids']
             if parent_name == select:
-                print("entree")
                 parents_d = 1
                 dd_data_plotly_sunburst["parents"].append(parent_name)
                 dd_data_plotly_sunburst["names"].append(name)
@@ -103,7 +102,7 @@ def content_treemap(filter_intangible, data_plotly_treemap, data_plotly_sunburst
                     color_continuous_scale='RdBu',
                     color_continuous_midpoint=np.average(data_plotly_treemap['quality']))
             else:
-                print(dd_data_plotly_sunburst)
+                #print(dd_data_plotly_sunburst)
                 fig_all_data = px.treemap(
                     dd_data_plotly_sunburst,
                     ids="ids",

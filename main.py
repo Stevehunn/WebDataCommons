@@ -1,8 +1,8 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
-from allDataDisplay import content_all_data_display
 # Import Content Page
+from allDataDisplay import content_all_data_display
 from comparison import content_comparison
 from dataCount import data_count
 from delete import content_delete_svg

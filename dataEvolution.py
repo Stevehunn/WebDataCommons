@@ -1,6 +1,7 @@
 import plotly.graph_objects as go
 import streamlit as st
 
+# Import Content Page
 from comparison import data_for_type
 
 
