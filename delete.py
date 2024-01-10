@@ -5,7 +5,10 @@ def content_delete_svg():
     directory = "tempSvg/"
     elements_to_keep = ["10Productafter.svg", "10Productbefore.svg", "15Productafter.svg", "15Productbefore.svg",
                         "20Productafter.svg", "20Productbefore.svg", "30Productafter.svg", "30Productbefore.svg",
-                        "40Productafter.svg", "40Productbefore.svg", "50Productafter.svg", "50Productbefore.svg"]
+                        "40Productafter.svg", "40Productbefore.svg", "50Productafter.svg", "50Productbefore.svg",
+                        "10Recipeafter.svg", "10Recipebefore.svg", "15Recipeafter.svg", "15Recipebefore.svg",
+                        "20Recipeafter.svg", "20Recipebefore.svg", "30Recipeafter.svg", "30Recipebefore.svg",
+                        "40Recipeafter.svg", "40Recipebefore.svg", "50Recipeafter.svg", "50Recipebefore.svg"]
     try:
         # List of all files and folders in the directory
         content_dossier = os.listdir(directory)

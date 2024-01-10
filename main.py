@@ -57,9 +57,6 @@ def main():
             options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset",
                      "Evolution of data per Type"],
         )
-        if st.button("Delete previous Upsetplot", type="primary"):
-            content_delete_svg()
-            st.write("Previous Upsetplot remove")
     if selected_tab == "Welcome page":
         content_welcome()
     if selected_tab == "Data from 2022":

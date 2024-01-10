@@ -34,16 +34,16 @@ def average(resultats, result):
         'Average properties count': [resultats['average_before'], resultats['average_after']]
     }
 
-    # Créer un DataFrame à partir des données avec un index explicite
+    # Create a DataFrame from data with an explicit index
     df = pd.DataFrame(data, index=['average_before', 'average_after'])
 
-    # Créer un graphique à barres
+    # Create a bar chart
     fig = px.bar(df, x=df.index, y='Average properties count', text='Average properties count',
                  title='Chart of the evolution: Average')
 
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
+    # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
+    # Show chart
     st.plotly_chart(fig, use_container_width=True)
     pass
 
@@ -57,16 +57,16 @@ def coverage(resultats, result):
         'Filling rate between 0 and 1': [resultats['coverage_before'], resultats['coverage_after']]
     }
 
-    # Créer un DataFrame à partir des données avec un index explicite
+    # Create a DataFrame from data with an explicit index
     df = pd.DataFrame(data, index=['coverage_before', 'coverage_after'])
 
-    # Créer un graphique à barres
+    # Create a bar chart
     fig = px.bar(df, x=df.index, y='Filling rate between 0 and 1', text='Filling rate between 0 and 1',
                  title='Chart of the evolution: Coverage')
 
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
+    # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
+    # Show chart
     st.plotly_chart(fig, use_container_width=True)
     pass
 
@@ -82,15 +82,15 @@ def percentage(resultats, result):
                            resultats['percentage_coverage_evolution']]
     }
 
-    # Créer un DataFrame à partir des données avec un index explicite
+    # Create a DataFrame from data with an explicit index
     df = pd.DataFrame(data, index=['percentage_count_evolution', 'percentage_average_evolution',
                                    'percentage_coverage_evolution'])
 
-    # Créer un graphique à barres
+    # Create a bar chart
     fig = px.bar(df, x=df.index, y='Evolution in %', text='Evolution in %', title='Chart of the evolution: Percentage')
 
-    # Mettre en forme les étiquettes sur l'axe y avec deux chiffres après la virgule
+    # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
-    # Afficher le graphique
+    # Show chart
     st.plotly_chart(fig, use_container_width=True)
     pass

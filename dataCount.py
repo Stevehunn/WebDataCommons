@@ -40,7 +40,7 @@ def item_generator(json_input, lookup_key, depth=None):
         for item in json_input:
             yield from item_generator(item, lookup_key, depth)
 
-
+#Get Data from dataCount and organize them
 def data_count(with_intangible, subdir: str):
     path = "dataCount/ClassCount" + subdir + ".json"
 
@@ -108,7 +108,7 @@ def data_count(with_intangible, subdir: str):
     file.close()
     return data_plotly_sunburst
 
-
+# Get list of type without intangible and his children
 def target_without_intangible(withintangible, subdir: str):
     result = data_count(withintangible, subdir)
     for i in range(0, len(result["parents"])):

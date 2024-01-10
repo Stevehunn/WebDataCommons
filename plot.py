@@ -10,7 +10,7 @@ from upsetplot import plot
 from parse import setLink, setLinkSchema
 
 
-# Fonction pour générer le téléchargement
+# Function to generate download
 def download_button(chemin_image, filename1):
     with open(chemin_image, "rb") as f:
         contenu = f.read()
@@ -35,6 +35,7 @@ def content_testplot(target_select, before, subdir: str):
     with open(chemin_target, 'r') as f:
         data_dict = json.load(f)
     if len(data_dict) != 0:
+        # check if the type select already have this upsetplot for the select_column choose
         if os.path.exists(chemin_image) and select_column != "all":
             col1, col2, col3 = st.columns(3)
             with col1:
@@ -63,7 +64,7 @@ def content_testplot(target_select, before, subdir: str):
 
             st.image(chemin_image)
             return
-
+        # check if the type select already have the complete upsetplot generate
         if os.path.exists(chemin_image_complet) and select_column == "all":
             col1, col2, col3 = st.columns(3)
             with col1:
@@ -81,7 +82,7 @@ def content_testplot(target_select, before, subdir: str):
                 filename2 = chemin_image_complet.replace('./tempSvg/', '')
                 with open(chemin_image_complet, "rb") as f:
                     contenu = f.read()
-                # f.close()
+                f.close()
                 link = setLink(subdir, select_column, filename2)
                 st.link_button("Show raw json file of this plot", link)
             with col3:
@@ -92,6 +93,7 @@ def content_testplot(target_select, before, subdir: str):
             st.image(chemin_image_complet)
             return
 
+        # Generate the type select
         else:
             # get all labels
             labels = set()
@@ -102,6 +104,7 @@ def content_testplot(target_select, before, subdir: str):
             df = pd.DataFrame([[e in item["pset"] for e in list_labels] + [item["count"]] for item in data_dict],
                               columns=list_labels + ["count"])
             count_column = df.pop("count")
+            # Generate upsetplot for a specific select_column
             if select_column != "all":
                 select = int(select_column)
                 df_reduce = df.head(select)
@@ -152,6 +155,7 @@ def content_testplot(target_select, before, subdir: str):
 
                 st.image(chemin_image)
 
+            # Generate upsetplot with all characteristic set
             else:
                 # ----------Save and Show all the dataframe------------------
                 df_up_all = df.groupby(list_labels).value_counts()
@@ -187,5 +191,6 @@ def content_testplot(target_select, before, subdir: str):
                     link = setLinkSchema(select_column, filename2)
                     st.link_button("Access to Schema.org for this Type", link)
                 st.image(chemin_image_complet)
+    # the file have no data in it
     else:
         st.write("The file you selected is not available")

@@ -121,7 +121,7 @@ def data_for_type(type_to_find):
             # Show metric type
             result["Type"] = metric['type']
 
-            # Store other metrics and their values ​​in the dictionary
+            # Store other metrics and their values in the dictionary
             for key, value in metric.items():
                 # Exclude the type, because we already stored it
                 if key != 'type':
