@@ -55,7 +55,7 @@ def main():
         selected_tab = option_menu(
             menu_title="Summary",
             options=["Welcome page", "Data from 2022", "New Data from 2023", "Comparison between the two dataset",
-                     "Evolution of data per Type"],
+                     "Variation of data per Type"],
         )
     if selected_tab == "Welcome page":
         content_welcome()
@@ -65,7 +65,7 @@ def main():
         content_2023(data_plotly_sunburst_after, data_plotly_treemap_after, target_classes_available_after)
     if selected_tab == "Comparison between the two dataset":
         content_comparison(target_classes_available_before)
-    if selected_tab == "Evolution of data per Type":
+    if selected_tab == "Variation of data per Type":
         content_all_data_display()
 
 
