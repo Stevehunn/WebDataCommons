@@ -38,13 +38,13 @@ def content_all_data_display():
             "Name": resultats.get('type'),
             "Count 2022": resultats.get('count_before'),
             "Count 2023": resultats.get('count_after'),
-            "Percentage count evolution": convert_to_numeric(resultats['percentage_count_evolution']),
+            "Percentage count variation": convert_to_numeric(resultats['percentage_count_variation']),
             "Average 2022": resultats.get('average_before'),
             "Average 2023": resultats.get('average_after'),
-            "Percentage average evolution": convert_to_numeric(resultats['percentage_average_evolution']),
+            "Percentage average variation": convert_to_numeric(resultats['percentage_average_variation']),
             "Coverage 2022": resultats.get('coverage_before'),
             "Coverage 2023": resultats.get('coverage_after'),
-            "Percentage coverage evolution": convert_to_numeric(resultats['percentage_coverage_evolution'])
+            "Percentage coverage variation": convert_to_numeric(resultats['percentage_coverage_variation'])
         })
 
     # Create the DataFrame from the constructed list
