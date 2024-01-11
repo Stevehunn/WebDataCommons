@@ -16,7 +16,7 @@ def count(resultats, result):
     df = pd.DataFrame(data, index=['count_before', 'count_after'])
     # Bar Chart
     fig = px.bar(df, x=df.index, y='Total number of this type', text='Total number of this type',
-                 title='Chart of the evolution: Count')
+                 title='Chart of the variation: Count')
 
     # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
@@ -39,7 +39,7 @@ def average(resultats, result):
 
     # Create a bar chart
     fig = px.bar(df, x=df.index, y='Average properties count', text='Average properties count',
-                 title='Chart of the evolution: Average')
+                 title='Chart of the variation: Average')
 
     # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
@@ -62,7 +62,7 @@ def coverage(resultats, result):
 
     # Create a bar chart
     fig = px.bar(df, x=df.index, y='Filling rate between 0 and 1', text='Filling rate between 0 and 1',
-                 title='Chart of the evolution: Coverage')
+                 title='Chart of the variation: Coverage')
 
     # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
@@ -77,17 +77,17 @@ def percentage(resultats, result):
     data = {
         'Type': ['isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>', 'isa:<schema.org/' + result + '>'
                  ],
-        'Metric': ['percentage_count_evolution', 'percentage_average_evolution', 'percentage_coverage_evolution'],
-        'Evolution in %': [resultats['percentage_count_evolution'], resultats['percentage_average_evolution'],
-                           resultats['percentage_coverage_evolution']]
+        'Metric': ['percentage_count_variation', 'percentage_average_variation', 'percentage_coverage_variation'],
+        'Variation in %': [resultats['percentage_count_variation'], resultats['percentage_average_variation'],
+                           resultats['percentage_coverage_variation']]
     }
 
     # Create a DataFrame from data with an explicit index
-    df = pd.DataFrame(data, index=['percentage_count_evolution', 'percentage_average_evolution',
-                                   'percentage_coverage_evolution'])
+    df = pd.DataFrame(data, index=['percentage_count_variation', 'percentage_average_variation',
+                                   'percentage_coverage_variation'])
 
     # Create a bar chart
-    fig = px.bar(df, x=df.index, y='Evolution in %', text='Evolution in %', title='Chart of the evolution: Percentage')
+    fig = px.bar(df, x=df.index, y='Variation in %', text='Variation in %', title='Chart of the variation: Percentage of Global variation')
 
     # Format labels on the y-axis with two decimal places
     fig.update_layout(yaxis=dict(tickformat=".2f"))
