@@ -38,7 +38,7 @@ def content_comparison(target_classes):
     st.subheader("Comparison between the different metrics")
 
     # Selectbox Graph
-    graphDispo = ["Global evolution", "Count", "Average", "Coverage"]
+    graphDispo = ["Global variation", "Count", "Average", "Coverage"]
     select = st.selectbox("", graphDispo)
 
     # Button to show raw json file of the evolutionDataPerType
@@ -52,7 +52,7 @@ def content_comparison(target_classes):
         average(resultats, result)
     if select == "Coverage":
         coverage(resultats, result)
-    if select == "Global evolution":
+    if select == "Global variation":
         percentage(resultats, result)
 
     # Data Table Poster
@@ -64,9 +64,9 @@ def content_comparison(target_classes):
                   resultats['coverage_before']],
               # 3rd col
               [
-                  resultats['percentage_count_evolution'],
-                  resultats['percentage_average_evolution'],
-                  resultats['percentage_coverage_evolution']],
+                  resultats['percentage_count_variation'],
+                  resultats['percentage_average_variation'],
+                  resultats['percentage_coverage_variation']],
               # 4th col
               [
                   resultats['count_after'],
@@ -78,7 +78,7 @@ def content_comparison(target_classes):
         columnorder=[1, 2, 3, 4],
         columnwidth=[20, 80, 80, 80],
         header=dict(
-            values=[[], ['<b>Data from 2022</b>'], ['<b>Percentage of Evolution</b>'],
+            values=[[], ['<b>Data from 2022</b>'], ['<b>Percentage of Variation</b>'],
                     ['<b>Data from 2023</b>']],
             line_color='darkslategray',
             fill_color='royalblue',
